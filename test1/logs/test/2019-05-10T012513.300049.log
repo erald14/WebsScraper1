@@ -1,0 +1,341 @@
+2019-05-10 01:25:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/robots.txt> (referer: None)
+2019-05-10 01:25:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q?what=Restaurant> (referer: None)
+2019-05-10 01:25:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Arosa/7050/Restaurant/Restaurant-Strandbad-8UFZVUjBAOy83vH-KZOs2g?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Arosa/7050/Restaurant/Restaurant-Strandbad-8UFZVUjBAOy83vH-KZOs2g?dwhat=Restaurant>
+{'name': '\nRestaurant Strandbad\n', 'tel': '081 377 18 93', 'email': None, 'adress': '\nNeubachstrasse 35', 'website': 'www.strandbad-arosa.ch'}
+2019-05-10 01:25:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Lenk-im-Simmental/3775/Mountain-hut/Restaurant-Berghaus-Stoss-PO1eN83aSoX8ZzSyP1OH9w?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Appenzell/9050/Restaurant/Marktplatz-PQ_ky4fVjEBkKFkk06NEtA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Lugano/6900/Restaurant/Maestri-della-Pasta-z5vgXUCgfe3IaJdaGNs-sg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Conrad-aTvtoh1k51rC0MPD332I5g?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Triengen/6234/Swiss-cuisine/Nostalgie-Restaurant-Bahnhofli-wiNASPgnr9acgzbR5o78wQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/S-Nazzaro/6575/Restaurant/Molinetto-S2iW_k8bh_bZleGVD8vbsw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Salouf/7462/Restaurant/Gasthaus-Alpina-gCeF9i9y860C0hsvnbGIgg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Lenk-im-Simmental/3775/Mountain-hut/Restaurant-Berghaus-Stoss-PO1eN83aSoX8ZzSyP1OH9w?dwhat=Restaurant>
+{'name': '\nRestaurant Berghaus Stoss\n', 'tel': '079 235 83 88', 'email': 'berghausstoss@bluewin.ch', 'adress': '\nBetelberg', 'website': 'www.berghaus-stoss.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Appenzell/9050/Restaurant/Marktplatz-PQ_ky4fVjEBkKFkk06NEtA?dwhat=Restaurant>
+{'name': '\nMarktplatz\n', 'tel': '071 787 12 04', 'email': 'info@marktplatz-appenzell.ch', 'adress': '\nKronengarten 2', 'website': 'www.marktplatz-appenzell.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Lugano/6900/Restaurant/Maestri-della-Pasta-z5vgXUCgfe3IaJdaGNs-sg?dwhat=Restaurant>
+{'name': '\nMaestri della Pasta\n', 'tel': '091 235 47 36', 'email': None, 'adress': '\nVia Romeo Manzoni 8', 'website': None}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Conrad-aTvtoh1k51rC0MPD332I5g?dwhat=Restaurant>
+{'name': '\nRestaurant Conrad\n', 'tel': '044 225 91 30', 'email': None, 'adress': '\nSihlstrasse 31', 'website': 'www.glockenhof.ch/de/restaurants/restaurant_conrad'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Triengen/6234/Swiss-cuisine/Nostalgie-Restaurant-Bahnhofli-wiNASPgnr9acgzbR5o78wQ?dwhat=Restaurant>
+{'name': '\nNostalgie Restaurant Bahnhöfli\n', 'tel': '041 933 12 41', 'email': None, 'adress': '\nBahnhofstrasse 9', 'website': 'www.bahnhoefli-triengen.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/S-Nazzaro/6575/Restaurant/Molinetto-S2iW_k8bh_bZleGVD8vbsw?dwhat=Restaurant>
+{'name': '\nMolinetto\n', 'tel': '091 794 19 73', 'email': 'info@molinetto.ch', 'adress': '\nVia Cantonale 37', 'website': 'www.molinetto.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Salouf/7462/Restaurant/Gasthaus-Alpina-gCeF9i9y860C0hsvnbGIgg?dwhat=Restaurant>
+{'name': '\nGasthaus Alpina\n', 'tel': '081 684 26 04', 'email': None, 'adress': '\nVeia Principala 7', 'website': 'www.gasthaus-alpina.com'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Rua-Thai-vRoWz4_XpIip6c-iLyMZjg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=2> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Schattdorf/6467/Restaurant/Bruckli-QvFcbGfIRWFJ48YXcUfA_Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q?what=Restaurant)
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Rua-Thai-vRoWz4_XpIip6c-iLyMZjg?dwhat=Restaurant>
+{'name': '\nRua Thai\n', 'tel': '027 966 61 81', 'email': None, 'adress': '\nSchluhmattstrasse 19', 'website': 'www.hotelalbanareal.com/en/rua-thai-en'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Schattdorf/6467/Restaurant/Bruckli-QvFcbGfIRWFJ48YXcUfA_Q?dwhat=Restaurant>
+{'name': '\nBrückli\n', 'tel': '041 870 13 87', 'email': None, 'adress': '\nGotthardstrasse 82', 'website': 'www.brueckli.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Restaurant-WALDHAUS-wIzjY8jQV-VXDZ3OarYefQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Restaurant-WALDHAUS-wIzjY8jQV-VXDZ3OarYefQ?dwhat=Restaurant>
+{'name': '\nRestaurant WALDHAUS\n', 'tel': '027 967 14 50', 'email': 'info@waldhaus-zermatt.ch', 'adress': '\nStaldenstrasse 128', 'website': 'www.waldhaus-zermatt.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8003/Swiss-cuisine/Falcone-GmbH-KmKl8cSiPZsajqveVVkJNQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Pratteln/4133/Restaurant/Sinnenvoll-cptvfU_FlcuMXe4cx59XtA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Beckenried/6375/Restaurant/Cafe-Bar-Schwanen-SddfXKIwRv52gHTPGSjQJQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Oberbuchsiten/4625/Bakery-pastry-shop/Cafe-alte-Post-zqel2wwbn4A3h5jwwBLrug?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Leukerbad/3954/Hotel/Astoria-WvMi3e51n3YhxmKouEekAg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Avena-oELDBgxHr2BeXD_i-wBDuA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8003/Swiss-cuisine/Falcone-GmbH-KmKl8cSiPZsajqveVVkJNQ?dwhat=Restaurant>
+{'name': '\nFalcone GmbH\n', 'tel': '044 463 55 25', 'email': 'info@restaurantfalcone.ch', 'adress': '\nZurlindenstrasse 85', 'website': 'www.restaurantfalcone.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Pratteln/4133/Restaurant/Sinnenvoll-cptvfU_FlcuMXe4cx59XtA?dwhat=Restaurant>
+{'name': '\nSinnenvoll\n', 'tel': '061 511 07 01', 'email': None, 'adress': '\nHertnerstrasse 19', 'website': None}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Beckenried/6375/Restaurant/Cafe-Bar-Schwanen-SddfXKIwRv52gHTPGSjQJQ?dwhat=Restaurant>
+{'name': '\nCafè-Bar Schwanen\n', 'tel': '041 624 45 10', 'email': None, 'adress': '\nSeestrasse 2', 'website': 'www.schwanen-beckenried.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Oberbuchsiten/4625/Bakery-pastry-shop/Cafe-alte-Post-zqel2wwbn4A3h5jwwBLrug?dwhat=Restaurant>
+{'name': '\nCafé alte Post\n', 'tel': '062 393 10 40', 'email': None, 'adress': '\nHauptstrasse 516', 'website': 'www.baeckerei-cusumano.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Leukerbad/3954/Hotel/Astoria-WvMi3e51n3YhxmKouEekAg?dwhat=Restaurant>
+{'name': '\nAstoria\n', 'tel': '027 470 14 15', 'email': 'info@astoria-leukerbad.ch', 'adress': '\nUntere Maressenstrasse 26', 'website': 'www.astoria-leukerbad.ch'}
+2019-05-10 01:25:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Pratteln/4133/Restaurant/BIO-Restaurant-Landhof-8gelH5I5UvyhR65oSdzG0Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Avena-oELDBgxHr2BeXD_i-wBDuA?dwhat=Restaurant>
+{'name': '\nAvena\n', 'tel': '027 967 83 33', 'email': None, 'adress': '\nRestaurant Avena', 'website': 'www.avena-zermatt.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Restaurant-Weisshorn-gEwaIuA83N-qEjEuSULAJw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Saas-Fee/3906/Restaurant/Schaferstube-5HzgrJ-A9-XVr3wk6kca7A?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Pratteln/4133/Restaurant/BIO-Restaurant-Landhof-8gelH5I5UvyhR65oSdzG0Q?dwhat=Restaurant>
+{'name': '\nBIO Restaurant Landhof\n', 'tel': '061 511 07 07', 'email': None, 'adress': '\nHertnerstrasse 19', 'website': 'www.landhof-pratteln.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=3> (referer: https://tel.local.ch/en/q/Restaurant.html?page=2)
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Restaurant-Weisshorn-gEwaIuA83N-qEjEuSULAJw?dwhat=Restaurant>
+{'name': '\nRestaurant Weisshorn\n', 'tel': '027 967 57 72', 'email': None, 'adress': '\nAm Bach 6', 'website': 'www.weisshorn-zermatt.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Saas-Fee/3906/Restaurant/Schaferstube-5HzgrJ-A9-XVr3wk6kca7A?dwhat=Restaurant>
+{'name': '\nSchäferstube\n', 'tel': '027 957 25 37', 'email': None, 'adress': '\nObere Gasse 32', 'website': 'www.zur-schaeferstube.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Verbier/1936/Restaurant/Fer-a-Cheval-sjiD1Zo0Wg1ImmI_wzvXYw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Swiss-Chuchi-Zurich-xCG0lTxFJvWtAcrutREs8w?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Davos-Dorf/7260/Hotel/Passhotel-Fluela-Hospiz-x4R0uiTVd_ppbl2qjc23JQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bellevue/1293/Restaurant/Restaurant-Le-Country-2VZjVl7xY49OBj3qRuU7wA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Mosses/1862/Restaurant/Le-Bivouac-b_S4CLU3DSxPNwFI8eoucg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Eschenbach-SG/8733/Restaurant/Pension-Murtschen-Pz9hC2JDw8n8XVCwWv9eMw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Sushi/Mikado-Sushi-UWL7uz_g1HUXULev2o3fyg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Verbier/1936/Restaurant/Fer-a-Cheval-sjiD1Zo0Wg1ImmI_wzvXYw?dwhat=Restaurant>
+{'name': '\nFer à Cheval\n', 'tel': '027 771 26 69', 'email': None, 'adress': '\nRue de Médran 16', 'website': 'feracheval.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Swiss-Chuchi-Zurich-xCG0lTxFJvWtAcrutREs8w?dwhat=Restaurant>
+{'name': '\nRestaurant Swiss Chuchi Zürich\n', 'tel': '044 266 96 66', 'email': None, 'adress': '\nam Hirschengraben', 'website': 'www.hotel-adler.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Davos-Dorf/7260/Hotel/Passhotel-Fluela-Hospiz-x4R0uiTVd_ppbl2qjc23JQ?dwhat=Restaurant>
+{'name': '\nPasshotel Flüela-Hospiz\n', 'tel': '081 416 17 47', 'email': None, 'adress': '\nFlüelapass', 'website': 'www.flueela-hospiz.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bellevue/1293/Restaurant/Restaurant-Le-Country-2VZjVl7xY49OBj3qRuU7wA?dwhat=Restaurant>
+{'name': '\nRestaurant Le Country\n', 'tel': '022 959 79 00', 'email': None, 'adress': '\nRoute de Collex 47', 'website': 'www.countryclubgeneva.ch/restaurant-bar'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Mosses/1862/Restaurant/Le-Bivouac-b_S4CLU3DSxPNwFI8eoucg?dwhat=Restaurant>
+{'name': '\nLe Bivouac\n', 'tel': '024 491 05 00', 'email': 'relaisalpin@leschaletsdesmosses.ch', 'adress': '\nRoute du Col des Mosses 104', 'website': 'www.leschaletsdesmosses.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Eschenbach-SG/8733/Restaurant/Pension-Murtschen-Pz9hC2JDw8n8XVCwWv9eMw?dwhat=Restaurant>
+{'name': '\nPension Mürtschen\n', 'tel': '055 286 26 00', 'email': 'info@muertschen.ch', 'adress': '\nRapperswilerstrasse 12', 'website': 'www.muertschen.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Sushi/Mikado-Sushi-UWL7uz_g1HUXULev2o3fyg?dwhat=Restaurant>
+{'name': '\nMikado Sushi\n', 'tel': '022 552 44 77', 'email': None, 'adress': '\nBoulevard Georges-Favon 4', 'website': 'www.sushi.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Rombach/5022/Workshop-for-the-handicapped/Heilsarmee-Workshop-M0KqUbZ9KdEL5d3Y6qfcUA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Wilderswil/3812/Restaurant/Hotel-Restaurant-Hirschen-ii_PSJjf1aT4z2bwiSMnPA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Furri-0nYTRd8Lwp1uN2_Dnh1SJA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Rombach/5022/Workshop-for-the-handicapped/Heilsarmee-Workshop-M0KqUbZ9KdEL5d3Y6qfcUA?dwhat=Restaurant>
+{'name': '\nHeilsarmee Wörkshop\n', 'tel': '062 839 80 86', 'email': None, 'adress': '\nBibersteinerstrasse 4', 'website': 'www.woerkschop.ch'}
+2019-05-10 01:25:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Wilderswil/3812/Restaurant/Hotel-Restaurant-Hirschen-ii_PSJjf1aT4z2bwiSMnPA?dwhat=Restaurant>
+{'name': '\nHotel Restaurant Hirschen\n', 'tel': '033 822 35 51', 'email': 'hirschenwilderswil@hotmail.ch', 'adress': '\nAlte Staatsstrasse 6', 'website': 'www.hirschenwilderswil.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Furri-0nYTRd8Lwp1uN2_Dnh1SJA?dwhat=Restaurant>
+{'name': '\nFurri\n', 'tel': '027 966 27 77', 'email': 'furisepp@bluewin.ch', 'adress': '\nFuri 49', 'website': 'www.bergrestaurant-furri.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=4> (referer: https://tel.local.ch/en/q/Restaurant.html?page=3)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Ascona/6612/Restaurant/Ristorante-Pizzeria-Al-Maestrale-RPwTkvj8xJU23qvFXCwE5Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Ascona/6612/Restaurant/Ristorante-Pizzeria-Al-Maestrale-RPwTkvj8xJU23qvFXCwE5Q?dwhat=Restaurant>
+{'name': '\nRistorante Pizzeria Al Maestrale\n', 'tel': '091 780 51 81', 'email': None, 'adress': '\nViale Monte Verità 45', 'website': None}
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Birmensdorf-ZH/8903/Restaurant/Bar-Restaurant-Krone-Guggeli-Oase-kyDj_LApV77EcWzwqIIl8g?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Burgdorf/3400/Bakery-pastry-shop/Beck-in-GmbH-DIdQf9HgLLCC2LjhDc3aFw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Saas-Fee/3906/Restaurant/Waldhus-Bodmen-QlBDc8VEuVPg8AQlm8SXIg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Laax-GR/7031/Restaurant/BB-Waldheim-eO8KIqZAk9CO-ehsTclEBQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bern/3012/Alcohol-rehabilitation/Treffpunkt-Azzurro-MI_-wYGE727zLORKsStXUA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Muttenz/4132/Restaurant/Cafe-Apero-Bar-Bajazzo-2ZknwN62egiWt1GecK7ZYg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Bahnhofbuffet-Non-Solo-Treno-bONlKgQfDUQU8aBUhVybQQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Birmensdorf-ZH/8903/Restaurant/Bar-Restaurant-Krone-Guggeli-Oase-kyDj_LApV77EcWzwqIIl8g?dwhat=Restaurant>
+{'name': '\nBar-Restaurant Krone/ Güggeli Oase\n', 'tel': '044 777 79 74', 'email': 'krone@gueggeli.ch', 'adress': '\nStallikonerstrasse 41', 'website': 'www.gueggeli.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Burgdorf/3400/Bakery-pastry-shop/Beck-in-GmbH-DIdQf9HgLLCC2LjhDc3aFw?dwhat=Restaurant>
+{'name': '\nBeck-in GmbH\n', 'tel': '034 424 02 02', 'email': None, 'adress': '\nLyssachstrasse 141', 'website': 'www.beck-in.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Saas-Fee/3906/Restaurant/Waldhus-Bodmen-QlBDc8VEuVPg8AQlm8SXIg?dwhat=Restaurant>
+{'name': '\nWaldhüs Bodmen\n', 'tel': '027 957 20 75', 'email': None, 'adress': '\nPanoramastrasse 42', 'website': 'www.waldhues-bodmen.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Laax-GR/7031/Restaurant/BB-Waldheim-eO8KIqZAk9CO-ehsTclEBQ?dwhat=Restaurant>
+{'name': '\nB&B Waldheim\n', 'tel': '081 921 41 51', 'email': None, 'adress': '\nVia Runs 1', 'website': 'www.waldheim-laax.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bern/3012/Alcohol-rehabilitation/Treffpunkt-Azzurro-MI_-wYGE727zLORKsStXUA?dwhat=Restaurant>
+{'name': '\nTreffpunkt Azzurro\n', 'tel': '031 305 73 53', 'email': 'info@azzurro-bern.ch', 'adress': '\nLindenrain 5', 'website': 'www.azzurro-bern.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Muttenz/4132/Restaurant/Cafe-Apero-Bar-Bajazzo-2ZknwN62egiWt1GecK7ZYg?dwhat=Restaurant>
+{'name': '\nCafé Apéro-Bar Bajazzo\n', 'tel': '061 462 11 44', 'email': 'info@bajazzo-muttenz.ch', 'adress': '\nHauptstrasse 34', 'website': 'www.bajazzomuttenz.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Davos-Platz/7270/Restaurant/Schneiders-Restaurant-10rH6AHZUogR0ok9JDHcyg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Bahnhofbuffet-Non-Solo-Treno-bONlKgQfDUQU8aBUhVybQQ?dwhat=Restaurant>
+{'name': '\nBahnhofbuffet Non Solo Treno\n', 'tel': '027 968 19 68', 'email': None, 'adress': '\n3920 Zermatt\n', 'website': 'www.restaurant-nonsolotreno.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Leukerbad/3954/Steakhouse/Steakhouse-Oasis-4jJ9tf6dPx9MAhNjSsn8TQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Davos-Platz/7270/Restaurant/Schneiders-Restaurant-10rH6AHZUogR0ok9JDHcyg?dwhat=Restaurant>
+{'name': "\nSchneider's Restaurant\n", 'tel': '081 420 00 02', 'email': 'info@schneiders-davos.ch', 'adress': '\nPromenade 68', 'website': 'www.schneiders-davos.ch'}
+2019-05-10 01:25:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=5> (referer: https://tel.local.ch/en/q/Restaurant.html?page=4)
+2019-05-10 01:25:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Leukerbad/3954/Steakhouse/Steakhouse-Oasis-4jJ9tf6dPx9MAhNjSsn8TQ?dwhat=Restaurant>
+{'name': '\nSteakhouse Oasis\n', 'tel': '027 470 24 13', 'email': None, 'adress': '\nDorfstrasse 9', 'website': 'www.choucas.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Wetzikon-ZH/8620/Restaurant/Cantina-Sousol-KAm3aaRA-xsMGNHKcBuwqA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Wetzikon-ZH/8620/Restaurant/Cantina-Sousol-KAm3aaRA-xsMGNHKcBuwqA?dwhat=Restaurant>
+{'name': '\nCantina Sousol\n', 'tel': '043 495 24 37', 'email': None, 'adress': '\nBinzackerstrasse 37', 'website': 'www.sousol.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/JOUR-Geneve-Sarl-GV0NqiRUoXkX0aqoyhPwPA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Wilderswil/3812/Restaurant/Heimat-f7uctraVfYqHEoo76EV34Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Andermatt/6490/Restaurant/Il-Fermento-W0fpp3LgFweTcbS-l9QYXg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8052/Restaurant/Fiirabigbeizli-zur-alte-Chasi-Bw0vQeQvkRJ6e-xxxMeApg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8052/Restaurant/LADORO-Restaurant-7B3SPDrp8ZyanUqDReM1LQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Verbier/1936/Hotel/Experimental-Chalet-0n3uup8ln0FgByvA8dXePA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Adelboden/3715/Restaurant/Event-Treff-Adelboden-GmbH-3uX-tLXRyG9C-cbaZm_s2w?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Restaurant/JOUR-Geneve-Sarl-GV0NqiRUoXkX0aqoyhPwPA?dwhat=Restaurant>
+{'name': '\nJOUR Genève Sàrl\n', 'tel': '022 810 80 64', 'email': None, 'adress': '\nRue du Marché 3', 'website': 'www.salades-sur-mesure.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Wilderswil/3812/Restaurant/Heimat-f7uctraVfYqHEoo76EV34Q?dwhat=Restaurant>
+{'name': '\nHeimat\n', 'tel': '033 822 23 21', 'email': 'info@hotel-heimat.ch', 'adress': '\n3812 Wilderswil\n', 'website': 'www.hotel-heimat.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Andermatt/6490/Restaurant/Il-Fermento-W0fpp3LgFweTcbS-l9QYXg?dwhat=Restaurant>
+{'name': '\nIl Fermento\n', 'tel': '041 887 10 50', 'email': 'events@spaghettigastrogroup.com', 'adress': '\nGotthardstrasse 52', 'website': 'WWW.ILFERMENTO.CH'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8052/Restaurant/Fiirabigbeizli-zur-alte-Chasi-Bw0vQeQvkRJ6e-xxxMeApg?dwhat=Restaurant>
+{'name': '\nFiirabigbeizli - zur alte Chäsi\n', 'tel': '043 300 99 16', 'email': None, 'adress': '\nSeebacherstrasse 58', 'website': 'www.altechaesi.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8052/Restaurant/LADORO-Restaurant-7B3SPDrp8ZyanUqDReM1LQ?dwhat=Restaurant>
+{'name': "\nL'ADORO Restaurant\n", 'tel': '044 309 19 19', 'email': 'info@ladoro.ch', 'adress': '\nGlatttalstrasse 104', 'website': 'www.ladoro.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Verbier/1936/Hotel/Experimental-Chalet-0n3uup8ln0FgByvA8dXePA?dwhat=Restaurant>
+{'name': '\nExperimental Chalet\n', 'tel': '027 775 40 00', 'email': 'info@experimentalchalet.com', 'adress': '\nRoute de Verbier Station 44', 'website': 'www.experimentalchalet.com'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Adelboden/3715/Restaurant/Event-Treff-Adelboden-GmbH-3uX-tLXRyG9C-cbaZm_s2w?dwhat=Restaurant>
+{'name': '\nEvent-Treff Adelboden GmbH\n', 'tel': '033 673 45 89', 'email': None, 'adress': '\nDorfstrasse 56', 'website': 'www.kiosktreff.ch'}
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=6> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Sils-Segl-Baselgia/7515/Hotel/Chesa-Grischa-4socSZwHs4kLHhqWHuIoOg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8004/Restaurant/Convivio-51YVzr4DcPydBphOaeRUIw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=5)
+2019-05-10 01:25:18 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Sils-Segl-Baselgia/7515/Hotel/Chesa-Grischa-4socSZwHs4kLHhqWHuIoOg?dwhat=Restaurant>
+{'name': '\nChesa Grischa\n', 'tel': '081 838 50 70', 'email': 'info@hotelgrischasils.ch', 'adress': '\nVia da Baselgia 4', 'website': 'www.hotelgrischasils.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Munsingen/3110/Restaurant/La-table-de-Urs-Hauri-PVNIaIDawdtHIY68lucBbA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8004/Restaurant/Convivio-51YVzr4DcPydBphOaeRUIw?dwhat=Restaurant>
+{'name': '\nConvivio\n', 'tel': '043 322 00 53', 'email': None, 'adress': '\nRotwandstrasse 62', 'website': 'www.convivio.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Gossau-SG/9200/Restaurant/Quellenhof-72qhIHTU9ENS60P4NJ0yTA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Langnau-am-Albis/8135/Restaurant/Nishat-ZUQV6a8TDB0PbMvU-EoL5Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8006/Restaurant/Moudis-lecker-Cafe-f-1_5eOKaMsXgbTe1l822w?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Langnau-am-Albis/8135/Restaurant/Nostalgie-Oase-6Pw_2RAOumITWAZa5IfJ2A?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Les-Marmottes-Dzst8cJM_puvvBzexomoBQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Lounge/Mezze-Bar-Cocktails-24jsn4fIOGgl5EqAiuFXJw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Munsingen/3110/Restaurant/La-table-de-Urs-Hauri-PVNIaIDawdtHIY68lucBbA?dwhat=Restaurant>
+{'name': '\nLa table de Urs Hauri\n', 'tel': '031 721 88 11', 'email': 'kochwerkstatt@urshauri.ch', 'adress': '\nBahnhofplatz 9A', 'website': 'urshauri.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grimentz/3961/Restaurant/Lac-de-Moiry-6c_xzizUaCKgwZ7GCL5YDw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Gossau-SG/9200/Restaurant/Quellenhof-72qhIHTU9ENS60P4NJ0yTA?dwhat=Restaurant>
+{'name': '\nQuellenhof\n', 'tel': '071 385 11 46', 'email': 'Info@quellenhof-gossau.ch', 'adress': '\nBahnhofplatz 1', 'website': 'www.quellenhof-gossau.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Langnau-am-Albis/8135/Restaurant/Nishat-ZUQV6a8TDB0PbMvU-EoL5Q?dwhat=Restaurant>
+{'name': '\nNishat\n', 'tel': '044 713 26 22', 'email': None, 'adress': '\nNeue Dorfstrasse 11', 'website': 'www.nishat.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8006/Restaurant/Moudis-lecker-Cafe-f-1_5eOKaMsXgbTe1l822w?dwhat=Restaurant>
+{'name': "\nMoudi's lecker Cafe\n", 'tel': '043 810 03 45', 'email': None, 'adress': '\nKronenstrasse 48', 'website': 'www.leckercafe.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Langnau-am-Albis/8135/Restaurant/Nostalgie-Oase-6Pw_2RAOumITWAZa5IfJ2A?dwhat=Restaurant>
+{'name': '\nNostalgie Oase\n', 'tel': '079 296 41 70', 'email': 'lehner.franziska8135@gmail.com', 'adress': '\nGontenbachweg 2', 'website': None}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/Les-Marmottes-Dzst8cJM_puvvBzexomoBQ?dwhat=Restaurant>
+{'name': '\nLes Marmottes\n', 'tel': '027 967 82 82', 'email': None, 'adress': '\nFuri 209', 'website': 'www.les-marmottes.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Lounge/Mezze-Bar-Cocktails-24jsn4fIOGgl5EqAiuFXJw?dwhat=Restaurant>
+{'name': '\nMezze Bar & Cocktails\n', 'tel': '022 557 07 03', 'email': None, 'adress': '\nRue de Zurich 12', 'website': 'bigtwelf.com'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grimentz/3961/Restaurant/Lac-de-Moiry-6c_xzizUaCKgwZ7GCL5YDw?dwhat=Restaurant>
+{'name': '\nLac de Moiry\n', 'tel': '027 475 15 48', 'email': 'clems@netplus.ch', 'adress': '\n3961 Grimentz\n', 'website': 'www.moiryresto.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Breil-Brigels/7165/Hotel/La-Val-Bergspa-Hotel-Brigels-Ar6LQXrgUkSDFTIGd6Jgjg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Restaurant/la-Taverne-vvpXW_I4qYQ-nrC6Kuw7Dg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Breil-Brigels/7165/Hotel/La-Val-Bergspa-Hotel-Brigels-Ar6LQXrgUkSDFTIGd6Jgjg?dwhat=Restaurant>
+{'name': '\nLa Val Bergspa Hotel Brigels\n', 'tel': '081 929 26 26', 'email': 'hotel@laval.ch', 'adress': '\nVia Palius 18', 'website': 'www.laval.ch'}
+2019-05-10 01:25:19 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Restaurant/la-Taverne-vvpXW_I4qYQ-nrC6Kuw7Dg?dwhat=Restaurant>
+{'name': '\nla Taverne\n', 'tel': '027 966 39 59', 'email': None, 'adress': '\nSchluhmattstrasse 97', 'website': 'Go to website'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=7> (referer: https://tel.local.ch/en/q/Restaurant.html?page=6)
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant-equipment-rental/Restaurant-Bayview-J83mZXE_AHUlrEjZ4UJu5A?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8003/Restaurant/Restaurant-Schmiedhof-EoWGX0nH2uq_26kt_xDtIg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Haute-Nendaz/1997/Restaurant/Tchin-Tchin-Bar-Pizzeria-5E8WJDN7ikhEjR1j2eeOOA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Frick/5070/Catering-service/Seminar-Hotel-Platanenhof-INsmcTXZ4wLxSqXDMTGUwA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Restaurant-equipment-rental/Restaurant-Bayview-J83mZXE_AHUlrEjZ4UJu5A?dwhat=Restaurant>
+{'name': '\nRestaurant Bayview\n', 'tel': '022 906 65 52', 'email': None, 'adress': '\nHôtel Président Wilson', 'website': 'www.restaurantbayview.com'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Ronco-sopra-Ascona/6622/Restaurant/Ristorante-Pizzeria-del-Centro-FZ1BFN5-X5yULp0MMs595g?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8003/Restaurant/Restaurant-Schmiedhof-EoWGX0nH2uq_26kt_xDtIg?dwhat=Restaurant>
+{'name': '\nRestaurant Schmiedhof\n', 'tel': '044 461 74 32', 'email': None, 'adress': '\nZweierstrasse 136', 'website': 'restaurant.schmiedhof.ch'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Haute-Nendaz/1997/Restaurant/Tchin-Tchin-Bar-Pizzeria-5E8WJDN7ikhEjR1j2eeOOA?dwhat=Restaurant>
+{'name': '\nTchin Tchin Bar - Pizzeria\n', 'tel': '027 288 25 10', 'email': None, 'adress': '\nRoute des Argeys 1', 'website': 'www.tchin-tchin.ch'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Frick/5070/Catering-service/Seminar-Hotel-Platanenhof-INsmcTXZ4wLxSqXDMTGUwA?dwhat=Restaurant>
+{'name': '\nSeminar-Hotel Platanenhof\n', 'tel': '062 865 71 71', 'email': 'info@platanenhof.ch', 'adress': '\nBahnhofstrasse 18', 'website': 'www.platanenhof.ch'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Siviez-Nendaz/1997/Restaurant/Restaurant-Les-Bergers-a_NttC53D_FlIgIKr7-Q0g?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Altendorf/8852/Pizzeria/Ristorante-Pizzeria-DOC-1LRU3ZVUmRhTVKonfoY6mg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Ronco-sopra-Ascona/6622/Restaurant/Ristorante-Pizzeria-del-Centro-FZ1BFN5-X5yULp0MMs595g?dwhat=Restaurant>
+{'name': '\nRistorante Pizzeria del Centro\n', 'tel': '091 785 75 68', 'email': None, 'adress': '\nVia Livurcio 4', 'website': 'www.ristorantedelcentro.ch'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Seewis-Dorf/7212/Restaurant/Restaurant-Hofbeizli-Runggalina-ppWpqc7FNz6PROtg2q73BA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Feusisberg/8835/Restaurant/Restaurant-Buel-DcCEvD-7jLqRVHV4BbQYOQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Siviez-Nendaz/1997/Restaurant/Restaurant-Les-Bergers-a_NttC53D_FlIgIKr7-Q0g?dwhat=Restaurant>
+{'name': '\nRestaurant Les Bergers\n', 'tel': '027 288 18 28', 'email': None, 'adress': '\nBâtiment Dents Rousses', 'website': 'Go to website'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Altendorf/8852/Pizzeria/Ristorante-Pizzeria-DOC-1LRU3ZVUmRhTVKonfoY6mg?dwhat=Restaurant>
+{'name': '\nRistorante Pizzeria D.O.C.\n', 'tel': '055 442 33 12', 'email': None, 'adress': '\nBahnhofstrasse 21', 'website': 'www.ristorante-doc.ch'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Engelberg/6390/Restaurant/Ristorante-Al-Monastero-8qg4xG-Tn7eexb9wC9KG_w?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Seewis-Dorf/7212/Restaurant/Restaurant-Hofbeizli-Runggalina-ppWpqc7FNz6PROtg2q73BA?dwhat=Restaurant>
+{'name': '\nRestaurant Hofbeizli Runggalina\n', 'tel': '078 807 81 37', 'email': None, 'adress': '\nFlensastrasse 8', 'website': 'www.runggalina.ch'}
+2019-05-10 01:25:20 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Feusisberg/8835/Restaurant/Restaurant-Buel-DcCEvD-7jLqRVHV4BbQYOQ?dwhat=Restaurant>
+{'name': '\nRestaurant Büel\n', 'tel': '044 784 37 94', 'email': None, 'adress': '\nEtzelstrasse 91', 'website': 'www.restaurant-büel.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=8> (referer: https://tel.local.ch/en/q/Restaurant.html?page=7)
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Engelberg/6390/Restaurant/Ristorante-Al-Monastero-8qg4xG-Tn7eexb9wC9KG_w?dwhat=Restaurant>
+{'name': '\nRistorante Al Monastero\n', 'tel': '041 637 27 77', 'email': 'info@almonastero.ch', 'adress': '\nDorfstrasse 2', 'website': 'www.almonastero.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Battwil/4112/Tennis-club/Tennis-Park-Haugraben-rLviJyAlO9fLK6ma96gsQQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Le-Noirmont/2340/Bakery-pastry-shop/Boulangerie-Ris-Veron-JLOgTcs-tTJNPw0YCznFGA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Winterthur/8400/Restaurant/Zum-Reitplatz-s5bioSUSyZYvn-lK2BDFaQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Battwil/4112/Tennis-club/Tennis-Park-Haugraben-rLviJyAlO9fLK6ma96gsQQ?dwhat=Restaurant>
+{'name': '\nTennis Park Haugraben\n', 'tel': '061 731 32 22', 'email': 'info@haugraben.ch', 'adress': '\nMühlemattstrasse 9', 'website': 'www.haugraben.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zermatt/3920/Hotel/Alpenrose-Jq5EO3Bhiw1Ft1xZQo1ZnQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Mannedorf/8708/Restaurant/Zehn-EatShop-xfek-4fdpw0QDZJAkfeDhA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Frenkendorf/4402/Restaurant/Borgerstar-mVvDh3AZQI4kz8AGna3JgQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Unterengstringen/8103/Restaurant/Zu-den-Zwei-Raben-0F8NvapOf7qlvuA9weXDfg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Le-Noirmont/2340/Bakery-pastry-shop/Boulangerie-Ris-Veron-JLOgTcs-tTJNPw0YCznFGA?dwhat=Restaurant>
+{'name': '\nBoulangerie Ris & Veron\n', 'tel': '032 953 12 31', 'email': None, 'adress': '\nRue de la Rauracie 15', 'website': 'boulangerie-ris-et-veron.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Valbella/7077/Hotel/Berghotel-Sartons-7lgF7ft3KOdroFsAn3sdgg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Winterthur/8400/Restaurant/Zum-Reitplatz-s5bioSUSyZYvn-lK2BDFaQ?dwhat=Restaurant>
+{'name': '\nZum Reitplatz\n', 'tel': '052 203 00 18', 'email': 'info@zum-reitplatz.ch', 'adress': '\nReitplatzstrasse', 'website': 'www.zum-reitplatz.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zermatt/3920/Hotel/Alpenrose-Jq5EO3Bhiw1Ft1xZQo1ZnQ?dwhat=Restaurant>
+{'name': '\nAlpenrose\n', 'tel': '027 966 40 40', 'email': 'welcome@alpenrose-zermatt.ch', 'adress': '\nOberdorfstrasse 79', 'website': 'www.alpenrose-zermatt.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Mannedorf/8708/Restaurant/Zehn-EatShop-xfek-4fdpw0QDZJAkfeDhA?dwhat=Restaurant>
+{'name': '\nZehn Eat&Shop\n', 'tel': '044 920 03 86', 'email': None, 'adress': '\nAlte Landstrasse 1', 'website': 'www.zehn10.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Langenthal/4900/Restaurant/THE-MEAT-PREMIUM-BEEFHOUSE-reTtHLC5eCMcKolst4Wv5Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Frenkendorf/4402/Restaurant/Borgerstar-mVvDh3AZQI4kz8AGna3JgQ?dwhat=Restaurant>
+{'name': '\nBörgerstar\n', 'tel': '061 901 76 64', 'email': None, 'adress': '\nSchützenstrasse 2', 'website': 'www.börgerstar.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Unterengstringen/8103/Restaurant/Zu-den-Zwei-Raben-0F8NvapOf7qlvuA9weXDfg?dwhat=Restaurant>
+{'name': '\nZu den Zwei Raben\n', 'tel': '044 750 01 01', 'email': 'restaurant@kloster-fahr.ch', 'adress': '\nKloster Fahr', 'website': 'www.kloster-fahr.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Arlesheim/4144/Event-management/wahlievents-GmbH-3d69vrR0zTSeqerobpVtag?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Valbella/7077/Hotel/Berghotel-Sartons-7lgF7ft3KOdroFsAn3sdgg?dwhat=Restaurant>
+{'name': '\nBerghotel Sartons\n', 'tel': '081 384 11 93', 'email': 'info@berghotelsartons.ch', 'adress': '\nVoa Sartons 74', 'website': 'www.berghotelsartons.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Langenthal/4900/Restaurant/THE-MEAT-PREMIUM-BEEFHOUSE-reTtHLC5eCMcKolst4Wv5Q?dwhat=Restaurant>
+{'name': '\nTHE MEAT PREMIUM BEEFHOUSE\n', 'tel': '062 919 01 16', 'email': None, 'adress': '\nLotzwilstrasse 66', 'website': 'www.themeat.ch'}
+2019-05-10 01:25:21 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Arlesheim/4144/Event-management/wahlievents-GmbH-3d69vrR0zTSeqerobpVtag?dwhat=Restaurant>
+{'name': '\nwahlievents GmbH\n', 'tel': '061 551 09 10', 'email': 'events@wahlievents.ch', 'adress': '\nSchorenweg 10', 'website': 'www.wahlievents.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=9> (referer: https://tel.local.ch/en/q/Restaurant.html?page=8)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8046/Restaurant/Busi-c9VRGRU9K9TBkKU_7jcOAg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8046/Restaurant/Busi-c9VRGRU9K9TBkKU_7jcOAg?dwhat=Restaurant>
+{'name': '\nBüsi\n', 'tel': '044 371 66 70', 'email': None, 'adress': '\nBärenbohlstrasse 47', 'website': 'www.restaurant-büsi.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bern/3027/Restaurant/Cafe-Tram-Egge-8lCml3RHtgknzNwm0u6Cww?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Siviez-Nendaz/1997/Restaurant/Chez-Odette-Gpsu5dblgZiihOQFJttgzA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Marecottes/1923/Restaurant/Creusaz-4pA2QEa6WTG2_iWNrSdJkQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Avegno/6670/Campsite/Campeggio-Piccolo-Paradiso-KKl6WQSBKt7gm_Ck35tcIA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Verbier/1936/Restaurant/Carrefour-7g_0-OEMHf8la5CxZXFGUA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grindelwald/3818/Restaurant/Chalet-Restaurant-Bodenwald-tZ1bsQMcVKNSYL3u_4Ki3A?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Sion/1950/Restaurant/Giorgio-Cafe-b8geC9dbjtf2TdkiOTu11Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bern/3027/Restaurant/Cafe-Tram-Egge-8lCml3RHtgknzNwm0u6Cww?dwhat=Restaurant>
+{'name': '\nCafé Tram Egge\n', 'tel': '031 991 95 66', 'email': None, 'adress': '\nRiedbachstrasse 8', 'website': 'www.restaurant-tram-egge.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Siviez-Nendaz/1997/Restaurant/Chez-Odette-Gpsu5dblgZiihOQFJttgzA?dwhat=Restaurant>
+{'name': '\nChez Odette\n', 'tel': '027 288 19 82', 'email': None, 'adress': '\nBâtiment Dents Rousses', 'website': 'www.facebook.com/ChezOdetteSiviez'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Marecottes/1923/Restaurant/Creusaz-4pA2QEa6WTG2_iWNrSdJkQ?dwhat=Restaurant>
+{'name': '\nCreusaz\n', 'tel': '027 761 18 98', 'email': None, 'adress': '\nLa Creusaz 3', 'website': 'www.telemarecottes.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Avegno/6670/Campsite/Campeggio-Piccolo-Paradiso-KKl6WQSBKt7gm_Ck35tcIA?dwhat=Restaurant>
+{'name': '\nCampeggio Piccolo Paradiso\n', 'tel': '091 796 15 81', 'email': None, 'adress': '\nVia Cantonale 13', 'website': 'www.camping-piccoloparadiso.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Verbier/1936/Restaurant/Carrefour-7g_0-OEMHf8la5CxZXFGUA?dwhat=Restaurant>
+{'name': '\nCarrefour\n', 'tel': '027 771 55 55', 'email': 'lecarrefour@verbier.ch', 'adress': '\nRoute du Golf 95', 'website': 'www.lecarrefour.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grindelwald/3818/Restaurant/Chalet-Restaurant-Bodenwald-tZ1bsQMcVKNSYL3u_4Ki3A?dwhat=Restaurant>
+{'name': '\nChalet Restaurant Bodenwald\n', 'tel': '033 853 12 42', 'email': 'chalet@bodenwald.ch', 'adress': '\n3818 Grindelwald\n', 'website': 'www.bodenwald.ch'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Sion/1950/Restaurant/Giorgio-Cafe-b8geC9dbjtf2TdkiOTu11Q?dwhat=Restaurant>
+{'name': '\nGiorgio Café\n', 'tel': '027 322 00 00', 'email': None, 'adress': '\nEspace des Remparts 14', 'website': 'www.the-places-to-be.com'}
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Heremence/1987/Restaurant/du-Barrage-AfO5YLsEmk0O72w5bCe-rg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:22 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Verbier/1936/Steakhouse/El-Toro-Negro-QDxRmDdWvO15VRLdjfhWqg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Heremence/1987/Restaurant/du-Barrage-AfO5YLsEmk0O72w5bCe-rg?dwhat=Restaurant>
+{'name': '\ndu Barrage\n', 'tel': '027 281 13 22', 'email': 'info@hays-traiteur.ch', 'adress': '\nLe Chargeur', 'website': 'www.hotel-barrage.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Verbier/1936/Steakhouse/El-Toro-Negro-QDxRmDdWvO15VRLdjfhWqg?dwhat=Restaurant>
+{'name': '\nEl Toro Négro\n', 'tel': '027 771 99 01', 'email': None, 'adress': '\nChemin de La Barmète 2', 'website': 'lemillenium.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=10> (referer: https://tel.local.ch/en/q/Restaurant.html?page=9)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8004/Restaurant/Hermanseck-M8NQIbdqvZQTFGFmQZOjyA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8004/Restaurant/Hermanseck-M8NQIbdqvZQTFGFmQZOjyA?dwhat=Restaurant>
+{'name': '\nHermanseck\n', 'tel': '044 241 28 20', 'email': 'anfragen@hermanseck.ch', 'adress': '\nBirmensdorferstrasse 58', 'website': 'www.hermanseck.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Crans-Montana/3963/Restaurant/LA-MARQUISE-MOMIJI-Sarl-MgJOwU70eJ-53D5GO6fzvg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Ausserbinn/3995/Hotel/Jagerheim-q8QpRTkxl-iurkYbhbGmsA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Wangen-SZ/8855/Restaurant/Hirschen-j5nv0jXXSS2j_jwCcE9a6A?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Wetzikon-ZH/8620/Sports-complex/Kunsteisbahn-Wetzikon-Ovhv7zvOCIVJocr05NHaLQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Lauterbrunnen/3822/Hotel/Hotel-Silberhorn-AG-FPYj8hKlw3i-A6sJNw6Ijw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grindelwald/3818/Restaurant/Hotel-Kirchbuhl-JO7ajlWZWbumHvJzSDCnRA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Crans-Montana/3963/Restaurant/LA-MARQUISE-MOMIJI-Sarl-MgJOwU70eJ-53D5GO6fzvg?dwhat=Restaurant>
+{'name': '\nLA MARQUISE MOMIJI Sàrl\n', 'tel': '027 480 14 10', 'email': None, 'adress': '\nRue Centrale 1', 'website': 'www.lamarquise-momiji.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Ausserbinn/3995/Hotel/Jagerheim-q8QpRTkxl-iurkYbhbGmsA?dwhat=Restaurant>
+{'name': '\nJägerheim\n', 'tel': '027 971 11 31', 'email': None, 'adress': '\nÜsserbi 1', 'website': 'www.jaegerheim.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Wangen-SZ/8855/Restaurant/Hirschen-j5nv0jXXSS2j_jwCcE9a6A?dwhat=Restaurant>
+{'name': '\nHirschen\n', 'tel': '055 440 11 49', 'email': None, 'adress': '\nDorfplatz 2', 'website': 'www.hirschen-wangen.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Wetzikon-ZH/8620/Sports-complex/Kunsteisbahn-Wetzikon-Ovhv7zvOCIVJocr05NHaLQ?dwhat=Restaurant>
+{'name': '\nKunsteisbahn Wetzikon\n', 'tel': '043 488 20 85', 'email': None, 'adress': '\nRapperswilerstrasse 63', 'website': 'www.sf-wetzikon.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Lauterbrunnen/3822/Hotel/Hotel-Silberhorn-AG-FPYj8hKlw3i-A6sJNw6Ijw?dwhat=Restaurant>
+{'name': '\nHotel Silberhorn AG\n', 'tel': '033 856 22 10', 'email': 'info@silberhorn.com', 'adress': '\nBei der Zuben 465', 'website': 'www.silberhorn.com'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grindelwald/3818/Restaurant/Hotel-Kirchbuhl-JO7ajlWZWbumHvJzSDCnRA?dwhat=Restaurant>
+{'name': '\nHotel Kirchbühl\n', 'tel': '033 854 40 80', 'email': 'hotel@kirchbuehl.ch', 'adress': '\nKirchbühlstrasse 23', 'website': 'www.kirchbuehl.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Davos-Wiesen/7494/Hotel/Hotel-Bellevue-Wiesen-3c8rqtik9QaJqCmToENx3w?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bassersdorf/8303/Restaurant/Lienis-Kafi-AG-yklYvkY3I2EKC_oziscYAQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8001/Restaurant/Moudi-am-Schanzengraben-B04bdcsVy8Z4DGkwD17fZA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Davos-Wiesen/7494/Hotel/Hotel-Bellevue-Wiesen-3c8rqtik9QaJqCmToENx3w?dwhat=Restaurant>
+{'name': '\nHotel Bellevue Wiesen\n', 'tel': '081 404 11 50', 'email': 'info@bellevuewiesen.com', 'adress': '\nHauptstrasse 9', 'website': 'www.bellevuewiesen.com'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bassersdorf/8303/Restaurant/Lienis-Kafi-AG-yklYvkY3I2EKC_oziscYAQ?dwhat=Restaurant>
+{'name': '\nLienis Kafi AG\n', 'tel': '044 833 01 01', 'email': 'info@lienis-kafi.ch', 'adress': '\nDorfplatz 1', 'website': 'www.lienis-kafi.ch'}
+2019-05-10 01:25:23 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8001/Restaurant/Moudi-am-Schanzengraben-B04bdcsVy8Z4DGkwD17fZA?dwhat=Restaurant>
+{'name': '\nMoudi am Schanzengraben\n', 'tel': '044 390 13 14', 'email': None, 'adress': '\nBrandschenkestrasse 5', 'website': 'www.moudi-bar.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Restaurant.html?page=11> (referer: https://tel.local.ch/en/q/Restaurant.html?page=10)
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/NEPTUNE-b8SNnE5kFrPy0uhA1jXGAw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Buchs-ZH/8107/Restaurant/Restaurant-Weinberg-7wd1v9sK5_Sf90y4RiRong?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Schwyz/6430/Restaurant/Restaurant-MythenForum-rzCQiO5mnOel6wGcigMbZA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bressaucourt/2904/Restaurant/Restaurant-Le-Cockpit-Sarl-VVeP7fVtLnvj2u2euhkmgQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Pavillon-1um85w1y9hhMWOSujXYfcw?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Restaurant/NEPTUNE-b8SNnE5kFrPy0uhA1jXGAw?dwhat=Restaurant>
+{'name': '\nNEPTÜNE\n', 'tel': '022 320 15 05', 'email': None, 'adress': '\nRue de la Coulouvrenière 38', 'website': 'www.leneptune.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Tenniken/4456/Restaurant/Schlossli-n4extQSzRz__eahOiJsl9Q?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Horw/6048/Restaurant/Restaurant-Rubinette-7uCU8dssJNrHst1dnuTiaA?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Buchs-ZH/8107/Restaurant/Restaurant-Weinberg-7wd1v9sK5_Sf90y4RiRong?dwhat=Restaurant>
+{'name': '\nRestaurant Weinberg\n', 'tel': '044 554 74 75', 'email': None, 'adress': '\nWeinbergstrasse 21', 'website': 'www.weinberg-buchs.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Spiez/3700/Restaurant/Restaurant-Krone-Spiez-Wfhqcie6KUK0Q29nrR__KQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Schwyz/6430/Restaurant/Restaurant-MythenForum-rzCQiO5mnOel6wGcigMbZA?dwhat=Restaurant>
+{'name': '\nRestaurant MythenForum\n', 'tel': '041 818 60 50', 'email': 'management@mythenforum.ch', 'adress': '\nReichsstrasse 12', 'website': 'www.mythenforum.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bressaucourt/2904/Restaurant/Restaurant-Le-Cockpit-Sarl-VVeP7fVtLnvj2u2euhkmgQ?dwhat=Restaurant>
+{'name': '\nRestaurant Le Cockpit Sàrl\n', 'tel': '032 466 55 56', 'email': 'restaurantlecockpit@gmail.com', 'adress': '\nAérodrome du Jura', 'website': 'www.restaurantlecockpit.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Pavillon-1um85w1y9hhMWOSujXYfcw?dwhat=Restaurant>
+{'name': '\nRestaurant Pavillon\n', 'tel': '044 220 50 22', 'email': None, 'adress': '\nTalstrasse 1', 'website': 'www.aupavillon.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Tenniken/4456/Restaurant/Schlossli-n4extQSzRz__eahOiJsl9Q?dwhat=Restaurant>
+{'name': '\nSchlössli\n', 'tel': '061 971 29 46', 'email': None, 'adress': '\nSchlossgasse 3', 'website': 'www.schloessli-tenniken.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Horw/6048/Restaurant/Restaurant-Rubinette-7uCU8dssJNrHst1dnuTiaA?dwhat=Restaurant>
+{'name': '\nRestaurant Rubinette\n', 'tel': '041 349 05 15', 'email': 'rubinette@braendi.ch', 'adress': '\nBrändistrasse 31', 'website': 'www.braendi.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bettmeralp/3992/Hotel/Panorama-c_k3cwaJnWIt8HgcXK-9JQ?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Spiez/3700/Restaurant/Restaurant-Krone-Spiez-Wfhqcie6KUK0Q29nrR__KQ?dwhat=Restaurant>
+{'name': '\nRestaurant Krone Spiez\n', 'tel': '033 655 02 26', 'email': None, 'adress': '\nSeestrasse 28', 'website': 'www.krone-spiez.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bettmeralp/3992/Hotel/Panorama-c_k3cwaJnWIt8HgcXK-9JQ?dwhat=Restaurant>
+{'name': '\nPanorama\n', 'tel': '027 927 13 75', 'email': 'info@panoramabettmeralp.ch', 'adress': '\nDorfstrasse', 'website': 'www.panorama-bettmeralp.ch'}
+2019-05-10 01:25:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1209/Restaurant/Point-du-Jour-lBk720A1PXtqWBpx3WCymg?dwhat=Restaurant> (referer: https://tel.local.ch/en/q/Restaurant.html?page=11)
+2019-05-10 01:25:24 [scrapy] DEBUG: Retrying <GET https://tel.local.ch/en/q/Restaurant.html?page=12> (failed 1 times): [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'CHUNK_LENGTH' state, still expecting more data to get to 'FINISHED' state.>]

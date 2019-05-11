@@ -1,0 +1,324 @@
+2019-05-09 23:46:10 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/robots.txt> (referer: None)
+2019-05-09 23:46:10 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8> (referer: None)
+2019-05-09 23:46:10 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4055/Hotel/Hotel-Bildungszentrum-21-AG-HgL6ikKbaUf_QXopftkzjw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:10 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4055/Hotel/Hotel-Bildungszentrum-21-AG-HgL6ikKbaUf_QXopftkzjw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Bildungszentrum 21 AG\n', 'tel': '061 260 21 21', 'email': 'info@bildungszentrum-21.ch', 'adress': '\nMissionsstrasse 21', 'website': 'www.bz21.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4056/Hotel/Airport-Hotel-Basel-AG-WOxvwRKfalO0SBFKAezRZw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4057/Hotel/Basilisk-EMfjpTs6Va7MyXILTxQFzg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Apartments-Schutzenmatt-AG-NU4C2BtykLtQm6yxjz5uYw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-du-Commerce-davnkvluEtdgUmAkxxDz5g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4053/Apartments-studios/Apaliving-dsqJcDS7O_kq9HWRcseEsw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4001/Hotel/Apartmenthaus-zum-Trillen-thgKIuH7a8Wr2c70SIxnBg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4056/Hotel/Airport-Hotel-Basel-AG-WOxvwRKfalO0SBFKAezRZw?dwhat=hotele&dwhere=Basel>
+{'name': '\nAirport Hotel Basel AG\n', 'tel': '061 327 30 30', 'email': 'info@airporthotelbasel.com', 'adress': '\nFlughafenstrasse 215', 'website': 'www.airporthotelbasel.com'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4057/Hotel/Basilisk-EMfjpTs6Va7MyXILTxQFzg?dwhat=hotele&dwhere=Basel>
+{'name': '\nBasilisk\n', 'tel': '061 686 96 66', 'email': 'info@hotel-basilisk.ch', 'adress': '\nKlingentalstrasse 1', 'website': 'www.hotel-basilisk.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Apartments-Schutzenmatt-AG-NU4C2BtykLtQm6yxjz5uYw?dwhat=hotele&dwhere=Basel>
+{'name': '\nApartments Schützenmatt AG\n', 'tel': '061 272 77 00', 'email': 'info@basel-apartments.ch', 'adress': '\nSchützenmattstrasse 42', 'website': 'www.basel-apartments.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-du-Commerce-davnkvluEtdgUmAkxxDz5g?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel du Commerce\n', 'tel': '061 690 23 23', 'email': 'info@ducommerce.ch', 'adress': '\nRiehenring 91', 'website': 'www.ducommerce.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4053/Apartments-studios/Apaliving-dsqJcDS7O_kq9HWRcseEsw?dwhat=hotele&dwhere=Basel>
+{'name': '\nApaliving\n', 'tel': '061 333 05 30', 'email': 'info@apaliving.ch', 'adress': '\nJ. J. Balmer-Strasse 1', 'website': 'www.apaliving.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4001/Hotel/Apartmenthaus-zum-Trillen-thgKIuH7a8Wr2c70SIxnBg?dwhat=hotele&dwhere=Basel>
+{'name': '\nApartmenthaus zum Trillen\n', 'tel': '061 261 80 20', 'email': 'info@apartmenthaus.com', 'adress': '\nRümelinsplatz 19', 'website': 'www.apartmenthaus.com'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Grand-Hotel-Les-Trois-Rois-83L8JSstyrFrSOKp8USBvg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/GAIA-HOTEL-QkkLxkHcUWBcgooVdoEVFA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Steinenschanze-Stadthotel-H3a1Vey12k8dQSvoAO-bPA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q?what=hotele&where=Basel&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Grand-Hotel-Les-Trois-Rois-83L8JSstyrFrSOKp8USBvg?dwhat=hotele&dwhere=Basel>
+{'name': '\nGrand Hotel Les Trois Rois\n', 'tel': '061 260 50 50', 'email': 'info@lestroisrois.com', 'adress': '\nBlumenrain 8', 'website': 'www.lestroisrois.com'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/GAIA-HOTEL-QkkLxkHcUWBcgooVdoEVFA?dwhat=hotele&dwhere=Basel>
+{'name': '\nGAIA HOTEL\n', 'tel': '061 225 13 13', 'email': 'welcome@gaiahotel.ch', 'adress': '\nCentralbahnstrasse 13', 'website': 'www.gaiahotel.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Steinenschanze-Stadthotel-H3a1Vey12k8dQSvoAO-bPA?dwhat=hotele&dwhere=Basel>
+{'name': '\nSteinenschanze Stadthotel\n', 'tel': '061 272 53 53', 'email': 'info@steinenschanze.ch', 'adress': '\nSteinengraben 69', 'website': 'www.steinenschanze.ch'}
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Restaurant/Spalenbrunnen-UTxm13SCyMtO1F2UIs8pGw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Restaurant/Spalenbrunnen-UTxm13SCyMtO1F2UIs8pGw?dwhat=hotele&dwhere=Basel>
+{'name': '\nSpalenbrunnen\n', 'tel': '061 269 26 26', 'email': 'info@hotel-spalenbrunnen.ch', 'adress': '\nSchützenmattstrasse 2', 'website': None}
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Metropol-Hotel-hfM9XczUlc845sUqSvtYSg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-City-Inn-dsVhtuTLcAnc5fhsK_Bc8Q?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Restaurant/Resslirytti-atd2qUuneNZ81iHq_QbpBA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Restaurant/Rheinfelderhof-qswa_cSuQn1Hj-Rr7FZ8Pw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:11 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Krafft-TZ6_eW8AAzXPXjeW9d0pnw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Euler-4Ytic3FXQ-on6F0r4vHnvA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/East-West-Hotel-Ze4XX0GkAbMsfOc0sXObRA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Victoria-ENbPQmXK5dt8_9vpz3Qj0g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Metropol-Hotel-hfM9XczUlc845sUqSvtYSg?dwhat=hotele&dwhere=Basel>
+{'name': '\nMetropol Hotel\n', 'tel': '061 206 76 76', 'email': 'hotel@metropol-basel.ch', 'adress': '\nElisabethenanlage 5', 'website': 'www.metropol-basel.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-City-Inn-dsVhtuTLcAnc5fhsK_Bc8Q?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel City Inn\n', 'tel': '061 275 80 00', 'email': 'info@cityinn.ch', 'adress': '\nCentralbahnplatz 14', 'website': 'www.cityinn.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Restaurant/Resslirytti-atd2qUuneNZ81iHq_QbpBA?dwhat=hotele&dwhere=Basel>
+{'name': '\nResslirytti\n', 'tel': '061 691 66 41', 'email': 'hotel@resslirytti.ch', 'adress': '\nTheodorsgraben 42', 'website': 'www.resslirytti.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Restaurant/Rheinfelderhof-qswa_cSuQn1Hj-Rr7FZ8Pw?dwhat=hotele&dwhere=Basel>
+{'name': '\nRheinfelderhof\n', 'tel': '061 695 45 45', 'email': 'info@rheinfelderhof.ch', 'adress': '\nHammerstrasse 61', 'website': 'www.rheinfelderhof.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Krafft-TZ6_eW8AAzXPXjeW9d0pnw?dwhat=hotele&dwhere=Basel>
+{'name': '\nKrafft\n', 'tel': '061 690 91 30', 'email': 'info@krafftbasel.ch', 'adress': '\nRheingasse 12', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Alexander-wlkBs7HIJOWF-yfNt58R4g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Euler-4Ytic3FXQ-on6F0r4vHnvA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Euler\n', 'tel': '061 275 80 00', 'email': 'reservation@hoteleuler.ch', 'adress': '\nCentralbahnplatz 14', 'website': 'www.hoteleuler.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/East-West-Hotel-Ze4XX0GkAbMsfOc0sXObRA?dwhat=hotele&dwhere=Basel>
+{'name': '\nEast West Hotel\n', 'tel': '061 690 15 16', 'email': 'eastwesthotelbasel@outlook.com', 'adress': '\nRheingasse 8', 'website': 'www.hotelbasel.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Victoria-ENbPQmXK5dt8_9vpz3Qj0g?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Victoria\n', 'tel': '061 270 70 70', 'email': 'hotel-victoria@balehotels.ch', 'adress': '\nCentralbahnplatz 3-4', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=2&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Alexander-wlkBs7HIJOWF-yfNt58R4g?dwhat=hotele&dwhere=Basel>
+{'name': '\nAlexander\n', 'tel': '061 685 70 00', 'email': 'info@hotel-alexander-basel.ch', 'adress': '\nRiehenring 83/85', 'website': 'www.hotel-alexander-basel.ch'}
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4052/Hotel/Nomad-Design-Lifestyle-Hotel-jqESEWfZbbnfv7LLGLc9PA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Adagio--lP31HaIs6aB7o2H4EaHVg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4052/Hotel/Nomad-Design-Lifestyle-Hotel-jqESEWfZbbnfv7LLGLc9PA?dwhat=hotele&dwhere=Basel>
+{'name': '\nNomad Design & Lifestyle Hotel\n', 'tel': '061 690 91 60', 'email': 'info@nomad.ch', 'adress': '\nBrunngässlein 8', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Adagio--lP31HaIs6aB7o2H4EaHVg?dwhat=hotele&dwhere=Basel>
+{'name': '\nAdagio\n', 'tel': '061 686 46 00', 'email': None, 'adress': '\nHammerstrasse 46', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4054/Hotel/Hotel-Birsighof-ghX4FrhSHqFiwrrL_3cvag?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Schweizerhof-Basel-x7ZRf6zHN-tazn8lXH0H1g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-Pullman-Basel-Europe-IU40X5lV1y_tF1Aluw_Kmw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Rochat-FVGgHptPFLVHSmt92sKfiA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4001/Hotel/Hotel-Basel-LLjWjcD1fbJ39eCP50hmjA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4054/Hotel/Hotel-Birsighof-ghX4FrhSHqFiwrrL_3cvag?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Birsighof\n', 'tel': '061 273 30 30', 'email': 'info@birsighof.ch', 'adress': '\nBirsigstrasse 30', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Der-Teufelhof-Basel-EvXDFW3ulbAB1INCtK7JpQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Schweizerhof-Basel-x7ZRf6zHN-tazn8lXH0H1g?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Schweizerhof Basel\n', 'tel': '061 560 85 85', 'email': 'info@schweizerhof-basel.ch', 'adress': '\nCentralbahnplatz 1', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-Pullman-Basel-Europe-IU40X5lV1y_tF1Aluw_Kmw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Pullman Basel Europe\n', 'tel': '061 690 80 80', 'email': 'hotel-europe@balehotels.ch', 'adress': '\nClarastrasse 43', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Hotel-Rochat-FVGgHptPFLVHSmt92sKfiA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Rochat\n', 'tel': '061 261 81 40', 'email': 'info@hotelrochat.ch', 'adress': '\nPetersgraben 23', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4001/Hotel/Hotel-Basel-LLjWjcD1fbJ39eCP50hmjA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Basel\n', 'tel': '061 264 68 00', 'email': 'reception@hotel-basel.ch', 'adress': '\nMünzgasse 12', 'website': None}
+2019-05-09 23:46:12 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4052/Hotel/DASBREITEHOTEL-wqGH8tXE6RkTczPUxof0pA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Der-Teufelhof-Basel-EvXDFW3ulbAB1INCtK7JpQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nDer Teufelhof Basel\n', 'tel': '061 261 10 10', 'email': 'info@teufelhof.com', 'adress': '\nLeonhardsgraben 47-49', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4053/Hotel/Hotel-ibis-Basel-Bahnhof-jTF6Sw5j-aCy3cJNejHeJw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=3&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4052/Hotel/DASBREITEHOTEL-wqGH8tXE6RkTczPUxof0pA?dwhat=hotele&dwhere=Basel>
+{'name': '\nDASBREITEHOTEL\n', 'tel': '061 315 65 65', 'email': 'mail@dasbreitehotel.ch', 'adress': '\nZürcherstrasse 149', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4053/Hotel/Hotel-ibis-Basel-Bahnhof-jTF6Sw5j-aCy3cJNejHeJw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel ibis Basel Bahnhof\n', 'tel': '061 201 07 07', 'email': 'h6510@accor.com', 'adress': '\nMargarethenstrasse 33/35', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/HYPERION-Hotel-Basel-NYXbTuTHuc-1ysiJjO9OYA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Royal-EmVZdP8LGY4j5x7iQ5o9gA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Motel-One-Basel-rhou0elPURP6SjG4-QK9EQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Radisson-BLU-Hotel-QRgaXZVy7bClOt7dKGIlIA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-Wettstein-Rj11RWe2MXIFKvtpeyKM8w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Apartment-hotel/Ariba-Appart-Hotel-a4GACT7LQJY9dTibLJm9Fg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4053/Bed-and-Breakfast/Basel-Backpack-Jk9wHoYtKkYRGiw-chZikw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/HYPERION-Hotel-Basel-NYXbTuTHuc-1ysiJjO9OYA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHYPERION Hotel Basel\n', 'tel': '061 560 40 00', 'email': 'hyperion.basel@h-hotels.com', 'adress': '\nMesseplatz 12', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Royal-EmVZdP8LGY4j5x7iQ5o9gA?dwhat=hotele&dwhere=Basel>
+{'name': '\nRoyal\n', 'tel': '061 686 55 55', 'email': None, 'adress': '\nSchwarzwaldallee 179', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Motel-One-Basel-rhou0elPURP6SjG4-QK9EQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nMotel One Basel\n', 'tel': '061 226 22 00', 'email': None, 'adress': '\nBarfüssergasse 16', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Radisson-BLU-Hotel-QRgaXZVy7bClOt7dKGIlIA?dwhat=hotele&dwhere=Basel>
+{'name': '\nRadisson BLU Hotel\n', 'tel': '061 227 27 27', 'email': None, 'adress': '\nSteinentorstrasse 25', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-Wettstein-Rj11RWe2MXIFKvtpeyKM8w?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Wettstein\n', 'tel': '061 690 69 69', 'email': 'mail@hotelwettstein.ch', 'adress': '\nGrenzacherstrasse 8', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Apartment-hotel/Ariba-Appart-Hotel-a4GACT7LQJY9dTibLJm9Fg?dwhat=hotele&dwhere=Basel>
+{'name': '\nAriba Appart Hotel\n', 'tel': '061 271 37 14', 'email': 'info@aribahotel.ch', 'adress': '\nSpalentorweg 62', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4053/Bed-and-Breakfast/Basel-Backpack-Jk9wHoYtKkYRGiw-chZikw?dwhat=hotele&dwhere=Basel>
+{'name': '\nBasel Backpack\n', 'tel': '061 333 00 37', 'email': 'info@baselbackpack.com', 'adress': '\nHostel BackPack', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4001/Hotel/Stadthof-98NGSZFZQW_KbWinqx3hCg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4056/Conference-facilities/Spalentor-Hotel-Basel-72buFMjxLWuRsbTHYmC40w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/ABC-Appartementhaus-geizwKxKSb4qKoM7wx241w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=4&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4001/Hotel/Stadthof-98NGSZFZQW_KbWinqx3hCg?dwhat=hotele&dwhere=Basel>
+{'name': '\nStadthof\n', 'tel': '061 261 87 11', 'email': None, 'adress': '\nGerbergasse 84', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4056/Conference-facilities/Spalentor-Hotel-Basel-72buFMjxLWuRsbTHYmC40w?dwhat=hotele&dwhere=Basel>
+{'name': '\nSpalentor Hotel Basel\n', 'tel': '061 262 26 26', 'email': 'info@hotelspalentor.ch', 'adress': '\nSchönbeinstrasse 1', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/ABC-Appartementhaus-geizwKxKSb4qKoM7wx241w?dwhat=hotele&dwhere=Basel>
+{'name': '\nABC Appartementhaus\n', 'tel': '061 777 71 11', 'email': 'mail@abc-appartementhaus.ch', 'adress': '\nRömergasse 29', 'website': None}
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/Basel-Tourismus-Hotelreservation-NggnwfzuJk5QIBcHcqA_jg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:13 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Inn/Rheinhof-fEkgjWN6NHt27KrCPErUZA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4052/Hotel/Hotel-Novotel-Basel-City-44q4h5KK84dDUNtGG0bBQA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/Basel-Tourismus-Hotelreservation-NggnwfzuJk5QIBcHcqA_jg?dwhat=hotele&dwhere=Basel>
+{'name': '\nBasel Tourismus Hotelreservation\n', 'tel': '061 268 68 68', 'email': None, 'adress': '\nAeschenvorstadt 36', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4056/Saddlery/Sattlerei-Bayer-Isla-_iSEm5ed6t407lK61wolyw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4057/Hotel/Hotel-Locanda-GmbH-VK8luv9bRptxLLha9EkeQA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Restaurant/Hotel-Sonne-AG-yml5LJT6U6VGgNnErnajcQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Inn/Rheinhof-fEkgjWN6NHt27KrCPErUZA?dwhat=hotele&dwhere=Basel>
+{'name': '\nRheinhof\n', 'tel': '061 681 00 06', 'email': None, 'adress': '\nRheingasse 17', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-Hecht-Huttenmoser-AG-DsAZ4HEfMpbEj0IE6BZ9og?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4052/Hotel/Hotel-Novotel-Basel-City-44q4h5KK84dDUNtGG0bBQA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Novotel Basel City\n', 'tel': '061 306 68 68', 'email': None, 'adress': '\nGrosspeterstrasse 12', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/White-Horse-yaevW9o7Y7bnC48HdORrFg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4056/Saddlery/Sattlerei-Bayer-Isla-_iSEm5ed6t407lK61wolyw?dwhat=hotele&dwhere=Basel>
+{'name': '\nSattlerei Bayer Isla\n', 'tel': '061 321 04 66', 'email': 'sattlereibayer@hotmail.com', 'adress': '\nFatiostrasse 22', 'website': 'www.sattlereibayer.ch'}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4057/Hotel/Hotel-Locanda-GmbH-VK8luv9bRptxLLha9EkeQA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Locanda GmbH\n', 'tel': '061 699 20 20', 'email': 'info@hotel-locanda.ch', 'adress': '\nDrahtzugstrasse 61', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Restaurant/Hotel-Sonne-AG-yml5LJT6U6VGgNnErnajcQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Sonne AG\n', 'tel': '061 681 00 20', 'email': None, 'adress': '\nRheingasse 25', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel/hotel-brasserie-au-violon-S3MKLqL7vYeEOnciVkB6Mg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel/easyHotel-Basel-kXQYdMfh7tBlM7Qt9TDsFg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=5&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/Hotel-Hecht-Huttenmoser-AG-DsAZ4HEfMpbEj0IE6BZ9og?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Hecht Hüttenmoser AG\n', 'tel': '061 690 15 15', 'email': 'hotelhecht@hotmail.com', 'adress': '\nRheingasse 8', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/White-Horse-yaevW9o7Y7bnC48HdORrFg?dwhat=hotele&dwhere=Basel>
+{'name': '\nWhite Horse\n', 'tel': '061 691 57 57', 'email': 'whitehorse-hotel@bluewin.ch', 'adress': '\nWebergasse 23', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel/hotel-brasserie-au-violon-S3MKLqL7vYeEOnciVkB6Mg?dwhat=hotele&dwhere=Basel>
+{'name': '\nhotel brasserie au violon\n', 'tel': '061 269 87 11', 'email': 'info@au-violon.com', 'adress': '\nIm Lohnhof 4', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel/easyHotel-Basel-kXQYdMfh7tBlM7Qt9TDsFg?dwhat=hotele&dwhere=Basel>
+{'name': '\neasyHotel Basel\n', 'tel': '061 683 55 80', 'email': 'basel@easyhotel.com', 'adress': '\nRiehenring 109', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4056/Pflegehotel-St-Johann-awj-3w-6gkUU2qz2PYvvhg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel-Dorint-an-der-Messe-Basel-zkdy88Jc-EE6vOO_KKoojw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel-Balade-joP6y-jEY_zvXsJlXgeSEg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/HotelD-Basel-OYgMU4i9DBxkcGu9TTwXaw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4057/Club/Club-Grand-Hotel-Palace-C-RLc8wSoWPqRRkgbMv6nA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Travel-agency/Hotelplan-MTCH-AG-flfbsHYd7kpQNYpbgPbdsQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4056/Pflegehotel-St-Johann-awj-3w-6gkUU2qz2PYvvhg?dwhat=hotele&dwhere=Basel>
+{'name': '\nPflegehotel St. Johann\n', 'tel': '061 326 16 16', 'email': None, 'adress': '\nSt. Johanns-Ring 122', 'website': 'www.pflegehotel-stjohann.ch'}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel-Dorint-an-der-Messe-Basel-zkdy88Jc-EE6vOO_KKoojw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Dorint an der Messe Basel\n', 'tel': '061 695 70 00', 'email': 'info.basel@dorint.com', 'adress': '\nSchönaustrasse 10', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4053/Travel-agency/Hotelplan-MTCH-AG-MParc-Dreispitz-8v2yq8KYttejf7SyzAaDsg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel-Balade-joP6y-jEY_zvXsJlXgeSEg?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Balade\n', 'tel': '061 699 19 00', 'email': 'balade@welcomehotels.ch', 'adress': '\nKlingental 8', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/HotelD-Basel-OYgMU4i9DBxkcGu9TTwXaw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel.D Basel\n', 'tel': '061 272 20 20', 'email': None, 'adress': '\nBlumenrain 19', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4057/Club/Club-Grand-Hotel-Palace-C-RLc8wSoWPqRRkgbMv6nA?dwhat=hotele&dwhere=Basel>
+{'name': '\nClub Grand Hôtel & Palace\n', 'tel': '061 693 44 88', 'email': 'gubser@clubgrandhotelpalace.ch', 'adress': '\nFeldbergstrasse 86', 'website': 'www.clubgrandhotelpalace.ch'}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Travel-agency/Hotelplan-MTCH-AG-flfbsHYd7kpQNYpbgPbdsQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotelplan, MTCH AG\n', 'tel': '061 666 65 40', 'email': 'basel-rebgasse@hotelplan.ch', 'adress': '\nUntere Rebgasse 8', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Hotel-The-Passage-MjT-aZl_6wNNOA3RTbz1Pg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Sorell-Hotel-Merian-V3GT4TQKgdyevc3SdM2C5w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4052/Hotel-ibis-budget-Basel-City-aleMBdYFJuk-BaxD6TH63w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4053/Travel-agency/Hotelplan-MTCH-AG-MParc-Dreispitz-8v2yq8KYttejf7SyzAaDsg?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotelplan, MTCH AG, MParc Dreispitz\n', 'tel': '061 260 30 10', 'email': 'basel-mparc@hotelplan.ch', 'adress': '\nMünchensteinerstrasse 200', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Hotel-The-Passage-MjT-aZl_6wNNOA3RTbz1Pg?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel The Passage\n', 'tel': '061 631 51 51', 'email': None, 'adress': '\nSteinengraben 51', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=6&rid=kkR8)
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Sorell-Hotel-Merian-V3GT4TQKgdyevc3SdM2C5w?dwhat=hotele&dwhere=Basel>
+{'name': '\nSorell Hotel Merian\n', 'tel': '061 685 11 11', 'email': None, 'adress': '\nRheingasse 2', 'website': None}
+2019-05-09 23:46:14 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4052/Hotel-ibis-budget-Basel-City-aleMBdYFJuk-BaxD6TH63w?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel ibis budget Basel City\n', 'tel': '061 317 40 00', 'email': 'H8211@accor.com', 'adress': '\nGrosspeterstrasse 12', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Dorint-Hotels-Resorts-owUxGMJ1iVeJcF5haGWRXQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Banquet/Bankett-und-Veranstaltungsservice-im-Hotel-Pullman-Basel-Europe-Gfvzrk73Y5wFlLVIgGlM8w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4057/Hotel-Stucki-TlJigxbymW1kSuW6kFNUTA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4057/Apartment-building/Appartement-Hotel-Locanda-Py1IGdaWfEycV0CrkTrKIw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Dorint-Hotels-Resorts-owUxGMJ1iVeJcF5haGWRXQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nDorint Hotels & Resorts\n', 'tel': '061 691 00 16', 'email': None, 'adress': '\nSchönaustrasse 10', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4001/Restaurant/Sperber-qNIFl4c50BsTiOP2Qsp9ow?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4001/Restaurant/Brasserie-Steiger-c-2lv6u8m425r81ZnDUMsg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Banquet/Bankett-und-Veranstaltungsservice-im-Hotel-Pullman-Basel-Europe-Gfvzrk73Y5wFlLVIgGlM8w?dwhat=hotele&dwhere=Basel>
+{'name': '\nBankett- und Veranstaltungsservice im Hotel Pullman Basel Europe\n', 'tel': '061 690 87 40', 'email': None, 'adress': '\nClarastrasse 43', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Restaurant/Le-Train-Bleu-O0Ngxk0M3sQOTxRWX64Dcg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4057/Hotel-Stucki-TlJigxbymW1kSuW6kFNUTA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Stücki\n', 'tel': '061 638 34 34', 'email': 'stuecki@welcomehotels.ch', 'adress': '\nBadenstrasse 1', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Catering-service/Radisson-Blu-Hotel-4-z9K2vcvl1AyYpsiYSkpA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4057/Apartment-building/Appartement-Hotel-Locanda-Py1IGdaWfEycV0CrkTrKIw?dwhat=hotele&dwhere=Basel>
+{'name': '\nAppartement Hotel Locanda\n', 'tel': '061 699 20 20', 'email': None, 'adress': '\nSperrstrasse 47', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Microhotel-GmbH-iHVyMo9KUd-LfDhcZFl-Lg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Hotel-White-Horse-Knauseder-l24gByFV5XtINUVCOuxpNw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4001/Restaurant/Sperber-qNIFl4c50BsTiOP2Qsp9ow?dwhat=hotele&dwhere=Basel>
+{'name': '\nSperber\n', 'tel': '061 264 68 00', 'email': 'reception@hotel-basel.ch', 'adress': '\nMünzgasse 12', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4001/Restaurant/Brasserie-Steiger-c-2lv6u8m425r81ZnDUMsg?dwhat=hotele&dwhere=Basel>
+{'name': '\nBrasserie Steiger\n', 'tel': '061 264 68 28', 'email': 'reception@hotel-basel.ch', 'adress': '\nMünzgasse 12', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Restaurant/Le-Train-Bleu-O0Ngxk0M3sQOTxRWX64Dcg?dwhat=hotele&dwhere=Basel>
+{'name': '\nLe Train Bleu\n', 'tel': '061 270 78 17', 'email': None, 'adress': '\nCentralbahnplatz 3', 'website': 'www.hotel-victoria-basel.ch'}
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Catering-service/Radisson-Blu-Hotel-4-z9K2vcvl1AyYpsiYSkpA?dwhat=hotele&dwhere=Basel>
+{'name': '\nRadisson Blu Hotel\n', 'tel': '061 227 29 75', 'email': None, 'adress': '\nSteinentorstrasse 25', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Microhotel-GmbH-iHVyMo9KUd-LfDhcZFl-Lg?dwhat=hotele&dwhere=Basel>
+{'name': '\nMicrohotel GmbH\n', 'tel': '061 686 90 60', 'email': None, 'adress': '\nBleichestrasse 19', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Hotel-White-Horse-Knauseder-l24gByFV5XtINUVCOuxpNw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel White Horse Knauseder\n', 'tel': '061 222 27 02', 'email': None, 'adress': '\nWebergasse 23', 'website': None}
+2019-05-09 23:46:15 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=7&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4001/Restaurant/Brotlibar-fuStGCTGXdHxRM6x6vBZSg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4056/Buro-Schiesser-9tBrG-88SCx4pzW4Uh75gQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4051/Gastrag-8s6D1M3SDawAUKZKiRs-Yw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Binningen/4102/Restaurant/Schloss-Binningen-DFT6AElALLAm9lX3Tluq_A?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4001/Restaurant/Brotlibar-fuStGCTGXdHxRM6x6vBZSg?dwhat=hotele&dwhere=Basel>
+{'name': '\nBrötlibar\n', 'tel': '061 261 87 11', 'email': None, 'adress': '\nGerbergasse 84', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4056/Buro-Schiesser-9tBrG-88SCx4pzW4Uh75gQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nBüro Schiesser\n', 'tel': '061 322 44 90', 'email': None, 'adress': '\nFlughafenstrasse 215', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4051/Gastrag-8s6D1M3SDawAUKZKiRs-Yw?dwhat=hotele&dwhere=Basel>
+{'name': '\nGastrag\n', 'tel': '061 205 85 85', 'email': 'contact@gastrag.ch', 'adress': '\nElisabethenanlage 7', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4057/Basel-Rooms-Appartements-_ccS8CMpyUqty20wDMLAdw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Birsfelden/4127/Hotel/Alfa-9gDmc8bLdGe9J6I51vGLLg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Binningen/4102/Restaurant/Schloss-Binningen-DFT6AElALLAm9lX3Tluq_A?dwhat=hotele&dwhere=Basel>
+{'name': '\nSchloss Binningen\n', 'tel': '061 425 60 00', 'email': 'info@schlossbinningen.ch', 'adress': '\nSchlossgasse 5', 'website': 'www.schlossbinningen.ch'}
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4052/Grocery-store/Trebla-AG-Lc8s4mY0TiKM2iJQtBdUAw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4052/Jugendherberge-Basel-ozRxQDcjvf5ziWNZL33Vlg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Basel/4058/Swissotel-Le-Plaza-Basel-ESVOdVFIK4ShOiphljFvfw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Birsfelden/4127/Restaurant/Hotel-Restaurant-Waldhaus-W-c4JiS4h4asWs2EzQEyvg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4057/Basel-Rooms-Appartements-_ccS8CMpyUqty20wDMLAdw?dwhat=hotele&dwhere=Basel>
+{'name': '\nBasel Rooms Appartements\n', 'tel': '061 382 33 22', 'email': 'info@basel-rooms.ch', 'adress': '\nBärenfelserstrasse 30', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Birsfelden/4127/Hotel/Alfa-9gDmc8bLdGe9J6I51vGLLg?dwhat=hotele&dwhere=Basel>
+{'name': '\nAlfa\n', 'tel': '061 315 62 62', 'email': 'info@alfa-hotel-birsfelden.ch', 'adress': '\nHauptstrasse 15', 'website': 'www.alfa-hotel-birsfelden.ch'}
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=8&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4052/Grocery-store/Trebla-AG-Lc8s4mY0TiKM2iJQtBdUAw?dwhat=hotele&dwhere=Basel>
+{'name': '\nTrebla AG\n', 'tel': '061 313 88 18', 'email': None, 'adress': '\nJacob Burckhardt-Strasse 22', 'website': 'www.trebla.ch'}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4052/Jugendherberge-Basel-ozRxQDcjvf5ziWNZL33Vlg?dwhat=hotele&dwhere=Basel>
+{'name': '\nJugendherberge Basel\n', 'tel': '061 272 05 72', 'email': 'basel@youthhostel.ch', 'adress': '\nSt. Alban-Kirchrain 10', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Basel/4058/Swissotel-Le-Plaza-Basel-ESVOdVFIK4ShOiphljFvfw?dwhat=hotele&dwhere=Basel>
+{'name': '\nSwissôtel Le Plaza Basel\n', 'tel': '061 555 33 33', 'email': 'basel@swissotel.com', 'adress': '\nMesseplatz 25', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Birsfelden/4127/Restaurant/Hotel-Restaurant-Waldhaus-W-c4JiS4h4asWs2EzQEyvg?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel-Restaurant Waldhaus\n', 'tel': '061 313 00 11', 'email': 'info@waldhaus-basel.ch', 'adress': '\nRheinfelderstrasse', 'website': 'www.waldhaus-basel.ch'}
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Laufen/4242/Restaurant/Hotel-Restaurant-Central-AG-dS4MNs-4WCiq0qt4dV9c9A?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Pratteln/4133/Hotel/Courtyard-by-Marriott-Basel-5jc7gd_axe3l1ZA8gbP-2g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Rheinfelden/4310/Hotel/Hotel-EDEN-im-Park-Restaurant-Makaan-g_-qtJ60mB8uLcysTCs4KA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Rheinfelden/4310/Hotel/Hotel-Schiff-am-Rhein-Restaurant-Rhyblick-rdx5O-DVoMa8hQLOH5RqRA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Frenkendorf/4402/Restaurant/Wilden-Mann-Vg98F2dn5iMYvELdmsiexg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Allschwil/4123/Hotel/Hotel-Schlussel-Allschwil-Ucf1gCyvRciu9Mu1hIihvw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Laufen/4242/Restaurant/Hotel-Restaurant-Central-AG-dS4MNs-4WCiq0qt4dV9c9A?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Restaurant Central AG\n', 'tel': '061 761 61 03', 'email': 'info@central-laufen.ch', 'adress': '\nRöschenzstrasse 3', 'website': 'www.central-laufen.ch'}
+2019-05-09 23:46:16 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Binningen/4102/Restaurant/Hotel-Schlussel-dfx1wyKHWQ9nXEp1z1Xf4w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Pratteln/4133/Hotel/Courtyard-by-Marriott-Basel-5jc7gd_axe3l1ZA8gbP-2g?dwhat=hotele&dwhere=Basel>
+{'name': '\nCourtyard by Marriott Basel\n', 'tel': '061 827 17 17', 'email': None, 'adress': '\nHardstrasse 55', 'website': None}
+2019-05-09 23:46:16 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Rheinfelden/4310/Hotel/Hotel-EDEN-im-Park-Restaurant-Makaan-g_-qtJ60mB8uLcysTCs4KA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel EDEN im Park Restaurant Makaan\n', 'tel': '061 836 24 24', 'email': 'willkommen@hoteleden.ch', 'adress': '\nFroneggweg 3', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Rheinfelden/4310/Hotel/Hotel-Schiff-am-Rhein-Restaurant-Rhyblick-rdx5O-DVoMa8hQLOH5RqRA?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Schiff am Rhein Restaurant Rhyblick\n', 'tel': '061 836 22 22', 'email': 'willkommen@hotelschiff.ch', 'adress': '\nMarktgasse 60', 'website': 'www.hotelschiff.ch'}
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Frenkendorf/4402/Restaurant/Wilden-Mann-Vg98F2dn5iMYvELdmsiexg?dwhat=hotele&dwhere=Basel>
+{'name': '\nWilden Mann\n', 'tel': '061 901 57 17', 'email': 'info@hotel-wildenmann.com', 'adress': '\nSchulstrasse 1', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Allschwil/4123/Hotel/Hotel-Schlussel-Allschwil-Ucf1gCyvRciu9Mu1hIihvw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Schlüssel Allschwil\n', 'tel': '061 481 00 40', 'email': None, 'adress': '\nMühlebachweg 1', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Binningen/4102/Restaurant/Hotel-Schlussel-dfx1wyKHWQ9nXEp1z1Xf4w?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Schlüssel\n', 'tel': '061 422 23 23', 'email': 'info@hotel-binningen.ch', 'adress': '\nSchlüsselgasse 1', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Rheinfelden/4310/Hotel/Hotel-Schutzen-Rheinfelden-rDXbzF7RBgyYWqq29eXDbQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Fullinsdorf/4414/Trading-company/Capro-GmbH-UGicRqxet6omiIAP2WorZA?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Aesch-BL/4147/Guesthouse-furnishing/Uehlinger-AG-m7spbSWBx3BTy3ZxVKKb9g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=9&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Rheinfelden/4310/Hotel/Hotel-Schutzen-Rheinfelden-rDXbzF7RBgyYWqq29eXDbQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Schützen Rheinfelden\n', 'tel': '061 836 25 25', 'email': 'willkommen@hotelschuetzen.ch', 'adress': '\nBahnhofstrasse 19', 'website': 'www.hotelschuetzen.ch'}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Fullinsdorf/4414/Trading-company/Capro-GmbH-UGicRqxet6omiIAP2WorZA?dwhat=hotele&dwhere=Basel>
+{'name': '\nCapro GmbH\n', 'tel': '061 905 20 10', 'email': None, 'adress': '\nSchneckelerstrasse 4', 'website': 'www.capro.ch'}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Aesch-BL/4147/Guesthouse-furnishing/Uehlinger-AG-m7spbSWBx3BTy3ZxVKKb9g?dwhat=hotele&dwhere=Basel>
+{'name': '\nUehlinger AG\n', 'tel': '061 317 30 30', 'email': 'info@uehlingerag.ch', 'adress': '\nNordring 2', 'website': 'www.uehlingerpapier.ch'}
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Reinach-BL/4153/Restaurant/Reinacherhof-Hotel-Restaurant-5wsNYSC7qhl99kPlERFq8g?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Rheinfelden/4310/Swimming-pool/Hotel-EDEN-im-Park-QEJxeedEGqDOqRpOoVZXkw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Riehen/4125/Restaurant/Landgasthof-Hotel-SsR089bcyVX5uQUk7TZFMw?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Pratteln/4133/IT-Information-Technology/hotelplus-GmbH-OjEPzPV51sQw7cGTPKxjUg?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Allschwil/4123/Hotel/Rossli-Allschwil-AG-GWcNVj7AqceSWB__Wu868w?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Munchenstein/4142/Restaurant/Hotel-Hofmatt-GmbH-Xm-I_ESd4Pu0Yj9HQAgt4A?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Binningen/4102/Hotel/Hotel-im-Schlosspark-l5C_5wmupLB5yiRT1hTvrQ?dwhat=hotele&dwhere=Basel> (referer: https://tel.local.ch/en/q/Basel/hotele.html?page=10&rid=kkR8)
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Reinach-BL/4153/Restaurant/Reinacherhof-Hotel-Restaurant-5wsNYSC7qhl99kPlERFq8g?dwhat=hotele&dwhere=Basel>
+{'name': '\nReinacherhof Hotel & Restaurant\n', 'tel': '061 716 94 16', 'email': 'info@hotel-reinacherhof.ch', 'adress': '\nIm Reinacherhof 177', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Rheinfelden/4310/Swimming-pool/Hotel-EDEN-im-Park-QEJxeedEGqDOqRpOoVZXkw?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel EDEN im Park\n', 'tel': '061 836 24 24', 'email': 'willkommen@hoteleden.ch', 'adress': '\nFroneggweg 3', 'website': 'www.hoteleden.ch'}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Riehen/4125/Restaurant/Landgasthof-Hotel-SsR089bcyVX5uQUk7TZFMw?dwhat=hotele&dwhere=Basel>
+{'name': '\nLandgasthof Hotel\n', 'tel': '061 645 50 70', 'email': None, 'adress': '\nBaselstrasse 38', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Pratteln/4133/IT-Information-Technology/hotelplus-GmbH-OjEPzPV51sQw7cGTPKxjUg?dwhat=hotele&dwhere=Basel>
+{'name': '\nhotelplus GmbH\n', 'tel': '061 485 16 60', 'email': None, 'adress': '\nRheinstrasse 81', 'website': 'hotelplus.ch'}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Allschwil/4123/Hotel/Rossli-Allschwil-AG-GWcNVj7AqceSWB__Wu868w?dwhat=hotele&dwhere=Basel>
+{'name': '\nRössli Allschwil AG\n', 'tel': '061 486 96 96', 'email': 'hotel@roessli-allschwil.ch', 'adress': '\nDorfplatz 1', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Munchenstein/4142/Restaurant/Hotel-Hofmatt-GmbH-Xm-I_ESd4Pu0Yj9HQAgt4A?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel Hofmatt GmbH\n', 'tel': '061 416 08 48', 'email': None, 'adress': '\nBaselstrasse 88', 'website': None}
+2019-05-09 23:46:17 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Binningen/4102/Hotel/Hotel-im-Schlosspark-l5C_5wmupLB5yiRT1hTvrQ?dwhat=hotele&dwhere=Basel>
+{'name': '\nHotel im Schlosspark\n', 'tel': '061 425 60 00', 'email': 'info@schlossbinningen.ch', 'adress': '\nSchlossgasse 5', 'website': None}
+2019-05-09 23:46:17 [scrapy] INFO: Closing spider (finished)
+2019-05-09 23:46:17 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 101447,
+ 'downloader/request_count': 108,
+ 'downloader/request_method_count/GET': 108,
+ 'downloader/response_bytes': 1424450,
+ 'downloader/response_count': 108,
+ 'downloader/response_status_count/200': 108,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 5, 9, 21, 46, 17, 696409),
+ 'item_scraped_count': 97,
+ 'log_count/CRITICAL': 6,
+ 'log_count/DEBUG': 205,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 10,
+ 'response_received_count': 108,
+ 'scheduler/dequeued': 107,
+ 'scheduler/dequeued/memory': 107,
+ 'scheduler/enqueued': 107,
+ 'scheduler/enqueued/memory': 107,
+ 'start_time': datetime.datetime(2019, 5, 9, 21, 46, 9, 875807)}
+2019-05-09 23:46:17 [scrapy] INFO: Spider closed (finished)

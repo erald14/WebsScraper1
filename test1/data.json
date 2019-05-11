@@ -1,0 +1,2442 @@
+[
+  {
+    "name": "\nH\u00f4tel d'All\u00e8ves\n",
+    "tel": "022 732 15 30",
+    "email": "info@hoteldalleves.ch",
+    "adress": "\nRue du Cendrier 16",
+    "website": "www.hoteldalleves.ch"
+  },
+  {
+    "name": "\nHOTEL DE GENEVE\n",
+    "tel": "022 908 54 00",
+    "email": "contact@hotel-de-geneve.ch",
+    "adress": "\nPlace Isaac-Mercier 1",
+    "website": "www.hotel-de-geneve.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Sagitta\n",
+    "tel": "022 786 33 61",
+    "email": "reservation@hotelsagitta.ch",
+    "adress": "\nRue de La Fl\u00e8che 6",
+    "website": "www.hotelsagitta.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Strasbourg\n",
+    "tel": "022 906 58 00",
+    "email": "strasbourg@fhotels.ch",
+    "adress": "\nRue Pradier 10",
+    "website": "www.hotelstrasbourg.ch"
+  },
+  {
+    "name": "\nManoir\n",
+    "tel": "022 752 21 50",
+    "email": null,
+    "adress": "\nChemin Armand-Dufaux 22",
+    "website": "www.hotel-restaurant-le-manoir.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Bel'Esp\u00e9rance\n",
+    "tel": "022 818 37 37",
+    "email": null,
+    "adress": "\nRue de la Vall\u00e9e 1",
+    "website": "www.hotel-bel-esperance.ch"
+  },
+  {
+    "name": "\nAuberge Port Gitana\n",
+    "tel": "022 774 31 48",
+    "email": "resto@port-gitana.ch",
+    "adress": "\nRoute de Lausanne 314",
+    "website": "www.port-gitana.ch"
+  },
+  {
+    "name": "\nCentral\n",
+    "tel": "022 818 81 00",
+    "email": "info@hotelcentral.ch",
+    "adress": "\nRue de la R\u00f4tisserie 2",
+    "website": "www.hotelcentral.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png",
+      "info@hotelcentral.ch",
+      "info@hotelcentral.ch",
+      "info@hotelcentral.ch"
+    ]
+  },
+  {
+    "name": "\nGrand Hotel Kempinski Geneva\n",
+    "tel": "022 908 90 81",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": "www.kempinski.com",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png"
+    ]
+  },
+  {
+    "name": "\nH\u00f4tel des Alpes\n",
+    "tel": "022 731 22 00",
+    "email": "hotelalpes@switel.ch",
+    "adress": "\nRue des Alpes 14",
+    "website": "www.hotelalpes.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Carmen\n",
+    "tel": "022 329 11 11",
+    "email": "hotelcarmen.gasser@bluewin.ch",
+    "adress": "\nRue Dancet 5",
+    "website": "www.hotel-carmen.ch"
+  },
+  {
+    "name": "\nLa Veranda\n",
+    "tel": "022 906 97 79",
+    "email": null,
+    "adress": "\nRue Des Alpes 20",
+    "website": "www.restaurant-veranda.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png"
+    ]
+  },
+  {
+    "name": "\nDomaine de Ch\u00e2teauvieux\n",
+    "tel": "022 753 15 11",
+    "email": "reservation@chateauvieux.ch",
+    "adress": "\nChemin de Ch\u00e2teauvieux 16",
+    "website": "www.chateauvieux.ch"
+  },
+  {
+    "name": "\nH\u00f4tel de la Cigogne\n",
+    "tel": "022 818 40 40",
+    "email": null,
+    "adress": "\nPlace de Longemalle 17",
+    "website": "www.cigogne.ch"
+  },
+  {
+    "name": "\nAuberge d'Hermance\n",
+    "tel": "022 751 13 68",
+    "email": "info@hotel-hermance.ch",
+    "adress": "\nRue du Midi 12",
+    "website": "www.hotel-hermance.ch"
+  },
+  {
+    "name": "\nRAMADA Encore Gen\u00e8ve\n",
+    "tel": "022 309 50 00",
+    "email": "info@encoregeneve.ch",
+    "adress": "\nRoute des Jeunes 12",
+    "website": "www.ramada-encore-geneve.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Pr\u00e9sident Wilson, a Luxury Collection Hotel\n",
+    "tel": "022 906 66 66",
+    "email": null,
+    "adress": "\nQuai Wilson 47",
+    "website": "www.hotelpresidentwilson.com"
+  },
+  {
+    "name": "\nH\u00f4tel M\u00e9tropole Gen\u00e8ve\n",
+    "tel": "022 318 32 00",
+    "email": null,
+    "adress": "\nQuai du G\u00e9n\u00e9ral-Guisan 34",
+    "website": "www.metropole.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Drake Longchamp\n",
+    "tel": "022 716 48 48",
+    "email": null,
+    "adress": "\nRue Butini 7",
+    "website": "www.hdlge.ch"
+  },
+  {
+    "name": "\nParc des Eaux-Vives\n",
+    "tel": "022 849 75 75",
+    "email": "info@p-e-v.ch",
+    "adress": "\nQuai Gustave-Ador 82",
+    "website": "www.parcdeseauxvives.ch"
+  },
+  {
+    "name": "\nLe Richemond, Gen\u00e8ve\n",
+    "tel": "022 715 70 00",
+    "email": "reservations@lerichemond.com",
+    "adress": "\nRue Adh\u00e9mar-Fabri 8-10",
+    "website": "www.lerichemond.com"
+  },
+  {
+    "name": "\nCrowne Plaza Geneva\n",
+    "tel": "022 710 30 00",
+    "email": "info@cpgva.ch",
+    "adress": "\nAvenue Louis-Casa\u00ef 75-77",
+    "website": "www.cpgva.ch"
+  },
+  {
+    "name": "\nMon-Repos\n",
+    "tel": "022 909 39 09",
+    "email": "reservations@hmrge.ch",
+    "adress": "\nRue de Lausanne 131-133",
+    "website": "www.hotelmonrepos.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Bristol\n",
+    "tel": "022 716 57 00",
+    "email": null,
+    "adress": "\nRue du Mont-Blanc 10",
+    "website": "www.bristol.ch"
+  },
+  {
+    "name": "\nFraser Suites Geneva\n",
+    "tel": "022 525 98 88",
+    "email": "reservations.geneva@frasershospitality.com",
+    "adress": "\nRue de la R\u00f4tisserie 5",
+    "website": "geneva.frasershospitality.com"
+  },
+  {
+    "name": "\nModerne\n",
+    "tel": "022 732 81 00",
+    "email": "info@hotelmoderne.ch",
+    "adress": "\nRue de Berne 1",
+    "website": "www.hotelmoderne.ch"
+  },
+  {
+    "name": "\nGeneva Hostel\n",
+    "tel": "022 732 62 60",
+    "email": "info@genevahostel.ch",
+    "adress": "\nRue Rothschild 28",
+    "website": "www.genevahostel.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Pension SILVA\n",
+    "tel": "022 749 18 10",
+    "email": null,
+    "adress": "\nRue Jean-Robert-Chouet 7",
+    "website": "www.hotel-silva.ch"
+  },
+  {
+    "name": "\nH\u00f4tel-R\u00e9sidence Cit\u00e9-Verdaine\n",
+    "tel": "022 312 01 20",
+    "email": "reservation@cite-verdaine.ch",
+    "adress": "\nRue du Vieux-Coll\u00e8ge 5",
+    "website": "www.cite-verdaine.ch"
+  },
+  {
+    "name": "\nTiffany H\u00f4tel\n",
+    "tel": "022 708 16 16",
+    "email": "info@tiffanyhotel.ch",
+    "adress": "\nRue de l'Arquebuse 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Bernina 1932 SA\n",
+    "tel": "022 908 49 50",
+    "email": "info@bernina-geneve.ch",
+    "adress": "\nPlace de Cornavin 22",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMontbrillant\n",
+    "tel": "022 733 77 84",
+    "email": "contact@montbrillant.ch",
+    "adress": "\nRue de Montbrillant 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel ibis Geneve Centre Gare\n",
+    "tel": "022 338 20 20",
+    "email": "h2154@accor.com",
+    "adress": "\nRue Voltaire 10",
+    "website": "www.ibishotel.com/fr/hotel-2154-ibis-geneve-centre-gare/index.shtml"
+  },
+  {
+    "name": "\nH\u00f4tel d'Angleterre\n",
+    "tel": "022 906 55 55",
+    "email": "angleterre@rchmail.com",
+    "adress": "\nQuai du Mont-Blanc 17",
+    "website": "www.hoteldangleterre.ch"
+  },
+  {
+    "name": "\nHoliday Inn Express Geneva Airport\n",
+    "tel": "022 939 39 39",
+    "email": "info@hiexgeneva.com",
+    "adress": "\nRoute de Pr\u00e9-Bois 16",
+    "website": "www.hiexgeneva.com"
+  },
+  {
+    "name": "\nBeau-Rivage\n",
+    "tel": "022 716 66 66",
+    "email": "info@beau-rivage.ch",
+    "adress": "\nQuai du Mont-Blanc 13",
+    "website": "www.beau-rivage.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png"
+    ]
+  },
+  {
+    "name": "\nEden\n",
+    "tel": "022 716 37 00",
+    "email": "eden@eden.ch",
+    "adress": "\nRue de Lausanne 135",
+    "website": "www.eden.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png",
+      "info@crea-immobilier.ch",
+      "info@crea-immobilier.ch",
+      "thalassor@bluewin.ch",
+      "info@crea-immobilier.ch",
+      "thalassor@bluewin.ch",
+      "info@crea-immobilier.ch"
+    ]
+  },
+  {
+    "name": "\nR\u00e9sidences Universitaires Internationales\n",
+    "tel": "022 716 02 02",
+    "email": "rui@unige.ch",
+    "adress": "\nRue Rothschild 22",
+    "website": "www.frui.ch"
+  },
+  {
+    "name": "\nIbis Styles Geneve Mont-Blanc\n",
+    "tel": "022 909 86 00",
+    "email": null,
+    "adress": "\nRue de Berne 15",
+    "website": "www.ibis.com"
+  },
+  {
+    "name": "\nAppart'H\u00f4tel R\u00e9sidence Dizerens\n",
+    "tel": "022 809 61 11",
+    "email": "info@residencedizerens.ch",
+    "adress": "\nRue Dizerens 7B",
+    "website": "www.residencedizerens.ch"
+  },
+  {
+    "name": "\nle C\u00e9nacle\n",
+    "tel": "022 707 08 30",
+    "email": "info@cenacle.ch",
+    "adress": "\nPromenade Charles-Martin 17",
+    "website": "www.cenacle.ch"
+  },
+  {
+    "name": "\nThe Ambassador\n",
+    "tel": "022 908 05 30",
+    "email": "info@the-ambassador.ch",
+    "adress": "\nQuai des Bergues 21",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nArmures H\u00f4tel-Restaurant\n",
+    "tel": "022 310 34 42",
+    "email": "restaurant@hotel-les-armures.ch",
+    "adress": "\nRue du Puits-Saint-Pierre 1",
+    "website": "www.hotel-les-armures.ch"
+  },
+  {
+    "name": "\nCalvy\n",
+    "tel": "022 718 16 16",
+    "email": null,
+    "adress": "\nRuelle du Midi 5",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAuteuil Manotel SA\n",
+    "tel": "022 544 22 22",
+    "email": "auteuil@manotel.com",
+    "adress": "\nRue de Lausanne 33",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nChez Maman S\u00e0rl\n",
+    "tel": "022 792 89 44",
+    "email": null,
+    "adress": "\nRampe Quidort 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nPax H\u00f4tel\n",
+    "tel": "022 787 50 70",
+    "email": "direction@hotel-pax-geneva.ch",
+    "adress": "\nRue du 31-D\u00e9cembre 68",
+    "website": "www.hotel-pax-geneva.ch"
+  },
+  {
+    "name": "\nCentury Best Western\n",
+    "tel": "022 592 88 88",
+    "email": null,
+    "adress": "\nAvenue de Frontenex 24",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAviation\n",
+    "tel": "022 341 12 32",
+    "email": "rest.aviation@bluewin.ch",
+    "adress": "\nChemin des Coquelicots 18",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nEastwest H\u00f4tel\n",
+    "tel": "022 708 17 17",
+    "email": "info@eastwesthotel.ch",
+    "adress": "\nRue des P\u00e2quis 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAuberge de Confignon\n",
+    "tel": "022 757 19 44",
+    "email": "info@auberge-confignon.ch",
+    "adress": "\nPlace de l'Eglise 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nEdelweiss Manotel SA\n",
+    "tel": "022 544 51 51",
+    "email": "edelweiss@manotel.com",
+    "adress": "\nPlace de la Navigation 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCom\u00e9die\n",
+    "tel": "022 322 23 24",
+    "email": "info@hotel-comedie.ch",
+    "adress": "\nRue de Carouge 12",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSt-Gervais\n",
+    "tel": "022 732 45 72",
+    "email": "info@stgervais-geneva.ch",
+    "adress": "\nRue des Corps-Saints 20",
+    "website": "www.stgervais-geneva.ch"
+  },
+  {
+    "name": "\nH\u00f4tel des Horlogers\n",
+    "tel": "022 884 08 33",
+    "email": "info@horlogers-ge.ch",
+    "adress": "\nRoute de Saint-Julien 135",
+    "website": "www.horlogers-ge.ch/fr"
+  },
+  {
+    "name": "\nWarwick Geneva\n",
+    "tel": "022 716 80 00",
+    "email": "info.geneva@warwickhotels.com",
+    "adress": "\nRue de Lausanne 14",
+    "website": "warwickhotels.com/fr/geneva"
+  },
+  {
+    "name": "\nLes Chambres du CTN\n",
+    "tel": "022 884 30 00",
+    "email": "info@leschambresductn.ch",
+    "adress": "\nChemin des Aulx 16",
+    "website": "www.leschambresductn.ch"
+  },
+  {
+    "name": "\nH\u00f4tel Suisse Gen\u00e8ve\n",
+    "tel": "022 732 66 30",
+    "email": "reservation@hotel-suisse.ch",
+    "adress": "\nPlace de Cornavin 10",
+    "website": "www.hotel-suisse.ch"
+  },
+  {
+    "name": "\nFour Seasons H\u00f4tel des Bergues\n",
+    "tel": "022 908 70 00",
+    "email": "info.gen@fourseasons.com",
+    "adress": "\nQuai des Bergues 33",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel Rotary Geneva\n",
+    "tel": "022 908 80 80",
+    "email": "h1322@accor.com",
+    "adress": "\nRue du Cendrier 18-20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Ibis Gen\u00e8ve Centre Lac\n",
+    "tel": "022 849 20 20",
+    "email": "h9577@accor.com",
+    "adress": "\nRue de Berne 26",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel Novotel Geneve Centre\n",
+    "tel": "022 909 90 00",
+    "email": "h3133@accor-hotels.com",
+    "adress": "\nRue de Zurich 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel ibis budget Geneve\n",
+    "tel": "022 710 46 36",
+    "email": "h5653@accor.com",
+    "adress": "\nAvenue Louis-Casa\u00ef 26",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel ibis Geneve Centre Nations\n",
+    "tel": "022 919 20 30",
+    "email": "H8069@accor.com",
+    "adress": "\nRue du Grand-Pr\u00e9 33-35",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel ibis Styles Geneva Gare\n",
+    "tel": "022 906 47 00",
+    "email": null,
+    "adress": "\nPlace de Cornavin 8",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Astoria\n",
+    "tel": "022 544 52 52",
+    "email": "hotel@astoria-geneve.ch",
+    "adress": "\nPlace de Cornavin 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nhome swiss hotel\n",
+    "tel": "022 322 95 50",
+    "email": "info@homeswisshotel.ch",
+    "adress": "\nAvenue de Sainte-Clotilde 7",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nGeneva Hotel Group\n",
+    "tel": "022 908 05 30",
+    "email": "info@the-ambassador.ch",
+    "adress": "\nQuai des Bergues 21",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLake Geneva Hotel\n",
+    "tel": "022 907 81 11",
+    "email": "info@lakegenevahotel.ch",
+    "adress": "\nRoute de Suisse 79",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLa R\u00e9serve\n",
+    "tel": "022 959 59 59",
+    "email": "info@lareserve.ch",
+    "adress": "\nRoute de Lausanne 301",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLongemalle\n",
+    "tel": "022 818 62 62",
+    "email": null,
+    "adress": "\nPlace de Longemalle 13",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nInterContinental Gen\u00e8ve\n",
+    "tel": "022 919 39 39",
+    "email": "geneva@intercontinental-geneva.ch",
+    "adress": "\nChemin du Petit-Saconnex 7",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLido\n",
+    "tel": "022 731 55 30",
+    "email": "info@hotel-lido.ch",
+    "adress": "\nRue de Chantepoulet 8",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMont-Blanc\n",
+    "tel": "022 343 38 11",
+    "email": null,
+    "adress": "\nRue Ancienne 59",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMandarin Oriental Gen\u00e8ve\n",
+    "tel": "022 909 00 00",
+    "email": "mogva-reservations@mohg.com",
+    "adress": "\nQuai Turrettini 1",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLa Cour des Augustins\n",
+    "tel": "022 322 21 00",
+    "email": "reservations@lacourdesaugustins.com",
+    "adress": "\nRue Jean-Violette 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nKipling Manotel SA\n",
+    "tel": "022 544 40 40",
+    "email": "kipling@manotel.com",
+    "adress": "\nRue de la Navigation 27",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nJade\n",
+    "tel": "022 544 38 38",
+    "email": "jade@manotel.com",
+    "adress": "\nRue Rothschild 55",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMontana\n",
+    "tel": "022 732 08 40",
+    "email": "info@hotel-montana-ge.ch",
+    "adress": "\nRue des Alpes 23",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nStarling Geneva Hotel & Conference Center\n",
+    "tel": "022 747 02 02",
+    "email": "reservations@shgeneva.ch",
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nParc de Fossard\n",
+    "tel": "022 349 57 29",
+    "email": null,
+    "adress": "\nHameau de Fossard 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nNH Geneva Airport Hotel\n",
+    "tel": "022 989 90 00",
+    "email": "nhgenevaairport@nh-hotels.com",
+    "adress": "\nAvenue de Mategnin 21",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nRoyal Manotel SA\n",
+    "tel": "022 906 14 14",
+    "email": "royal@manotel.com",
+    "adress": "\nRue de Lausanne 41",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAdagio Gen\u00e8ve Mont-Blanc\n",
+    "tel": "022 716 40 00",
+    "email": "h8902@adagio-city.com",
+    "adress": "\nRue Sigismond-Thalberg 4",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nThe New Midi\n",
+    "tel": "022 544 15 00",
+    "email": "info@the-new-midi.ch",
+    "adress": "\nPlace de Chevelu 4",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nNash Airport Hotel\n",
+    "tel": "022 555 57 77",
+    "email": null,
+    "adress": "\nChemin de la Violette 11",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nN'vY\n",
+    "tel": "022 544 66 66",
+    "email": "nvy@manotel.com",
+    "adress": "\nRue de Richemont 18",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAuberge communale de Carouge\n",
+    "tel": "022 338 07 10",
+    "email": "info@hotelcarouge.ch",
+    "adress": "\nRue Ancienne 39",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nArcades des\n",
+    "tel": "022 715 48 00",
+    "email": "info@hotel-arcades.ch",
+    "adress": "\nPlace de Cornavin 14-16",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nA\u00efda\n",
+    "tel": "022 320 12 66",
+    "email": null,
+    "adress": "\nAvenue Henri-Dunant 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAdriatica\n",
+    "tel": "022 703 53 83",
+    "email": "info@hotel-adriatica.com",
+    "adress": "\nRue Sautter 21",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nM\u00f6venpick Hotel & Casino Geneva\n",
+    "tel": "022 717 11 11",
+    "email": "hotel.geneva.airport@moevenpick.com",
+    "adress": "\nRoute de Pr\u00e9-Bois 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAdmiral\n",
+    "tel": "022 906 97 00",
+    "email": null,
+    "adress": "\nRue Pellegrino-Rossi 8",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\ndes Tourelles\n",
+    "tel": "022 732 44 23",
+    "email": "hotel@destourelles.ch",
+    "adress": "\nBoulevard James-Fazy 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\ndes Balances SA\n",
+    "tel": "022 755 37 68",
+    "email": null,
+    "adress": "\nRoute de Suisse 33",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCity Hostel Geneva\n",
+    "tel": "022 901 15 00",
+    "email": "info@cityhostel.ch",
+    "adress": "\nRue Ferrier 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nChurchill\n",
+    "tel": "022 591 88 88",
+    "email": null,
+    "adress": "\nRue du Simplon 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nBalzac\n",
+    "tel": "022 731 01 60",
+    "email": null,
+    "adress": "\nRue de l'Ancien-Port 14",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel de Perly\n",
+    "tel": "022 771 21 49",
+    "email": null,
+    "adress": "\nRoute de Saint-Julien 304",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nDiplomate Best Western\n",
+    "tel": "022 592 87 87",
+    "email": null,
+    "adress": "\nRue de la Terrassi\u00e8re 46",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel R\u00e9sidence CityZen\n",
+    "tel": "022 908 02 00",
+    "email": "info@cityzenhotel.com",
+    "adress": "\nRue Sismondi 10",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Barillon\n",
+    "tel": "022 732 10 90",
+    "email": "info@hotelbarillon.ch",
+    "adress": "\nRue de Berne 27",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Phoenix\n",
+    "tel": "022 710 03 03",
+    "email": null,
+    "adress": "\nAvenue Louis-Casa\u00ef 79",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Restaurant de Ch\u00eane-Bougeries\n",
+    "tel": "022 348 44 48",
+    "email": null,
+    "adress": "\nChemin de la Bessonnette 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nGen\u00e8ve Cottage\n",
+    "tel": "022 369 00 03",
+    "email": "contact@genevecottage.com",
+    "adress": "\nRoute de Suisse 190",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nGriffon\n",
+    "tel": "022 755 30 11",
+    "email": null,
+    "adress": "\nRoute de Suisse 97BIS",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nFloatinn\n",
+    "tel": "078 797 51 97",
+    "email": null,
+    "adress": "\nQuai Gustave-Ador",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nExcelsior d'All\u00e8ves\n",
+    "tel": "022 732 09 45",
+    "email": "reservation@excelsiorgeneve.ch",
+    "adress": "\nRue Rousseau 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLa Janinette SA\n",
+    "tel": "022 849 91 00",
+    "email": "st-james@gic.ch",
+    "adress": "\nRue Fran\u00e7ois-Versonnex 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLeprince\n",
+    "tel": "022 807 05 00",
+    "email": null,
+    "adress": "\nRue des Voisins 16",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4teli\u00e8re St-James\n",
+    "tel": "022 849 91 00",
+    "email": "st-james@gic.ch",
+    "adress": "\nRue Fran\u00e7ois-Versonnex 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nRhodania\n",
+    "tel": "022 731 47 20",
+    "email": null,
+    "adress": "\nRue Paul-Bouchet 5",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTor H\u00f4tel Gen\u00e8ve\n",
+    "tel": "022 909 88 20",
+    "email": "info@torhotel.com",
+    "adress": "\nRue Ami-L\u00e9vrier 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLa Coudre\n",
+    "tel": "022 960 83 60",
+    "email": "vivimar@deckpoint.ch",
+    "adress": "\nRoute des Coudres 200",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSuite Novotel\n",
+    "tel": "022 710 46 46",
+    "email": "h5654@accor.com",
+    "adress": "\nAvenue Louis-Casa\u00ef 30",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nQuatre Nations\n",
+    "tel": "022 732 02 24",
+    "email": null,
+    "adress": "\nRue de Zurich 43",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nNH REX\n",
+    "tel": "022 544 74 74",
+    "email": "nhrex@nh-hotels.com",
+    "adress": "\nAvenue Wendt 44",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nles Hauts de Rive\n",
+    "tel": "022 346 29 33",
+    "email": "info@hotel-leshautsderive.ch",
+    "adress": "\nBoulevard des Tranch\u00e9es 48",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel des Ventes\n",
+    "tel": "022 320 11 77",
+    "email": "info@hoteldesventes.ch",
+    "adress": "\nRue Pr\u00e9vost-Martin 51",
+    "website": "www.piguet.com"
+  },
+  {
+    "name": "\nLe Spa by Sisley, H\u00f4tel Le Richemond\n",
+    "tel": "022 715 72 61",
+    "email": "LeSpabySisley@lerichemond.com",
+    "adress": "\nRue Adh\u00e9mar-Fabri 8-10",
+    "website": "www.lerichemond.com/fr/spa"
+  },
+  {
+    "name": "\nle Traiteur - H\u00f4tel Pr\u00e9sident Wilson\n",
+    "tel": "022 906 63 12",
+    "email": null,
+    "adress": "\nQuai Wilson 47",
+    "website": "www.le-traiteur.ch"
+  },
+  {
+    "name": "\nDesign Hotel f6\n",
+    "tel": "022 901 66 66",
+    "email": "info@hotel-f6.ch",
+    "adress": "\nRue Ferrier 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\n9 H\u00f4tel Paquis Gen\u00e8ve\n",
+    "tel": "022 552 90 95",
+    "email": null,
+    "adress": "\nRue de Berne 31",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel R\u00e9sidence Montbrillant\n",
+    "tel": "022 733 77 84",
+    "email": "contact@montbrillant.ch",
+    "adress": "\nRue de Montbrillant 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nStarling Caf\u00e9 At Starling Geneva Hotel & Conference Center\n",
+    "tel": "022 747 02 47",
+    "email": null,
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCoiffure H\u00f4tel du Rh\u00f4ne\n",
+    "tel": "022 741 44 02",
+    "email": null,
+    "adress": "\nRue du Temple 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel-de-Ville\n",
+    "tel": "022 311 70 30",
+    "email": null,
+    "adress": "\nGrand-Rue 39",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTraiteur - Grand Hotel Kempinski Geneva\n",
+    "tel": "022 908 91 97",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": "www.kempinski.com/fr/geneva/grand-hotel-geneva/reunions/traiteur"
+  },
+  {
+    "name": "\nSwitel SA Swiss Hotel Management & Consulting\n",
+    "tel": "022 311 73 49",
+    "email": null,
+    "adress": "\nPlace du Molard 5",
+    "website": "www.switel.ch"
+  },
+  {
+    "name": "\nCFM.LEMAN.CH SA.\n",
+    "tel": "022 342 13 22",
+    "email": "info@doradaservices.ch",
+    "adress": "\nRoute de Saint-Julien 255",
+    "website": "www.dorada-services.ch"
+  },
+  {
+    "name": "\nLe Jardin, H\u00f4tel Le Richemond\n",
+    "tel": "022 715 71 00",
+    "email": "lejardin@lerichemond.com",
+    "adress": "\nRue Adh\u00e9mar-Fabri 8-10",
+    "website": "www.lerichemond.com/fr/restaurant-le-jardin"
+  },
+  {
+    "name": "\nl'olivo at Starling Geneva Hotel & Conference Center\n",
+    "tel": "022 747 04 00",
+    "email": null,
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Restaurants Montbrillant\n",
+    "tel": "022 733 77 84",
+    "email": "contact@montbrillant.ch",
+    "adress": "\nRue de Montbrillant 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel ibis Geneve Aeroport\n",
+    "tel": "022 710 95 00",
+    "email": "h3535@accorhotels.com",
+    "adress": "\nChemin de la Violette 10",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nC\u00f4t\u00e9 Square, H\u00f4tel Bristol Gen\u00e8ve\n",
+    "tel": "022 716 57 58",
+    "email": null,
+    "adress": "\nRue du Mont-Blanc 10",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nEnzler H\u00f4tel Services SA\n",
+    "tel": "022 344 30 50",
+    "email": "infofr@enzlerh-pro.com",
+    "adress": "\nAvenue Wendt 16",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCrowne Plaza H\u00f4tel\n",
+    "tel": "022 798 59 24",
+    "email": null,
+    "adress": "\nAvenue Louis-Casa\u00ef 75-77",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nEvents Starling - Starling Geneva Hotel & Conference Center\n",
+    "tel": "022 747 02 27",
+    "email": null,
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nNouvel H\u00f4tel de police\n",
+    "tel": "022 427 81 11",
+    "email": null,
+    "adress": "\nChemin de la Gravi\u00e8re 5-7",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nConf\u00e9rences & Ev\u00e8nements - Grand Hotel Kempinski Geneva\n",
+    "tel": "022 908 90 81",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nBeau-Rivage H\u00f4tel - Service Traiteur\n",
+    "tel": "022 716 69 35",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 13",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel de police de Carl-Vogt\n",
+    "tel": "022 427 81 11",
+    "email": null,
+    "adress": "\nBoulevard Carl-Vogt 17-19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLe Bar, H\u00f4tel Le Richemond\n",
+    "tel": "022 715 72 01",
+    "email": null,
+    "adress": "\nRue Adh\u00e9mar-Fabri 8-10",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel ibis Geneve Petit Lancy\n",
+    "tel": "022 709 02 20",
+    "email": "H7289@accor.com",
+    "adress": "\nChemin des Olliquettes 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Churchill SA\n",
+    "tel": "022 735 77 41",
+    "email": null,
+    "adress": "\nRue du Simplon 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel, conf\u00e9rence et meeting international S\u00e0rl\n",
+    "tel": "022 900 16 54",
+    "email": null,
+    "adress": "\nRue du Cardinal-Journet 27",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHOTEL ROUSSEAU SA\n",
+    "tel": "022 732 50 05",
+    "email": null,
+    "adress": "\nRue Rousseau 13",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel les Nations SA\n",
+    "tel": "022 748 08 08",
+    "email": "nations@fhotels.ch",
+    "adress": "\nRue du Grand-Pr\u00e9 62",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Pr\u00e9sident Wilson - Conf\u00e9rences, banquets, s\u00e9minaires\n",
+    "tel": "022 906 62 05",
+    "email": null,
+    "adress": "\nQuai Wilson 47",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Windsor SA\n",
+    "tel": "022 900 04 53",
+    "email": null,
+    "adress": "\nRue de Berne 31",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel Tor SA\n",
+    "tel": "022 909 88 20",
+    "email": "info@torhotel.com",
+    "adress": "\nRue Ami-L\u00e9vrier 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotel D. Geneva\n",
+    "tel": "022 777 16 16",
+    "email": null,
+    "adress": "\nRue de Fribourg 16",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tel de Verbier SA\n",
+    "tel": "022 755 11 51",
+    "email": null,
+    "adress": "\nQuai de Versoix 9",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nNegoce Hotel Development Gen\u00e8ve\n",
+    "tel": "022 347 45 86",
+    "email": null,
+    "adress": "\nAvenue Dumas 23A",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nle Salon de coiffure - H\u00f4tel Pr\u00e9sident Wilson\n",
+    "tel": "022 906 61 30",
+    "email": null,
+    "adress": "\nQuai Wilson 47",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nM\u00f6venpick Hotel & Casino Geneva\n",
+    "tel": "022 717 17 08",
+    "email": null,
+    "adress": "\nRoute de Pr\u00e9-Bois 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nInternational Hotel Invest. Ltd, George Town, Iles Ca\u00efman\n",
+    "tel": "022 310 84 70",
+    "email": null,
+    "adress": "\nIle Rousseau 1",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nStarling Wellness - Starling Geneva Hotel & Conference Center\n",
+    "tel": "022 747 04 21",
+    "email": null,
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nStarling Fitness - Starling Geneva Hotel & Conference Center\n",
+    "tel": "022 747 02 45",
+    "email": null,
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nRestaurant du nouvel H\u00f4tel de Police\n",
+    "tel": "022 301 79 57",
+    "email": null,
+    "adress": "\nChemin de la Gravi\u00e8re 9",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nThe Mirror Bar\n",
+    "tel": "022 318 34 64",
+    "email": null,
+    "adress": "\nQuai du G\u00e9n\u00e9ral-Guisan 34",
+    "website": "www.metropole.ch"
+  },
+  {
+    "name": "\nPressing des Grands H\u00f4tels\n",
+    "tel": "022 732 48 71",
+    "email": null,
+    "adress": "\nRue des Alpes 9",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCornavin Fassbind H\u00f4tels\n",
+    "tel": "022 716 12 12",
+    "email": "cornavin@fhotels.ch",
+    "adress": "\nBoulevard James-Fazy 23",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCentre de Formation Professionnelle Services et H\u00f4tellerie / Restauration (CFPSHR)\n",
+    "tel": "022 388 82 67",
+    "email": null,
+    "adress": "\nChemin G\u00e9rard-De-Ternier 18",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nGENEVA-HOTEL.CH - ASSOCIATION\n",
+    "tel": "022 735 42 49",
+    "email": null,
+    "adress": "\nAvenue de Frontenex 14",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMayer Jacques\n",
+    "tel": "022 716 66 66",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 13",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHotelplan SA\n",
+    "tel": "022 795 11 00",
+    "email": "geneve-balexert@hotelplan.ch",
+    "adress": "\nAvenue Louis-Casa\u00ef 27",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCent Degr\u00e9s Suisse SA\n",
+    "tel": "022 545 27 85",
+    "email": "contact@centdegres.ch",
+    "adress": "\nRue Des Bains 52",
+    "website": "www.centdegres.ch"
+  },
+  {
+    "name": "\nHotelplan SA\n",
+    "tel": "022 949 06 90",
+    "email": "geneve-rousseau@hotelplan.ch",
+    "adress": "\nRue Rousseau 9",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nStrobotech SA\n",
+    "tel": "022 349 78 13",
+    "email": "info@strobotech.ch",
+    "adress": "\nChemin de La Cartouchi\u00e8re 19",
+    "website": "www.strobotech.ch"
+  },
+  {
+    "name": "\nExecutive Travel Airport SA\n",
+    "tel": "022 929 89 29",
+    "email": "business@e-travel.ch",
+    "adress": "\nAvenue Louis-Casa\u00ef 80",
+    "website": "www.e-travel.ch"
+  },
+  {
+    "name": "\nHotelplan SA\n",
+    "tel": "022 318 44 88",
+    "email": "geneve-rive@hotelplan.ch",
+    "adress": "\nRue du Vieux-Coll\u00e8ge 7",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nH\u00f4tels et Patrimoine SA\n",
+    "tel": "022 772 08 30",
+    "email": null,
+    "adress": "\nRoute de Lausanne 254",
+    "website": "www.hotels-et-patrimoine.ch"
+  },
+  {
+    "name": "\nGlobal Hotels & Resorts Services Sa\n",
+    "tel": "022 735 46 50",
+    "email": null,
+    "adress": "\nRue de la Croix-d'Or 27",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nIbis Styles Gen\u00e8ve Palexpo\n",
+    "tel": "022 545 45 45",
+    "email": "HA8F2@accor.com",
+    "adress": "\nRoute Fran\u00e7ois-Peyrot 28",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSwiss-Attixs International Hotels SA\n",
+    "tel": "022 339 88 88",
+    "email": "tradco@tradcogroup.com",
+    "adress": "\nRue de Lyon 75",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nWindows restaurant\n",
+    "tel": "022 906 55 14",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 17",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nStarling R\u00e9sidence Gen\u00e8ve\n",
+    "tel": "022 304 03 00",
+    "email": "contact@shresidence.ch",
+    "adress": "\nRoute Des Acacias 4",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nShaza Hotels Geneva SA\n",
+    "tel": "022 596 44 70",
+    "email": null,
+    "adress": "\nBoulevard du Pont-d'Arve 28",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTiffany H\u00f4tel\n",
+    "tel": "022 708 16 06",
+    "email": "info@tiffanyhotel.ch",
+    "adress": "\nRue de l'Arquebuse 18",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nRey H\u00f4tels Cha\u00eene SA\n",
+    "tel": "022 731 53 40",
+    "email": null,
+    "adress": "\nRue Butini 7",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nKempinski Hotels SA\n",
+    "tel": "022 809 88 88",
+    "email": "information.corporate@kempinski.com",
+    "adress": "\nBoulevard du Pont-d'Arve 28",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nNicor SA\n",
+    "tel": "022 703 53 83",
+    "email": null,
+    "adress": "\nRue Sautter 21",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLeopard bar & lounge\n",
+    "tel": "022 906 55 36",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 17",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nWoods\n",
+    "tel": "022 919 33 33",
+    "email": null,
+    "adress": "\nChemin du Petit-Saconnex 7",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nKamome\n",
+    "tel": "022 717 17 30",
+    "email": null,
+    "adress": "\nRoute de Pr\u00e9-Bois 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nChaudet Francisca\n",
+    "tel": "022 752 21 50",
+    "email": null,
+    "adress": "\nChemin Armand-Dufaux 22",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCoello Victor et Mary Carmen\n",
+    "tel": "022 345 42 86",
+    "email": null,
+    "adress": "\nAvenue Soret 5",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLes Gravines\n",
+    "tel": "022 755 34 98",
+    "email": null,
+    "adress": "\nRoute de l'Etraz 144",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCapra Julien\n",
+    "tel": "022 738 87 70",
+    "email": null,
+    "adress": "\nRue Jean-Charles AMAT 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCarramusa Gaetano\n",
+    "tel": "022 735 92 36",
+    "email": null,
+    "adress": "\nRue des Cordiers 5",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLa Colombi\u00e8re\n",
+    "tel": "022 798 07 98",
+    "email": "hotel@la-colombiere.ch",
+    "adress": "\nRoute de Ferney 171",
+    "website": "www.la-colombiere.ch"
+  },
+  {
+    "name": "\nBailo Maggiorino Sandro\n",
+    "tel": "022 798 79 25",
+    "email": null,
+    "adress": "\nRoute de Ferney 208A",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nArmony Services\n",
+    "tel": "078 919 66 14",
+    "email": "info@armonyservices.ch",
+    "adress": "\nRue des Eaux-Vives 75",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCosta Maximino\n",
+    "tel": "022 328 71 30",
+    "email": null,
+    "adress": "\nRue Gourgas 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nDiaz Emiliano\n",
+    "tel": "022 797 00 21",
+    "email": null,
+    "adress": "\nAvenue du Lignon 48",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCouto Paulo\n",
+    "tel": "022 792 45 58",
+    "email": null,
+    "adress": "\nChemin des Vignes 11",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nDousse Jean-Paul\n",
+    "tel": "022 321 16 24",
+    "email": null,
+    "adress": "\nRue des Vieux-Grenadiers 17",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nFerreira Carlos\n",
+    "tel": "022 340 27 21",
+    "email": null,
+    "adress": "\nPromenade de l'Europe 23",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nFrancescato Giancarlo\n",
+    "tel": "022 736 99 69",
+    "email": null,
+    "adress": "\nRue de Montchoisy 18",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nde Abreu Carlos\n",
+    "tel": "022 774 19 92",
+    "email": null,
+    "adress": "\nRoute de Collex 16",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nEngel Pascal\n",
+    "tel": "022 700 61 76",
+    "email": null,
+    "adress": "\nRue Adrien-Lachenal 11",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nDamil Pedro et Suzana\n",
+    "tel": "022 328 42 25",
+    "email": null,
+    "adress": "\nChemin de l'Esplanade 25",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nDal Lago Heidi (-Ehrensperger)\n",
+    "tel": "022 735 08 60",
+    "email": null,
+    "adress": "\nRue Fran\u00e7ois-Versonnex 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHaklaj Afrim (-Fatmire)\n",
+    "tel": "022 797 52 38",
+    "email": null,
+    "adress": "\nRue de la Coupe Gordon-Bennett 3F",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHegi Charles et Doreen (-Galang)\n",
+    "tel": "022 782 20 64",
+    "email": null,
+    "adress": "\nAvenue de Feuillasse 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nGr\u00e4fe Dieter\n",
+    "tel": "022 796 23 70",
+    "email": null,
+    "adress": "\nAvenue du Lignon 25",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nG\u00e9rard Gen\u00e8ve\n",
+    "tel": "022 908 35 35",
+    "email": "info@gerard.ch",
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nIannicelli Battista\n",
+    "tel": "022 733 21 65",
+    "email": null,
+    "adress": "\nAvenue Trembley 11",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHusic Muhamed\n",
+    "tel": "022 796 42 41",
+    "email": null,
+    "adress": "\nChemin De-Maisonneuve 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHumbert Michel\n",
+    "tel": "022 344 84 60",
+    "email": null,
+    "adress": "\nRue Daubin 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nKatsiyannis Paraskevi\n",
+    "tel": "022 328 58 43",
+    "email": null,
+    "adress": "\nRue des Sablons 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHerrera Luis Alberto\n",
+    "tel": "022 779 12 26",
+    "email": null,
+    "adress": "\nChemin Ami-Argand 39",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nHenriques Antonio\n",
+    "tel": "022 328 05 89",
+    "email": null,
+    "adress": "\nQuai Ernest-Ansermet 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nKn\u00f6rr Andr\u00e9\n",
+    "tel": "022 731 47 20",
+    "email": null,
+    "adress": "\nRue Paul-Bouchet 5",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMayer Janine\n",
+    "tel": "022 716 66 66",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 13",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMirto Battistino\n",
+    "tel": "022 329 43 75",
+    "email": null,
+    "adress": "\nRue Dancet 22B",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMayer Kuno\n",
+    "tel": "022 347 03 27",
+    "email": null,
+    "adress": "\nRue Le-Corbusier 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMicello Pasquale\n",
+    "tel": "022 343 29 23",
+    "email": null,
+    "adress": "\nPlace de l'Octroi 10",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLopes Deolinda\n",
+    "tel": "022 344 74 66",
+    "email": null,
+    "adress": "\nRue de Lyon 65",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMarras Salvatore\n",
+    "tel": "022 735 09 70",
+    "email": null,
+    "adress": "\nAvenue de Frontenex 12",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMarimuttu Thambo\n",
+    "tel": "022 901 12 76",
+    "email": null,
+    "adress": "\nRue Pradier 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMadeira Correia Vasco\n",
+    "tel": "022 794 70 41",
+    "email": null,
+    "adress": "\nChemin des M\u00e9sanges 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMicale Claude et Rosemarie (-Constantin)\n",
+    "tel": "022 733 77 35",
+    "email": null,
+    "adress": "\nRue du Vidollet 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nMunoz Jos\u00e9\n",
+    "tel": "022 328 24 42",
+    "email": null,
+    "adress": "\nBoulevard D'Yvoy 1A",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nPiguet Bernard\n",
+    "tel": "022 320 11 77",
+    "email": null,
+    "adress": "\nRue Pr\u00e9vost-Martin 51",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nPensa Bruno\n",
+    "tel": "022 782 62 89",
+    "email": null,
+    "adress": "\nChemin de la Citadelle 35",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nPasini Giovanni (-Frith)\n",
+    "tel": "022 774 33 07",
+    "email": null,
+    "adress": "\nChemin d'Emilie 6",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nPovoa Antonio (-Morais)\n",
+    "tel": "022 345 05 51",
+    "email": null,
+    "adress": "\nRue Voltaire 24",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSantos Maria Da Felicidade (-Gomes De Barros)\n",
+    "tel": "022 340 38 78",
+    "email": null,
+    "adress": "\nAvenue d'A\u00efre 93C",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSalagastronomie des Grands-Champs SA\n",
+    "tel": "022 794 20 53",
+    "email": null,
+    "adress": "\nRoute de la Galaise 62",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nR. Decurtins\n",
+    "tel": "022 734 03 13",
+    "email": null,
+    "adress": "\nRue de Montbrillant 2",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nReitano Teodoro\n",
+    "tel": "022 345 07 83",
+    "email": null,
+    "adress": "\nRue Lamartine 17A",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSavoy Bruno\n",
+    "tel": "022 329 49 81",
+    "email": null,
+    "adress": "\nRue des Peupliers 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nReyes Juan\n",
+    "tel": "022 735 80 75",
+    "email": null,
+    "adress": "\nRue Michel-Chauvet 15",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTeixeira Jos\u00e9 Manuel\n",
+    "tel": "022 794 81 76",
+    "email": null,
+    "adress": "\nChemin des Pampres 3",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTeano Gennaro Rino\n",
+    "tel": "022 345 73 94",
+    "email": null,
+    "adress": "\nRue de la D\u00f4le 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nWHOListic Nutrition\n",
+    "tel": "078 627 12 19",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSpera Bruno\n",
+    "tel": "022 797 23 87",
+    "email": null,
+    "adress": "\nRue Fran\u00e7ois-Durafour 14",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSicignano Pasquale\n",
+    "tel": "022 348 33 40",
+    "email": null,
+    "adress": "\nRoute de Jussy 8",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTreca SA\n",
+    "tel": "022 347 46 44",
+    "email": null,
+    "adress": "\nER",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nZanon Pietro\n",
+    "tel": "022 782 14 16",
+    "email": null,
+    "adress": "\nRue Gilbert 12",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAl Fadl Services S\u00e0rl\n",
+    "tel": "022 732 75 65",
+    "email": null,
+    "adress": "\nRue de Chantepoulet 13",
+    "website": "www.al-fadl.ch"
+  },
+  {
+    "name": "\nBarzilay Services\n",
+    "tel": "022 734 80 26",
+    "email": "info@barzilayservices.com",
+    "adress": "\nRue de l'Ath\u00e9n\u00e9e 34",
+    "website": "www.barzilayservices.com"
+  },
+  {
+    "name": "\nAlpTransfer.com\n",
+    "tel": "022 777 00 01",
+    "email": "info@alptransfer.com",
+    "adress": "\nRoute de Peney 131",
+    "website": "www.alptransfer.com"
+  },
+  {
+    "name": "\nR\u00e9sidence Mon-Repos\n",
+    "tel": "022 909 39 09",
+    "email": "reservations@hmrge.ch",
+    "adress": "\nRue de Lausanne 131",
+    "website": "www.hotelmonrepos.ch"
+  },
+  {
+    "name": "\nGeremia Antonio\n",
+    "tel": "022 341 34 60",
+    "email": "geremia1@bluewin.ch",
+    "adress": "\nRoute de Peney 135",
+    "website": "www.menuiserie-geremia.ch"
+  },
+  {
+    "name": "\nMaldives \u00e0 la Carte\n",
+    "tel": "022 786 14 86",
+    "email": "geneva@maldives-a-la-carte.com",
+    "adress": "\nRue de Montchoisy 21",
+    "website": "ch.maldives-a-la-carte.com"
+  },
+  {
+    "name": "\nEcole H\u00f4teli\u00e8re de Gen\u00e8ve\n",
+    "tel": "022 919 24 24",
+    "email": "info@ehg.ch",
+    "adress": "\nAvenue de la Paix 12",
+    "website": "www.ehg.ch"
+  },
+  {
+    "name": "\nLa Clinique\n",
+    "tel": "022 900 18 00",
+    "email": "contact@lacliniquequaidumontblanc.ch",
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": "www.lacliniquequaidumontblanc.ch"
+  },
+  {
+    "name": "\nCEI Pro\n",
+    "tel": "022 782 35 80",
+    "email": "cei-habitat@bluewin.ch",
+    "adress": "\nChemin des L\u00e9ch\u00e8res 6",
+    "website": "www.cei-pro.ch"
+  },
+  {
+    "name": "\nFR Coiffure\n",
+    "tel": "022 781 76 02",
+    "email": null,
+    "adress": "\nRue Jean-Violette 11",
+    "website": "www.fr-coiffure.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png"
+    ]
+  },
+  {
+    "name": "\nGarage Encyclop\u00e9die\n",
+    "tel": "022 344 68 42",
+    "email": null,
+    "adress": "\nRue de l'Encyclop\u00e9die 6",
+    "website": "www.facebook.com"
+  },
+  {
+    "name": "\nLou One\n",
+    "tel": "022 732 50 81",
+    "email": null,
+    "adress": "\nGrand H\u00f4tel Kempinski",
+    "website": "www.louone.ch"
+  },
+  {
+    "name": "\nBCC Business Center Carouge\n",
+    "tel": "022 309 08 57",
+    "email": "info@bcc-urbanstudios.com",
+    "adress": "\nRue du Tunnel 15",
+    "website": "www.bcc-urbanstudios.com"
+  },
+  {
+    "name": "\nAKYADO Gen\u00e8ve - Maloia SA\n",
+    "tel": "022 820 24 24",
+    "email": "geneve@akyado.com",
+    "adress": "\nRoute des Jeunes 12",
+    "website": "geneve.akyado.com"
+  },
+  {
+    "name": "\nRestaurant Arabesque\n",
+    "tel": "022 906 67 63",
+    "email": null,
+    "adress": "\nH\u00f4tel Pr\u00e9sident Wilson",
+    "website": "www.restaurantarabesque.com"
+  },
+  {
+    "name": "\nTavernier Tschanz\n",
+    "tel": "022 704 37 00",
+    "email": "mail@taverniertschanz.com",
+    "adress": "\nRue Rodolphe-Toepffer 11bis",
+    "website": "www.taverniertschanz.com"
+  },
+  {
+    "name": "\nSpa La Mer\n",
+    "tel": "022 906 61 32",
+    "email": null,
+    "adress": "\nH\u00f4tel Pr\u00e9sident Wilson",
+    "website": "www.spalamer.com"
+  },
+  {
+    "name": "\nRhizone Le Salon\n",
+    "tel": "022 738 66 68",
+    "email": "rhizone_lesalon@yahoo.fr",
+    "adress": "\nRue de Monthoux 23",
+    "website": "www.rhizone-le-salon.com"
+  },
+  {
+    "name": "\nS8 Global SA\n",
+    "tel": "022 518 29 02",
+    "email": "info@s8global.com",
+    "adress": "\nRue de Richemont 4",
+    "website": "www.privilegelimousine.ch"
+  },
+  {
+    "name": "\nTh\u00e9rapie de la Tourelle\n",
+    "tel": "022 300 66 66",
+    "email": null,
+    "adress": "\nChemin de la Tourelle 2-4",
+    "website": "www.therapiedelatourelle.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png"
+    ]
+  },
+  {
+    "name": "\nFondation Baur Mus\u00e9e des arts d'Extr\u00eame-Orient\n",
+    "tel": "022 704 32 82",
+    "email": "musee@fondationbaur.ch",
+    "adress": "\nRue Munier-Romilly 8",
+    "website": "www.fondation-baur.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png",
+      "musee@fondationbaur.ch",
+      "musee@fondationbaur.ch",
+      "musee@fondationbaur.ch"
+    ]
+  },
+  {
+    "name": "\nEBA 'Eurobus SA'\n",
+    "tel": "022 731 01 19",
+    "email": "admin@eba-eurobus.com",
+    "adress": "\nRue du Mont-Blanc 14",
+    "website": "eba-eurobus.com/fr"
+  },
+  {
+    "name": "\nICT Voyages\n",
+    "tel": "022 798 12 05",
+    "email": "info@ictvoyages.ch",
+    "adress": "\nChemin Edouard-Sarasin 22",
+    "website": "www.ictvoyages.ch"
+  },
+  {
+    "name": "\nRestaurant Bayview\n",
+    "tel": "022 906 65 52",
+    "email": null,
+    "adress": "\nH\u00f4tel Pr\u00e9sident Wilson",
+    "website": "www.restaurantbayview.com",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png"
+    ]
+  },
+  {
+    "name": "\nHDshop S\u00e0rl\n",
+    "tel": "022 310 37 36",
+    "email": "info@hdshop.ch",
+    "adress": "\nRue de la Mairie 3",
+    "website": "www.hdshop.ch"
+  },
+  {
+    "name": "\nAntiquit\u00e9-Brocante-D\u00e9barras-Galerie d'Art-Apple boutique\n",
+    "tel": "078 765 43 21",
+    "email": "info@petroz.com",
+    "adress": "\nRue de l'Ecole-de-M\u00e9decine 1",
+    "website": "www.appleboutique.com/pages/debarras-geneve"
+  },
+  {
+    "name": "\nDamien & CO coiffure & beaut\u00e9\n",
+    "tel": "022 732 87 02",
+    "email": null,
+    "adress": "\nGrand H\u00f4tel Kempinski",
+    "website": "www.damien-and-co.ch"
+  },
+  {
+    "name": "\nDolphin Voyages\n",
+    "tel": "022 757 50 88",
+    "email": "sandrine@dolf.ch",
+    "adress": "\nRue de Bernex 289",
+    "website": "www.dolphin-voyages.ch"
+  },
+  {
+    "name": "\nDexo Contract Sarl\n",
+    "tel": "022 785 09 90",
+    "email": "contact@dexo-agencements.ch",
+    "adress": "\nChemin J. -Ph.-De-Sauvage 37",
+    "website": "www.dexo-agencements.ch"
+  },
+  {
+    "name": "\nCOCO-MAT Gen\u00e8ve\n",
+    "tel": "022 736 33 75",
+    "email": "geneva@coco-mat.ch",
+    "adress": "\nQuai Gustave-Ador 26",
+    "website": "www.coco-mat.ch"
+  },
+  {
+    "name": "\nDecografic\n",
+    "tel": "022 301 56 64",
+    "email": "decografic@bluewin.ch",
+    "adress": "\nRue Boissonnas 20",
+    "website": "decografic.ch"
+  },
+  {
+    "name": "\nINTEGRALI SA\n",
+    "tel": "022 700 98 01",
+    "email": null,
+    "adress": "\nAvenue de la Praille 45",
+    "website": "www.integrali-gs.com"
+  },
+  {
+    "name": "\nRoche Bobois\n",
+    "tel": "022 311 55 40",
+    "email": "geneve-lesnouveauxclassiques@roche-bobois.ch",
+    "adress": "\nAvenue Pictet-de-Rochemont 6",
+    "website": "www.rochebobois.ch"
+  },
+  {
+    "name": "\nPacifique \u00e0 la Carte\n",
+    "tel": "022 786 14 86",
+    "email": "geneva@pacifique-a-la-carte.com",
+    "adress": "\nRue de Montchoisy 21",
+    "website": "ch.pacifique-a-la-carte.com"
+  },
+  {
+    "name": "\nAtelier d'architecture Jacques Bugna SA\n",
+    "tel": "022 787 07 27",
+    "email": null,
+    "adress": "\nRoute de Malagnou 28",
+    "website": "www.bugna.ch"
+  },
+  {
+    "name": "\nNeptunea SA\n",
+    "tel": "022 884 91 73",
+    "email": null,
+    "adress": "\nRoute de la Galaise 62",
+    "website": "www.neptunea.com"
+  },
+  {
+    "name": "\nProcomed SA\n",
+    "tel": "022 820 20 34",
+    "email": null,
+    "adress": "\nRoute des Jeunes 23",
+    "website": "www.procomed.ch"
+  },
+  {
+    "name": "\nMus\u00e9e Barbier-Mueller\n",
+    "tel": "022 312 02 70",
+    "email": "musee@barbier-mueller.ch",
+    "adress": "\nRue Jean-Calvin 10",
+    "website": "www.musee-barbier-mueller.org"
+  },
+  {
+    "name": "\nL & F Serrurerie et Constructions M\u00e9talliques SA\n",
+    "tel": "022 340 73 04",
+    "email": null,
+    "adress": "\nChemin de la Verseuse 3",
+    "website": "l-f-serrurerie-et-constructions.business.site"
+  },
+  {
+    "name": "\nAllegra Raymond\n",
+    "tel": "022 328 29 28",
+    "email": "r.allegra@bluewin.ch",
+    "adress": "\nRoute du Bois-de-Bay 111",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nSwiss Bistro\n",
+    "tel": "022 710 46 26",
+    "email": null,
+    "adress": "\nAvenue Louis-Casa\u00ef 28",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nRoyal Tours\n",
+    "tel": "022 320 45 30",
+    "email": "royal-tours@hotmail.com",
+    "adress": "\nRoute des Jeunes 4BIS",
+    "website": "www.royal-tours.info",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png",
+      "royal-tours@hotmail.com",
+      "royal-tours@hotmail.com",
+      "royal-tours@hotmail.com"
+    ]
+  },
+  {
+    "name": "\nKeck Electronic SA\n",
+    "tel": "022 736 32 22",
+    "email": null,
+    "adress": "\nRue de la Mairie 3",
+    "website": "www.keckelectronic.ch"
+  },
+  {
+    "name": "\nSerado SA\n",
+    "tel": "022 718 77 70",
+    "email": "secretariat@serado.ch",
+    "adress": "\nRue de Montchoisy 40",
+    "website": "www.serado.ch"
+  },
+  {
+    "name": "\nSPA Duplexx S\u00e0rl\n",
+    "tel": "022 900 00 16",
+    "email": null,
+    "adress": "\nRue Pradier 8",
+    "website": "www.duplexx.ch"
+  },
+  {
+    "name": "\nB&Z Audit\n",
+    "tel": "022 737 29 29",
+    "email": null,
+    "adress": "\nAvenue Louis-Casa\u00ef 86a",
+    "website": "www.bz-audit.com"
+  },
+  {
+    "name": "\nDiva Institut\n",
+    "tel": "022 732 20 09",
+    "email": null,
+    "adress": "\nPlace De-Grenus 4",
+    "website": "www.divageneva.ch"
+  },
+  {
+    "name": "\nStrausak Associ\u00e9s SA\n",
+    "tel": "022 343 94 41",
+    "email": null,
+    "adress": "\nRue Saint-Victor 23",
+    "website": "www.strausak.com"
+  },
+  {
+    "name": "\nWanna Massage\n",
+    "tel": "022 808 04 65",
+    "email": null,
+    "adress": "\nRue des Bains 42",
+    "website": "www.wanna-massage.ch"
+  },
+  {
+    "name": "\nSteiner SA\n",
+    "tel": "058 445 29 00",
+    "email": "info@steiner.ch",
+    "adress": "\nRue de Rive 10-12",
+    "website": "www.steiner.ch/fr"
+  },
+  {
+    "name": "\nP. Piretti SA\n",
+    "tel": "022 329 22 22",
+    "email": "info@piretti.ch",
+    "adress": "\nChemin de la Verseuse 7-9",
+    "website": "www.piretti.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png",
+      "info@piretti.ch",
+      "info@piretti.ch",
+      "info@piretti.ch"
+    ]
+  },
+  {
+    "name": "\nLusita SA\n",
+    "tel": "022 731 33 11",
+    "email": "lusita@lusita.ch",
+    "adress": "\nRue de Lausanne 64-66",
+    "website": "www.lusita.ch",
+    "possible_email": [
+      "local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png",
+      "lusita@lusita.ch",
+      "lusita@lusita.ch",
+      "lusita@lusita.ch",
+      "lusita@lusita.ch",
+      "lusita@lusita.ch"
+    ]
+  },
+  {
+    "name": "\nT\u00e9l\u00e9-Restaurant SA\n",
+    "tel": "022 989 80 80",
+    "email": "info@tele-restaurant.ch",
+    "adress": "\nRoute de Chancy 76",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\n3Hpro SA\n",
+    "tel": "022 919 70 00",
+    "email": "info@3hpro.ch",
+    "adress": "\nRue de Cornavin 11",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nCorail SA\n",
+    "tel": "022 741 24 66",
+    "email": null,
+    "adress": "\n1200 Gen\u00e8ve\n",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nBrasier Fran\u00e7ois SA\n",
+    "tel": "022 827 46 10",
+    "email": "geneve@brasier-sa.com",
+    "adress": "\nRue Blavignac 17",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLagrange Vacances S\u00e9lections SA\n",
+    "tel": "022 329 30 50",
+    "email": "geneve@lagrange-holidays.ch",
+    "adress": "\nRue des Caroubiers 23",
+    "website": "www.lagrange-holidays.ch"
+  },
+  {
+    "name": "\nFleuriste des Augustins - Vesenaz\n",
+    "tel": "022 752 23 80",
+    "email": null,
+    "adress": "\nChemin du Vieux-V\u00e9senaz 29",
+    "website": "www.lesaugustins.ch"
+  },
+  {
+    "name": "\nMontres Prestige\n",
+    "tel": "022 732 83 00",
+    "email": "boutique@montresprestige.ch",
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": "www.montresprestige.ch"
+  },
+  {
+    "name": "\nFleuriste des Augustins - Philosophes\n",
+    "tel": "022 320 70 80",
+    "email": null,
+    "adress": "\nPlace des Philosophes 12",
+    "website": "www.lesaugustins.ch"
+  },
+  {
+    "name": "\nGalli D\u00e9coration SA\n",
+    "tel": "022 818 39 99",
+    "email": "galli@galli-deco.ch",
+    "adress": "\nPlace du Bourg-de-Four 9",
+    "website": "www.galli-deco.ch"
+  },
+  {
+    "name": "\nArm\u00e9e du Salut brocki.ch/Gen\u00e8ve Le Lignon\n",
+    "tel": "022 736 15 80",
+    "email": null,
+    "adress": "\nChemin Barde 6",
+    "website": "www.brocki.ch"
+  },
+  {
+    "name": "\nGasser Patrick et Jenny\n",
+    "tel": "022 343 87 88",
+    "email": null,
+    "adress": "\nRoute de Troinex 25",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nEuropcar\n",
+    "tel": "022 304 44 22",
+    "email": null,
+    "adress": "\nRoute des Jeunes 12",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nM\u00f6venpick restaurant\n",
+    "tel": "022 717 17 20",
+    "email": null,
+    "adress": "\nRoute de Pr\u00e9-Bois 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nROCCO GUERRAZZI SA\n",
+    "tel": "022 342 61 11",
+    "email": null,
+    "adress": "\nRue Baylon 4",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nTh\u00e9\u00e2tre du L\u00e9man Gen\u00e8ve\n",
+    "tel": "022 908 97 66",
+    "email": null,
+    "adress": "\nQuai du Mont-Blanc 19",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nGate 20\n",
+    "tel": "022 717 17 46",
+    "email": null,
+    "adress": "\nRoute de Pr\u00e9-Bois 20",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nLTB SA\n",
+    "tel": "022 908 35 35",
+    "email": "info@gerard.ch",
+    "adress": "\nRue Philippe-Plantamour 34",
+    "website": null,
+    "possible_email": null
+  },
+  {
+    "name": "\nAlpha\n",
+    "tel": "022 700 58 55",
+    "email": null,
+    "adress": "\nRue de Contamines 1",
+    "website": "www.birgitta-journey.com"
+  }
+]

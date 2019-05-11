@@ -1,0 +1,356 @@
+2019-05-11 01:20:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/robots.txt> (referer: None)
+2019-05-11 01:20:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q?what=Police&where=Geneve> (referer: None)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1200/Police/Police-cantonale-AaJkc0MCVI00zKZysjpdHQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1200/Police/Police-cantonale-AaJkc0MCVI00zKZysjpdHQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice cantonale\n', 'tel': '022 427 81 11', 'email': None, 'adress': '\n1200 Genève', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Police/Bourg-de-Four-fXt1wwx-rHowLzpgldyg8g?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Police/Paquis-pEaWGUlgpdG7ZDSvjqxp_A?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Police/Bourg-de-Four-fXt1wwx-rHowLzpgldyg8g?dwhat=Police&dwhere=Geneve>
+{'name': '\nBourg-de-Four\n', 'tel': '022 427 76 70', 'email': None, 'adress': '\nPlace du Bourg-de-Four 3', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vesenaz/1222/Police/Pallanterie-XsJ3cIMeXa7rPYOaVMAlPg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Thonex/1226/Police/Chene-D-Dy7K7nJfXhVDQaCdUzEg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Police/Cornavin-q2Zhjtj63W19CGvCSaIZ2w?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=2> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Police/Carouge-wZ5ynzGT6yfKZKmEX4gixA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Petit-Lancy/1213/Police/Lancy-Onex-qeMThZNT_B2aj6F0Lpgm9g?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vernier/1214/Police/Blandonnet-4jwe8vix-rER2h9M8ssACA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Police/Paquis-pEaWGUlgpdG7ZDSvjqxp_A?dwhat=Police&dwhere=Geneve>
+{'name': '\nPâquis\n', 'tel': '022 427 67 30', 'email': None, 'adress': '\nRue de Berne 6', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Vesenaz/1222/Police/Pallanterie-XsJ3cIMeXa7rPYOaVMAlPg?dwhat=Police&dwhere=Geneve>
+{'name': '\nPallanterie\n', 'tel': '022 427 63 30', 'email': None, 'adress': '\nRoute de la Capite 249', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Police/Poste-aeroport-FzGLz1_0K4Sk7QqNswk_YQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Police&where=Geneve)
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Thonex/1226/Police/Chene-D-Dy7K7nJfXhVDQaCdUzEg?dwhat=Police&dwhere=Geneve>
+{'name': '\nChêne\n', 'tel': '022 427 68 30', 'email': None, 'adress': '\nRue de Genève 93', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Police/Cornavin-q2Zhjtj63W19CGvCSaIZ2w?dwhat=Police&dwhere=Geneve>
+{'name': '\nCornavin\n', 'tel': '022 427 68 75', 'email': None, 'adress': '\nGare', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Carouge-GE/1227/Police/Carouge-wZ5ynzGT6yfKZKmEX4gixA?dwhat=Police&dwhere=Geneve>
+{'name': '\nCarouge\n', 'tel': '022 427 66 10', 'email': None, 'adress': '\nRue de la Fontenette 18', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Petit-Lancy/1213/Police/Lancy-Onex-qeMThZNT_B2aj6F0Lpgm9g?dwhat=Police&dwhere=Geneve>
+{'name': '\nLancy-Onex\n', 'tel': '022 427 64 20', 'email': None, 'adress': '\nRoute du Pont-Butin 55', 'website': None, 'possible_email': None}
+2019-05-11 01:20:31 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Vernier/1214/Police/Blandonnet-4jwe8vix-rER2h9M8ssACA?dwhat=Police&dwhere=Geneve>
+{'name': '\nBlandonnet\n', 'tel': '022 427 62 10', 'email': None, 'adress': '\nChemin de Blandonnet 2', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Police/Poste-aeroport-FzGLz1_0K4Sk7QqNswk_YQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nPoste aéroport\n', 'tel': '022 427 57 90', 'email': None, 'adress': "\nRoute de l'Aéroport 21", 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1203/Police/Servette-V4iHMwCCNsBo214xHlc34g?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Police/Plainpalais-yH0L8_15QP-iNdhCRrpneg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Police/Rive-w-N5cTQMWyIrasv1IpiiyA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1203/Police/Servette-V4iHMwCCNsBo214xHlc34g?dwhat=Police&dwhere=Geneve>
+{'name': '\nServette\n', 'tel': '022 427 63 80', 'email': None, 'adress': '\nRoute de Meyrin 24A', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Police/Hotel-de-police-de-Carl-Vogt-qLHdqBa3o6exxZYhblAKUA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vandoeuvres/1253/Police/Police-municipale--JUElzydKUScAWlVRngvcA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Police/Nouvel-Hotel-de-police-NBP-4A1EMWNLDs-6wc-bug?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Police/Police-Internationale-Dg5U7Vo8JUcZVFHHO6wXkQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1200/Police/Urgences-et-Accidents-Graves-WnjSSCUcpmrFb0BI0YUZGg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Versoix/1290/Police/Versoix-l00UbXgzPQ8Gj9lj9O8VPg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1205/Police/Plainpalais-yH0L8_15QP-iNdhCRrpneg?dwhat=Police&dwhere=Geneve>
+{'name': '\nPlainpalais\n', 'tel': '022 427 63 50', 'email': None, 'adress': '\nRue de Carouge 51', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Police/Rive-w-N5cTQMWyIrasv1IpiiyA?dwhat=Police&dwhere=Geneve>
+{'name': '\nRive\n', 'tel': '022 427 62 60', 'email': None, 'adress': '\nRue Adrien-Lachenal 17', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1205/Police/Hotel-de-police-de-Carl-Vogt-qLHdqBa3o6exxZYhblAKUA?dwhat=Police&dwhere=Geneve>
+{'name': '\nHôtel de police de Carl-Vogt\n', 'tel': '022 427 81 11', 'email': None, 'adress': '\nBoulevard Carl-Vogt 17-19', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Police/Service-de-delivrance-de-documents-au-public-sddp-stA57oVImGsuaIGFraQRPg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Vandoeuvres/1253/Police/Police-municipale--JUElzydKUScAWlVRngvcA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 750 97 35', 'email': None, 'adress': '\nRoute de Vandoeuvres 104', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Acacias/1227/Police/Nouvel-Hotel-de-police-NBP-4A1EMWNLDs-6wc-bug?dwhat=Police&dwhere=Geneve>
+{'name': '\nNouvel Hôtel de police\n', 'tel': '022 427 81 11', 'email': None, 'adress': '\nChemin de la Gravière 5-7', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Police/Police-Internationale-Dg5U7Vo8JUcZVFHHO6wXkQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice Internationale\n', 'tel': '022 427 92 22', 'email': None, 'adress': '\nP.O. Box 612', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1200/Police/Urgences-et-Accidents-Graves-WnjSSCUcpmrFb0BI0YUZGg?dwhat=Police&dwhere=Geneve>
+{'name': '\nUrgences et Accidents Graves\n', 'tel': '117', 'email': None, 'adress': '\n1200 Genève\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Versoix/1290/Police/Versoix-l00UbXgzPQ8Gj9lj9O8VPg?dwhat=Police&dwhere=Geneve>
+{'name': '\nVersoix\n', 'tel': '022 427 63 10', 'email': None, 'adress': '\nPlace Charles-David 5', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Acacias/1227/Police/Service-de-delivrance-de-documents-au-public-sddp-stA57oVImGsuaIGFraQRPg?dwhat=Police&dwhere=Geneve>
+{'name': '\nService de délivrance de documents au public (sddp)\n', 'tel': '022 427 52 30', 'email': None, 'adress': '\nChemin de la Gravière 5', 'website': None, 'possible_email': None}
+2019-05-11 01:20:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=3> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=2)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Police/Centre-de-formation-de-la-police-jUXNKx8Vc4DM2yPi1vMx5A?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grand-Lancy/1212/Police/Police-routiere-L7haoC2UDGN5eb2_oEIEDw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bernex/1233/Town-hall/Police-municipale-A5f-DP-5R_ncUTXcGrYBlA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Police/Police-Judiciaire-RtZ-yOT4mdJ2EGSW8lwjEA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Thonex/1226/Municipal-government/Police-municipale-9Tj3pXGUbmm1bV1ZnRmyag?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chavannes-des-Bois/1290/Police/Accidents-_0gV-IHnnIAUJUjCpciGxw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Police/Accidents-tJzoiEG7ie0_QP7uRavcdg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Carouge-GE/1227/Police/Centre-de-formation-de-la-police-jUXNKx8Vc4DM2yPi1vMx5A?dwhat=Police&dwhere=Geneve>
+{'name': '\nCentre de formation de la police\n', 'tel': '022 427 67 00', 'email': None, 'adress': '\nRue de la Fontenette 18', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Police/Police-de-la-Navigation-aWFjlJUUizgL1GHmJfYvYA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=4> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grand-Lancy/1212/Police/Police-routiere-L7haoC2UDGN5eb2_oEIEDw?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice routière\n', 'tel': '022 427 64 50', 'email': None, 'adress': '\nChemin Le-Sapay 7', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Bernex/1233/Town-hall/Police-municipale-A5f-DP-5R_ncUTXcGrYBlA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 850 92 04', 'email': 'policemunicipale@bernex.ch', 'adress': '\nRue de Bernex 288', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1205/Police/Police-Judiciaire-RtZ-yOT4mdJ2EGSW8lwjEA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice Judiciaire\n', 'tel': '022 427 81 11', 'email': None, 'adress': '\nBoulevard Carl-Vogt 17-19', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Thonex/1226/Municipal-government/Police-municipale-9Tj3pXGUbmm1bV1ZnRmyag?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 869 39 02', 'email': None, 'adress': '\nChemin du Bois-des-Arts 58', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Chavannes-des-Bois/1290/Police/Accidents-_0gV-IHnnIAUJUjCpciGxw?dwhat=Police&dwhere=Geneve>
+{'name': '\nAccidents\n', 'tel': '117', 'email': None, 'adress': '\n1290 Chavannes-des-Bois\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Police/Accidents-tJzoiEG7ie0_QP7uRavcdg?dwhat=Police&dwhere=Geneve>
+{'name': '\nAccidents\n', 'tel': '117', 'email': None, 'adress': '\nRue des Eaux-Vives', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Police/Police-de-la-Navigation-aWFjlJUUizgL1GHmJfYvYA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice de la Navigation\n', 'tel': '022 427 68 10', 'email': None, 'adress': '\nQuai Gustave-Ador 11', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Police/Service-des-contraventions-3uqVU1d-oWSwr9XEV8D-Hw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Police/Service-cantonal-des-objets-trouves-des-evacuations-et-du-garde-meuble-m1q2tEco8w7U0D7dAM0PlQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=3)
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Acacias/1227/Police/Service-des-contraventions-3uqVU1d-oWSwr9XEV8D-Hw?dwhat=Police&dwhere=Geneve>
+{'name': '\nService des contraventions\n', 'tel': '022 427 51 70', 'email': None, 'adress': '\nNouvel Hôtel de Police', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Police/Service-cantonal-des-objets-trouves-des-evacuations-et-du-garde-meuble-m1q2tEco8w7U0D7dAM0PlQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nService cantonal des objets trouvés, des évacuations et du garde-meuble\n', 'tel': '022 427 90 00', 'email': None, 'adress': '\nRue des Glacis-de-Rive 5', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Veyrier/1255/Town-hall/Police-municipale-7jW_q4wAXtO570rIdDViTA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chene-Bourg/1225/Town-hall/Police-municipale-8KHGX1-sxxqrCM2a6V2wrA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Cologny/1223/Town-hall/Service-police-municipale-aV7y2ibwuoVGt_ciQ_togw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Police-municipale-APM-74oKh0t2WxD1Ny_RFSrVlw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Le-Grand-Saconnex/1218/Police-municipale-du-Grand-Saconnex-akY70q6b6oCP5eTHvwcpLw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Petit-Lancy/1213/Municipal-government/Police-municipale-APM-Petit-Lancy-B8uUMjVMR657COLuq44CXQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grand-Lancy/1212/Municipal-government/Police-municipale-APM-Grand-Lancy-mX8jZ9eDTEF5tz-bxoIjig?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Veyrier/1255/Town-hall/Police-municipale-7jW_q4wAXtO570rIdDViTA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 899 10 13', 'email': None, 'adress': '\n1255 Veyrier\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=5> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Chene-Bourg/1225/Town-hall/Police-municipale-8KHGX1-sxxqrCM2a6V2wrA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 869 41 17', 'email': None, 'adress': '\nAvenue du Petit-Senn 50', 'website': None, 'possible_email': None}
+2019-05-11 01:20:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Cologny/1223/Town-hall/Service-police-municipale-aV7y2ibwuoVGt_ciQ_togw?dwhat=Police&dwhere=Geneve>
+{'name': '\nService police municipale\n', 'tel': '022 737 49 85', 'email': None, 'adress': '\nChemin de la Mairie 15', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Police-municipale-APM-74oKh0t2WxD1Ny_RFSrVlw?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale (APM)\n', 'tel': '022 418 22 22', 'email': None, 'adress': '\nBoulevard Helvétique 29', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Le-Grand-Saconnex/1218/Police-municipale-du-Grand-Saconnex-akY70q6b6oCP5eTHvwcpLw?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale du Grand-Saconnex\n', 'tel': '0800 12 18 18', 'email': None, 'adress': '\nChemin Edouard-Sarasin 47', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Petit-Lancy/1213/Municipal-government/Police-municipale-APM-Petit-Lancy-B8uUMjVMR657COLuq44CXQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - APM Petit-Lancy\n', 'tel': '0800 417 417', 'email': None, 'adress': '\nAvenue du Cimetière 2A', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Onex/1213/Service-de-police-du-commerce-et-de-lutte-contre-le-travail-au-noir-lIGVvWW0xkk5cFMhtOIfyg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vesenaz/1222/Town-hall/Police-municipale-nzfy8yWv3MDMJA7MRE37MQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chene-Bougeries/1224/Town-hall/Police-municipale-_VNshLWJOgyCgSYZY9nlzg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=4)
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grand-Lancy/1212/Municipal-government/Police-municipale-APM-Grand-Lancy-mX8jZ9eDTEF5tz-bxoIjig?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - APM Grand-Lancy\n', 'tel': '0800 417 417', 'email': None, 'adress': '\nRoute du Grand-Lancy 39a', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Onex/1213/Service-de-police-du-commerce-et-de-lutte-contre-le-travail-au-noir-lIGVvWW0xkk5cFMhtOIfyg?dwhat=Police&dwhere=Geneve>
+{'name': '\nService de police du commerce et de lutte contre le travail au noir\n', 'tel': '022 388 39 39', 'email': None, 'adress': '\nRue de Bandol 1', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Vesenaz/1222/Town-hall/Police-municipale-nzfy8yWv3MDMJA7MRE37MQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 752 52 52', 'email': 'apm@collonge-bellerive.ch', 'adress': '\nChemin du Vieux-Vésenaz 35', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Police-municipale-Acacias-ZmEyYV6R1AjjoEQG6hjD8g?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Chene-Bougeries/1224/Town-hall/Police-municipale-_VNshLWJOgyCgSYZY9nlzg?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 869 17 56', 'email': None, 'adress': '\nRoute du Vallon 8bis', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Police-municipale-Centre-de-formation-9CpCwDm7uKuk-8xO7Hobow?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Police-municipale-Petit-Sacconex-Servette-S7oTm-Expx_Db7Y3P-pUdw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Police-municipale-Paquis-mo01kE3VgnbCYImFkkZUOg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Police-municipale-Jonction-drnpK95NrE3VuEP2kNINcg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Police-municipale-Grottes-LeSEHkPEhu4pBl39b5F_vg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Greffe-des-Tribunal-de-police-Tribunal-correctionnel-Tribunal-criminel-Tribunal-dapplication-des-peines-et-des-mesures-0E_lOecY2c9nrntJP_4Sng?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Acacias/1227/Police-municipale-Acacias-ZmEyYV6R1AjjoEQG6hjD8g?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Acacias\n', 'tel': '022 418 62 62', 'email': None, 'adress': '\nRoute des Acacias 36', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Plan-les-Ouates/1228/Municipal-government/Police-municipale-HP16orMXKBRzfxNv0YA1PA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Police-municipale-Eaux-Vives-xmIVy-2hjjXf-qVD6WTXxQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1205/Police-municipale-Centre-de-formation-9CpCwDm7uKuk-8xO7Hobow?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Centre de formation\n', 'tel': '022 418 47 52', 'email': None, 'adress': "\nBoulevard du Pont-d'Arve 35", 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1202/Police-municipale-Petit-Sacconex-Servette-S7oTm-Expx_Db7Y3P-pUdw?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Petit-Sacconex/Servette\n', 'tel': '022 418 62 82', 'email': None, 'adress': '\nChemin des Colombettes 1', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1202/Police-municipale-Paquis-mo01kE3VgnbCYImFkkZUOg?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Pâquis\n', 'tel': '022 418 54 00', 'email': None, 'adress': '\nRue Rothschild 27', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Police-municipale-Jonction-drnpK95NrE3VuEP2kNINcg?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Jonction\n', 'tel': '022 418 83 00', 'email': None, 'adress': '\nRue du Stand 25', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Police-municipale-Grottes-LeSEHkPEhu4pBl39b5F_vg?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Grottes\n', 'tel': '022 418 56 80', 'email': None, 'adress': '\nRue du Midi 1', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Greffe-des-Tribunal-de-police-Tribunal-correctionnel-Tribunal-criminel-Tribunal-dapplication-des-peines-et-des-mesures-0E_lOecY2c9nrntJP_4Sng?dwhat=Police&dwhere=Geneve>
+{'name': "\nGreffe des Tribunal de police, Tribunal correctionnel, Tribunal criminel, Tribunal d'application des peines et des mesures\n", 'tel': '022 327 65 65', 'email': None, 'adress': '\nRue des Chaudronniers 9', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1203/Police-municipale-Charmilles-oSrEq9Q0i8Crq2SLZxjF0g?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Plan-les-Ouates/1228/Municipal-government/Police-municipale-HP16orMXKBRzfxNv0YA1PA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 884 64 50', 'email': None, 'adress': '\nRoute de Saint-Julien 122', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Police-municipale-Eaux-Vives-xmIVy-2hjjXf-qVD6WTXxQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Eaux-Vives\n', 'tel': '022 418 60 70', 'email': None, 'adress': '\nRue de Jargonnant 4', 'website': None, 'possible_email': None}
+2019-05-11 01:20:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=6> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=5)
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1203/Police-municipale-Charmilles-oSrEq9Q0i8Crq2SLZxjF0g?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale - Charmilles\n', 'tel': '022 418 82 82', 'email': None, 'adress': '\nRue de Lyon 97', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Police-du-feu-oTsyWfpbg7HoEOsTa93Jcw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Petit-Lancy/1213/Caisse-de-Prevoyance-des-Fonctionnaires-de-Police-et-de-la-Prison-kGopWNizKidq_JiUML71XA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Union/du-Personnel-du-Corps-de-Police-du-canton-de-Geneve-VHtFu0OvnLtyvwgqaRMCkQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Meyrin/1217/Town-hall/Police-municipale-Iy_4bL6VYtKDv5emBYSnsA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Town-hall/Police-municipale-de-Carouge-Tbog3d__fOLmhLQsLuILrA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Psychiatry-and-psychotherapy/Dr-med-Veizovic-Polic-Milena-QCYmF5H_8ojsJ7RYsvql3A?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Language-schools/Sight-and-Sound-Formation-SA-Sb19JHtEId4UsxE2gseozA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Restaurant/Restaurant-du-nouvel-Hotel-de-Police--UxoBe7_GTlH97j12lSoQw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1205/Police-du-feu-oTsyWfpbg7HoEOsTa93Jcw?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice du feu\n', 'tel': '022 546 66 22', 'email': None, 'adress': '\nRue David-Dufour 5', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chatelaine/1219/Town-hall/Police-municipale-5OpsupxZyuKRz50klvjr7Q?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Petit-Lancy/1213/Caisse-de-Prevoyance-des-Fonctionnaires-de-Police-et-de-la-Prison-kGopWNizKidq_JiUML71XA?dwhat=Police&dwhere=Geneve>
+{'name': '\nCaisse de Prévoyance des Fonctionnaires de Police et de la Prison\n', 'tel': '022 879 80 70', 'email': None, 'adress': '\nRoute de Chancy 10', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Carouge-GE/1227/Union/du-Personnel-du-Corps-de-Police-du-canton-de-Geneve-VHtFu0OvnLtyvwgqaRMCkQ?dwhat=Police&dwhere=Geneve>
+{'name': '\ndu Personnel du Corps de Police du canton de Genève\n', 'tel': '022 920 18 08', 'email': 'upcp@bluewin.ch', 'adress': '\nRoute des Jeunes 12', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Meyrin/1217/Town-hall/Police-municipale-Iy_4bL6VYtKDv5emBYSnsA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '0800 12 17 17', 'email': None, 'adress': '\nRue des Boudines 2', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Carouge-GE/1227/Town-hall/Police-municipale-de-Carouge-Tbog3d__fOLmhLQsLuILrA?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale de Carouge\n', 'tel': '022 307 89 90', 'email': None, 'adress': '\nBoulevard des Promenades 25', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/Psychiatry-and-psychotherapy/Dr-med-Veizovic-Polic-Milena-QCYmF5H_8ojsJ7RYsvql3A?dwhat=Police&dwhere=Geneve>
+{'name': '\nDr méd. Veizovic Polic Milena\n', 'tel': '079 858 16 92', 'email': 'CMVeizovicPolic@bluewin.ch', 'adress': '\nRue de la Fontaine 15', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Avanchets/1220/Gerber-Otto-VYtCPr3saLxukG5h9bDVVA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Acacias/1227/Restaurant/Restaurant-du-nouvel-Hotel-de-Police--UxoBe7_GTlH97j12lSoQw?dwhat=Police&dwhere=Geneve>
+{'name': '\nRestaurant du nouvel Hôtel de Police\n', 'tel': '022 301 79 57', 'email': None, 'adress': '\nChemin de la Gravière 9', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Chatelaine/1219/Town-hall/Police-municipale-5OpsupxZyuKRz50klvjr7Q?dwhat=Police&dwhere=Geneve>
+{'name': '\nPolice municipale\n', 'tel': '022 306 06 55', 'email': None, 'adress': '\nAvenue Henri-Golay 26', 'website': None, 'possible_email': None}
+2019-05-11 01:20:35 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Les-Avanchets/1220/Gerber-Otto-VYtCPr3saLxukG5h9bDVVA?dwhat=Police&dwhere=Geneve>
+{'name': '\nGerber Otto\n', 'tel': '022 796 04 56', 'email': None, 'adress': '\nRue Carqueron 2', 'website': None, 'possible_email': None}
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=7> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=6)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Attorneys-at-law/Abderrahim-Razi-i1JDOzwekUIxM8S9fQl5Fw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Meyrin/1217/Private-detective/KNECHT-INVESTIGATIONS-GENEVE-k-fAm7u6U1GjS75Tb51DIQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Boutique/Boutique-Brasil-8RT06kEPFhYlL0GBaloZsA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Language-schools/www.sight-sound.ch> (referer: https://tel.local.ch/en/d/Geneve/1205/Language-schools/Sight-and-Sound-Formation-SA-Sb19JHtEId4UsxE2gseozA?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Physician-on-call/Geneve-Medecins-GeMed-7dz-TcJW0oW98S7V-t11eA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Insurance/Golden-Care-SA-sb04_C2cNLP5H-YgjjWz6A?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Optician/Lugrin-Opticiens-AvMpy8bscdgd1FgnIIIpvQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vernier/1214/Interior-decor/BK-Verre-SA-CkvynO_HfO-ThTrvXbTnfg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1204/IRI-Corporate-Maritime-Services-Switzerland-SA-APo55YGgZNLb6yvmqEUfmQ> from <GET https://tel.local.ch/en/d/Geneve/1205/Attorneys-at-law/Go%20to%20website>
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=8> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1208/Architectural-firm/Atelier-darchitecture-Jacques-Bugna-SA-4rRGg35M6GZgSCEWQqDTNQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:37 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Language-schools/www.sight-sound.ch>
+{'name': '\nSight and Sound Formation SA\n', 'tel': '022 708 10 40', 'email': 'info@sight-sound.ch', 'adress': '\nRue Leschot 2', 'website': 'www.sight-sound.ch'}
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Cointrin/1216/Surveillance/ADSI-Fonti-SA-G3lgfOwL2qn2iwIoGX7pYA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/IRI-Corporate-Maritime-Services-Switzerland-SA-APo55YGgZNLb6yvmqEUfmQ> (referer: https://tel.local.ch/en/d/Geneve/1205/Attorneys-at-law/Abderrahim-Razi-i1JDOzwekUIxM8S9fQl5Fw?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chene-Bourg/1225/Publicity/Aplifilms-Csa-Publicite-LE8Mfh0lyBXEviOXrDmZOw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=7)
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Meyrin/1217/Private-detective/www.rens-ge.ch> (referer: https://tel.local.ch/en/d/Meyrin/1217/Private-detective/KNECHT-INVESTIGATIONS-GENEVE-k-fAm7u6U1GjS75Tb51DIQ?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:37 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/IRI-Corporate-Maritime-Services-Switzerland-SA-APo55YGgZNLb6yvmqEUfmQ>
+{'name': '\nAbderrahim Razi\n', 'tel': '022 321 71 50', 'email': 'abdlaw@bluewin.ch', 'adress': '\nRond-point de Plainpalais 2', 'website': 'Go to website', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'geneva@register-iri.com', 'geneva@register-iri.com', 'geneva@register-iri.com']}
+2019-05-11 01:20:37 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Meyrin/1217/Private-detective/www.rens-ge.ch>
+{'name': '\nKNECHT INVESTIGATIONS GENÈVE\n', 'tel': '022 782 30 20', 'email': 'info@rens-ge.ch', 'adress': '\nRue de la Prulay 25', 'website': 'www.rens-ge.ch'}
+2019-05-11 01:20:37 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Carouge-GE/1227/Physician-on-call/Geneve-Medecins-GeMed-7dz-TcJW0oW98S7V-t11eA> from <GET https://tel.local.ch/en/d/Carouge-GE/1227/Physician-on-call/www.geneve-medecins.ch>
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Meyrin/1217/Optician/Optique-Plus-SA-u8CosMAM-DDC3vbMeRBYXQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vernier/1214/Optician/Optique-Plus-SA-inLibjSk61PDswAh5_H5Nw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:37 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Vernier/1214/Interior-decor/www.bkverre.ch> (referer: https://tel.local.ch/en/d/Vernier/1214/Interior-decor/BK-Verre-SA-CkvynO_HfO-ThTrvXbTnfg?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Insurance/www.goldencare.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Insurance/Golden-Care-SA-sb04_C2cNLP5H-YgjjWz6A?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Boutique/www.boutique-brasil.com> (referer: https://tel.local.ch/en/d/Geneve/1207/Boutique/Boutique-Brasil-8RT06kEPFhYlL0GBaloZsA?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Vernier/1214/Interior-decor/www.bkverre.ch>
+{'name': '\nBK Verre SA\n', 'tel': '022 341 06 60', 'email': 'info@sosvitrier.ch', 'adress': '\nChemin Grenet 12', 'website': 'www.bkverre.ch'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=9> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vet/Urgences-veterinaires-petits-animaux-canton-de-Geneve-5N3-yFBVC7ly-tVqO3uPHw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Cointrin/1216/Surveillance/www.adsi-fonti.ch> (referer: https://tel.local.ch/en/d/Cointrin/1216/Surveillance/ADSI-Fonti-SA-G3lgfOwL2qn2iwIoGX7pYA?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Insurance/www.goldencare.ch>
+{'name': '\nGolden Care SA\n', 'tel': '022 786 12 00', 'email': 'goldencare@goldencare.ch', 'adress': '\nBoulevard Helvétique 31', 'website': 'www.goldencare.ch'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Boutique/www.boutique-brasil.com>
+{'name': '\nBoutique Brasil\n', 'tel': '022 700 65 80', 'email': 'loja@boutique-brasil.com', 'adress': '\nRue Adrien-Lachenal 19', 'website': 'www.boutique-brasil.com'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Cleaning-company/TOPNET-SA-OqU4B4u6O8qM8Zrj2zwBZw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1208/Architectural-firm/www.bugna.ch> (referer: https://tel.local.ch/en/d/Geneve/1208/Architectural-firm/Atelier-darchitecture-Jacques-Bugna-SA-4rRGg35M6GZgSCEWQqDTNQ?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Optician/www.lugrin-opticiens.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Optician/Lugrin-Opticiens-AvMpy8bscdgd1FgnIIIpvQ?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vernier/1214/Glazier/SOS-Vitriers-Stores-Sarl-FePpV7R2HI6bSEiodbUmOA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Cointrin/1216/Surveillance/www.adsi-fonti.ch>
+{'name': '\nADSI Fonti SA\n', 'tel': '022 731 24 12', 'email': None, 'adress': '\nAvenue Louis-Casaï 71', 'website': 'www.adsi-fonti.ch'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Investigations/SEECLOP-SA-J4GFcKmHzkmeewSaosZKmQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Locksmith/Serrurerie-Portugal-YCjCN6WFijZTzgoXA6bHOQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Physician-on-call/Geneve-Medecins-GeMed-7dz-TcJW0oW98S7V-t11eA> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Physician-on-call/Geneve-Medecins-GeMed-7dz-TcJW0oW98S7V-t11eA?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Uniforms/Security-Division-ESM-SA-_qoVNGq2-P2j2wJfgZ99Aw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1208/Architectural-firm/www.bugna.ch>
+{'name': "\nAtelier d'architecture Jacques Bugna SA\n", 'tel': '022 787 07 27', 'email': None, 'adress': '\nRoute de Malagnou 28', 'website': 'www.bugna.ch'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Optician/www.lugrin-opticiens.ch>
+{'name': '\nLugrin Opticiens\n', 'tel': '022 731 56 86', 'email': None, 'adress': '\nRue Paul-Bouchet 3', 'website': 'www.lugrin-opticiens.ch'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Locksmith/Serrurerie-Portugal-YCjCN6WFijZTzgoXA6bHOQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nSerrurerie Portugal\n', 'tel': '022 732 17 93', 'email': None, 'adress': '\nRue Charles-Cusin 8', 'website': None, 'possible_email': None}
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Carouge-GE/1227/Physician-on-call/Geneve-Medecins-GeMed-7dz-TcJW0oW98S7V-t11eA>
+{'name': '\nGeneve Médecins (GeMed)\n', 'tel': '022 754 54 54', 'email': 'info@geneve-medecins.ch', 'adress': '\nAvenue Cardinal-Mermillod 36', 'website': 'www.geneve-medecins.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'info@geneve-medecins.ch', 'info@geneve-medecins.ch', 'info@geneve-medecins.ch']}
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Pharmacy/Pharmacie-de-la-Fontenette-SA-C3UCvR_HePotQxaKbvpCSQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Vet/www.veterinaires-geneve.ch> (referer: https://tel.local.ch/en/d/Vet/Urgences-veterinaires-petits-animaux-canton-de-Geneve-5N3-yFBVC7ly-tVqO3uPHw?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chene-Bougeries/1224/Private-detective/HEH-Agency-JzVpgdZ6n7Cr4tNflXPbHg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Cleaning-company/Perriard-Francis-SA-qYCqRCLW5tfUblAYwUSbFg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=8)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Chene-Bourg/1225/Publicity/www.aplifilms-csapub.ch> (referer: https://tel.local.ch/en/d/Chene-Bourg/1225/Publicity/Aplifilms-Csa-Publicite-LE8Mfh0lyBXEviOXrDmZOw?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chatelaine/1219/Locksmith/Securiporte--L6DqRDDWnJvUNOzntyGbg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Vet/www.veterinaires-geneve.ch>
+{'name': '\nUrgences vétérinaires petits animaux canton de Genève\n', 'tel': '0900 838 343', 'email': None, 'adress': '\nP.O. Box 582', 'website': 'www.veterinaires-geneve.ch'}
+2019-05-11 01:20:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Chene-Bourg/1225/Publicity/www.aplifilms-csapub.ch>
+{'name': '\nAplifilms & Csa Publicité\n', 'tel': '022 349 75 72', 'email': 'info@aplifilms-csapub.ch', 'adress': '\nRue Peillonnex 36', 'website': 'www.aplifilms-csapub.ch'}
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Railway-station/CFF-SA-sWCAH45e5Td3bxIrh2Xzaw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Meyrin/1217/Optician/www.yellow.ch/0227850155> (referer: https://tel.local.ch/en/d/Meyrin/1217/Optician/Optique-Plus-SA-u8CosMAM-DDC3vbMeRBYXQ?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chambesy/1292/Railway-station/CFF-SA-puvsv_JhrI0L3qLc-Rh2Gg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Cointrin/1216/Railway-station/CFF-SA-h9nKpzBtdHj6Pp9BXVQUEg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Railway-station/CFF-SA-sWCAH45e5Td3bxIrh2Xzaw?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\nPlace de Cornavin 7', 'website': None, 'possible_email': None}
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Vernier/1214/Optician/tel.local.ch> (referer: https://tel.local.ch/en/d/Vernier/1214/Optician/Optique-Plus-SA-inLibjSk61PDswAh5_H5Nw?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Onex/1213/Municipal-government/Service-securite-communale-0SSnZZ2-irn-g1EvAaWktQ?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Meyrin/1217/Optician/www.yellow.ch/0227850155>
+{'name': '\nOptique Plus SA\n', 'tel': '022 785 01 55', 'email': None, 'adress': '\nRue des Boudines 7', 'website': 'www.yellow.ch/0227850155'}
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Police.html?page=10> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Chambesy/1292/Railway-station/CFF-SA-puvsv_JhrI0L3qLc-Rh2Gg?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1292 Chambésy\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Cointrin/1216/Railway-station/CFF-SA-h9nKpzBtdHj6Pp9BXVQUEg?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1216 Cointrin\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Vernier/1214/Optician/tel.local.ch>
+{'name': '\nOptique Plus SA\n', 'tel': '022 341 45 40', 'email': None, 'adress': '\nRoute de Montfleury 1', 'website': 'tel.local.ch'}
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Onex/1213/Municipal-government/Service-securite-communale-0SSnZZ2-irn-g1EvAaWktQ?dwhat=Police&dwhere=Geneve>
+{'name': '\nService sécurité communale\n', 'tel': '022 879 51 60', 'email': None, 'adress': '\nRue des Bossons 11', 'website': None, 'possible_email': None}
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Cologny/1223/Town-hall/Reception-CYrgN44HaWjuNCb_5gD8Xg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Cleaning-company/www.topnetsa.ch> (referer: https://tel.local.ch/en/d/Les-Acacias/1227/Cleaning-company/TOPNET-SA-OqU4B4u6O8qM8Zrj2zwBZw?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grand-Lancy/1212/Optician/Design-Optique-Quaglia-SA-pKzM5qCK7ybZqVv4Ne3Ipw?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1206/Medical-centre/GENEVA-MEDERI-CLINIC-rroq-becChHLnSnTZ8g8Og?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Town-hall/Mairie-HPGLRTaZU-AbwLlYPuH5gA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=9)
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Les-Acacias/1227/Cleaning-company/www.topnetsa.ch>
+{'name': '\nTOPNET SA\n', 'tel': '022 304 10 52', 'email': 'topnet@topnetsa.ch', 'adress': '\nRue des Mouettes 13', 'website': 'www.topnetsa.ch'}
+2019-05-11 01:20:39 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Carouge-GE/1227/Pharmacy/Pharmacie-de-la-Fontenette-SA-C3UCvR_HePotQxaKbvpCSQ> from <GET https://tel.local.ch/en/d/Carouge-GE/1227/Pharmacy/www.pharmaciefontenette.ch>
+2019-05-11 01:20:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grand-Lancy/1212/Optician/Design-Optique-Quaglia-SA-pKzM5qCK7ybZqVv4Ne3Ipw?dwhat=Police&dwhere=Geneve>
+{'name': '\nDesign Optique Quaglia SA\n', 'tel': '022 794 44 33', 'email': None, 'adress': '\nChemin des Palettes 1', 'website': None, 'possible_email': None}
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Investigations/www.seeclop.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Investigations/SEECLOP-SA-J4GFcKmHzkmeewSaosZKmQ?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vernier/1214/Railway-station/CFF-SA-DtpHgd-DJbHDsMix2PLxQA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Railway-station/CFF-SA-v7S8AHk3DgFZGT3mrACemA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Cleaning-company/www.francisperriard.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Cleaning-company/Perriard-Francis-SA-qYCqRCLW5tfUblAYwUSbFg?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Investigations/www.seeclop.ch>
+{'name': '\nSEECLOP SA\n', 'tel': '022 344 01 01', 'email': 'mail@seeclop.ch', 'adress': '\nRue de Lyon 7', 'website': 'www.seeclop.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Satigny/1242/Railway-station/CFF-SA-N_hvaMxAi5hzznYA0HQpWA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Uniforms/www.security-division.ch> (referer: https://tel.local.ch/en/d/Geneve/1205/Uniforms/Security-Division-ESM-SA-_qoVNGq2-P2j2wJfgZ99Aw?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Chatelaine/1219/Locksmith/www.securiporte.ch> (referer: https://tel.local.ch/en/d/Chatelaine/1219/Locksmith/Securiporte--L6DqRDDWnJvUNOzntyGbg?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Vernier/1214/Railway-station/CFF-SA-DtpHgd-DJbHDsMix2PLxQA?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1214 Vernier\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Railway-station/CFF-SA-v7S8AHk3DgFZGT3mrACemA?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': "\nRoute de l'Aéroport 25", 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Cleaning-company/www.francisperriard.ch>
+{'name': '\nPerriard Francis SA\n', 'tel': '022 736 99 00', 'email': None, 'adress': '\nRue de Savoie 7A', 'website': 'www.francisperriard.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Satigny/1242/Railway-station/CFF-SA-N_hvaMxAi5hzznYA0HQpWA?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1242 Satigny\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Uniforms/www.security-division.ch>
+{'name': '\nSecurity-Division ESM SA\n', 'tel': '022 743 25 42', 'email': 'info@security-division.ch', 'adress': '\nBoulevard Carl-Vogt 38', 'website': 'www.security-division.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Chene-Bougeries/1224/Private-detective/www.heh-agency.ch> (referer: https://tel.local.ch/en/d/Chene-Bougeries/1224/Private-detective/HEH-Agency-JzVpgdZ6n7Cr4tNflXPbHg?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Russin/1281/Railway-station/CFF-SA-fEQZ7IBERybNJANuvvjyFg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Vernier/1214/Glazier/www.sos-vitriers-stores.com> (referer: https://tel.local.ch/en/d/Vernier/1214/Glazier/SOS-Vitriers-Stores-Sarl-FePpV7R2HI6bSEiodbUmOA?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Chatelaine/1219/Locksmith/www.securiporte.ch>
+{'name': '\nSecuriporte\n', 'tel': '022 344 47 58', 'email': None, 'adress': '\nChemin J. -Ph.-De-Sauvage 37', 'website': 'www.securiporte.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Versoix/1290/Railway-station/CFF-SA-w62T_-7U4RNgHtyhsMg-1w?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Cologny/1223/Town-hall/www.cologny.ch> (referer: https://tel.local.ch/en/d/Cologny/1223/Town-hall/Reception-CYrgN44HaWjuNCb_5gD8Xg?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/La-Plaine/1283/Railway-station/CFF-SA-bFElHVhnwcXO4AQdnWXhcA?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Genthod/1294/Railway-station/CFF-SA-6LFWnmSw0pk6HfIhV7ORHg?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Meyrin/1217/Railway-station/CFF-SA-Er90ERPV7p0hlZHwHdzE-Q?dwhat=Police&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Police.html?page=10)
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Chene-Bougeries/1224/Private-detective/www.heh-agency.ch>
+{'name': '\nHEH Agency\n', 'tel': '079 202 41 50', 'email': 'heh-agency@heh-agency.ch', 'adress': '\nChemin du Pré-du-Couvent 3A', 'website': 'www.heh-agency.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Russin/1281/Railway-station/CFF-SA-fEQZ7IBERybNJANuvvjyFg?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1281 Russin\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Vernier/1214/Glazier/www.sos-vitriers-stores.com>
+{'name': '\nSOS Vitriers-Stores Sàrl\n', 'tel': '022 341 06 60', 'email': 'info@sosvitrier.ch', 'adress': '\nChemin Grenet 12', 'website': 'www.sos-vitriers-stores.com'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Versoix/1290/Railway-station/CFF-SA-w62T_-7U4RNgHtyhsMg-1w?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1290 Versoix, Pont-Céard\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Cologny/1223/Town-hall/www.cologny.ch>
+{'name': '\nRéception\n', 'tel': '022 737 49 49', 'email': 'info@cologny.ch', 'adress': '\nRoute de La-Capite 24', 'website': 'www.cologny.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/La-Plaine/1283/Railway-station/CFF-SA-bFElHVhnwcXO4AQdnWXhcA?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1283 La Plaine\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Genthod/1294/Railway-station/CFF-SA-6LFWnmSw0pk6HfIhV7ORHg?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1294 Genthod\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Meyrin/1217/Railway-station/CFF-SA-Er90ERPV7p0hlZHwHdzE-Q?dwhat=Police&dwhere=Geneve>
+{'name': '\nCFF SA\n', 'tel': '0848 44 66 88', 'email': None, 'adress': '\n1217 Meyrin\n', 'website': None, 'possible_email': None}
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Town-hall/www.carouge.ch> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Town-hall/Mairie-HPGLRTaZU-AbwLlYPuH5gA?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Pharmacy/Pharmacie-de-la-Fontenette-SA-C3UCvR_HePotQxaKbvpCSQ> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Pharmacy/Pharmacie-de-la-Fontenette-SA-C3UCvR_HePotQxaKbvpCSQ?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Town-hall/www.carouge.ch>
+{'name': '\nMairie\n', 'tel': '022 307 89 87', 'email': 'mairie@carouge.ch', 'adress': '\nPlace du Marché 14', 'website': 'www.carouge.ch'}
+2019-05-11 01:20:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Carouge-GE/1227/Pharmacy/Pharmacie-de-la-Fontenette-SA-C3UCvR_HePotQxaKbvpCSQ>
+{'name': '\nPharmacie de la Fontenette SA\n', 'tel': '022 342 54 75', 'email': 'pharmfontenette@bluewin.ch', 'adress': '\nRue de la Fontenette 23', 'website': 'www.pharmaciefontenette.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'pharmfontenette@bluewin.ch', 'pharmfontenette@bluewin.ch', 'pharmfontenette@bluewin.ch', 'pharmfontenette@bluewin.ch', 'pharmfontenette@bluewin.ch']}
+2019-05-11 01:20:41 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1206/Medical-centre/www.gm-clinic.ch> (referer: https://tel.local.ch/en/d/Geneve/1206/Medical-centre/GENEVA-MEDERI-CLINIC-rroq-becChHLnSnTZ8g8Og?dwhat=Police&dwhere=Geneve)
+2019-05-11 01:20:41 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1206/Medical-centre/www.gm-clinic.ch>
+{'name': '\nGENEVA MEDERI CLINIC\n', 'tel': '022 347 44 22', 'email': 'info@gm-clinic.ch', 'adress': '\nAvenue de Champel 81', 'website': 'www.gm-clinic.ch'}
+2019-05-11 01:20:41 [scrapy] INFO: Closing spider (finished)
+2019-05-11 01:20:41 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 129597,
+ 'downloader/request_count': 137,
+ 'downloader/request_method_count/GET': 137,
+ 'downloader/response_bytes': 1599258,
+ 'downloader/response_count': 137,
+ 'downloader/response_status_count/200': 112,
+ 'downloader/response_status_count/301': 3,
+ 'downloader/response_status_count/410': 22,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 5, 10, 23, 20, 41, 518175),
+ 'item_scraped_count': 98,
+ 'log_count/DEBUG': 235,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 10,
+ 'response_received_count': 134,
+ 'scheduler/dequeued': 136,
+ 'scheduler/dequeued/memory': 136,
+ 'scheduler/enqueued': 136,
+ 'scheduler/enqueued/memory': 136,
+ 'start_time': datetime.datetime(2019, 5, 10, 23, 20, 30, 215994)}
+2019-05-11 01:20:41 [scrapy] INFO: Spider closed (finished)
