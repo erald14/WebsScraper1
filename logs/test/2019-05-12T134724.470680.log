@@ -1,0 +1,388 @@
+2019-05-12 13:47:24 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/robots.txt> (referer: None)
+2019-05-12 13:47:25 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q?what=Restaurant&where=Geneve> (referer: None)
+2019-05-12 13:47:25 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/JOUR-Geneve-Sarl-GV0NqiRUoXkX0aqoyhPwPA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Sushi/Mikado-Sushi-yIadyR6ucwtcSmRtKfMlpQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Restaurant/Un-R-de-Famille-GjG7kmA4aVpRXqr1rsZ8vw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Bellevue/1293/Restaurant/Restaurant-Le-Country-2VZjVl7xY49OBj3qRuU7wA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Takeout/Sushi-Shop-Geneve-SA-1OO5O9TApRAFvyqkgWaPJA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Sushi/Mikado-Sushi-CAlXmB56lwVnkVN3Gn7YUA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Restaurant/Le-Maraicher-Bona-Creations-Traiteur-VzUPSiJcBHPOg0W3qKKAWw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/Awash-AHwo9gaTVN5gnvB_IkDYKw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Filtered duplicate request: <GET https://tel.local.ch/en/d/Geneve/1201/Sushi/www.sushi.ch> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2019-05-12 13:47:26 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/JOUR-UG84WGvFuW_fBQXWdnSQeg> from <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.salades-sur-mesure.ch>
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Sushi/Mikado-Sushi-u1MOf2kmy7OTPq9RN_xQ6w?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:26 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Vesenaz/1222/Confectioners/Laura-Moser-Pastry-and-cake-design-4g3drSqecgx8BEMzrAvvAw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q?what=Restaurant&where=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Satigny/1242/Restaurant/Cafe-Restaurant-Amis-WRlxeE_-D2BB679Kb6i8mw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1202/Speciality-shop/Uchitomi-SA-R06o3fNSKqRHtthhXrOXZQ> from <GET https://tel.local.ch/en/d/Geneve/1201/Sushi/www.sushi.ch>
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/JOUR-UG84WGvFuW_fBQXWdnSQeg> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/JOUR-Geneve-Sarl-GV0NqiRUoXkX0aqoyhPwPA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Restaurant/le-Bistroquet-R4dRwXWp_YeU_4VWCICPVA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Restaurant/www.unrdefamille.ch> (referer: https://tel.local.ch/en/d/Geneve/1205/Restaurant/Un-R-de-Famille-GjG7kmA4aVpRXqr1rsZ8vw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1207/Restaurant/JOUR-UG84WGvFuW_fBQXWdnSQeg>
+{'name': '\nJOUR Genève Sàrl\n', 'tel': '022 810 80 64', 'email': None, 'adress': '\nRue du Marché 3', 'website': 'www.salades-sur-mesure.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'geneve@jour.fr']}
+2019-05-12 13:47:27 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Restaurant/www.unrdefamille.ch>
+{'name': '\nUn R de Famille\n', 'tel': '022 328 22 23', 'email': None, 'adress': '\nRue Goetz-Monin 10', 'website': 'www.unrdefamille.ch'}
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Le-Grill-Grand-Hotel-Kempinski-Geneva-y1Qum3rggonBb1VwFlpqmQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Thai-cuisine/Lanna-Thai-nQMPWinBb7vBFT3Uj4Q9Ow?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Lou-One-yPRE3dLuLoWeZw9k1sMr4g?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Restaurant/le-maraicher.ch> (referer: https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Restaurant/Le-Maraicher-Bona-Creations-Traiteur-VzUPSiJcBHPOg0W3qKKAWw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Takeout/www.mysushishop.ch> (referer: https://tel.local.ch/en/d/Geneve/1204/Takeout/Sushi-Shop-Geneve-SA-1OO5O9TApRAFvyqkgWaPJA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Bellevue/1293/Restaurant/www.countryclubgeneva.ch/restaurant-bar> (referer: https://tel.local.ch/en/d/Bellevue/1293/Restaurant/Restaurant-Le-Country-2VZjVl7xY49OBj3qRuU7wA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1206/Bakery-pastry-shop/Wolfisberg-SA-lJy5Ms2tOA-FWltGNKhCyg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/Restaurant-Gusto-aLrOKoy2PguIhMOQzw-Lhg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Meyrin/1217/Expositions/LEXPLORATEUR-Cafe-culturel--aWngF6pcG-OzIvus3wouw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:27 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.awash.ch> (referer: https://tel.local.ch/en/d/Geneve/1202/Restaurant/Awash-AHwo9gaTVN5gnvB_IkDYKw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:27 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve-15-Aeroport/1215/Restaurant/le-maraicher.ch>
+{'name': '\nLe Maraîcher - Bona Creations Traiteur\n', 'tel': '022 799 45 20', 'email': 'contact@le-maraicher.ch', 'adress': '\nICC Entrée Principal', 'website': 'le-maraicher.ch'}
+2019-05-12 13:47:27 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Takeout/www.mysushishop.ch>
+{'name': '\nSushi Shop Genève SA\n', 'tel': '0900 82 68 26', 'email': None, 'adress': '\nBoulevard Georges-Favon 6', 'website': 'www.mysushishop.ch'}
+2019-05-12 13:47:27 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Bellevue/1293/Restaurant/www.countryclubgeneva.ch/restaurant-bar>
+{'name': '\nRestaurant Le Country\n', 'tel': '022 959 79 00', 'email': None, 'adress': '\nRoute de Collex 47', 'website': 'www.countryclubgeneva.ch/restaurant-bar'}
+2019-05-12 13:47:27 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1206/Bakery-pastry-shop/Wolfisberg-SA-lJy5Ms2tOA-FWltGNKhCyg?dwhat=Restaurant&dwhere=Geneve>
+{'name': '\nWolfisberg SA\n', 'tel': '022 346 26 26', 'email': None, 'adress': '\nRoute de Florissant 61', 'website': None, 'possible_email': None}
+2019-05-12 13:47:28 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.awash.ch>
+{'name': '\nAwash\n', 'tel': '022 738 72 98', 'email': None, 'adress': '\nRue du Valais 9', 'website': 'www.awash.ch'}
+2019-05-12 13:47:28 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1202/Speciality-shop/Uchitomi-SA-R06o3fNSKqRHtthhXrOXZQ> from <GET https://tel.local.ch/en/d/Geneve/1207/Sushi/www.sushi.ch>
+2019-05-12 13:47:28 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1201/Hotel/Grand-Hotel-Kempinski-Geneva-XGR1FJI_wgKpSuN1-zWGdA> from <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.kempinski.com>
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Speciality-shop/Uchitomi-SA-R06o3fNSKqRHtthhXrOXZQ> (referer: https://tel.local.ch/en/d/Geneve/1201/Sushi/Mikado-Sushi-yIadyR6ucwtcSmRtKfMlpQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/Marjolaine-qpgT_tkxAJu74Tr1y43vGg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Vesenaz/1222/Confectioners/www.laura-moser.ch> (referer: https://tel.local.ch/en/d/Vesenaz/1222/Confectioners/Laura-Moser-Pastry-and-cake-design-4g3drSqecgx8BEMzrAvvAw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Les-Acacias/1227/Restaurant/lebistroquet-geneve.ch> (referer: https://tel.local.ch/en/d/Les-Acacias/1227/Restaurant/le-Bistroquet-R4dRwXWp_YeU_4VWCICPVA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1209/Restaurant/Point-du-Jour-lBk720A1PXtqWBpx3WCymg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=2)
+2019-05-12 13:47:28 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1202/Speciality-shop/Uchitomi-SA-R06o3fNSKqRHtthhXrOXZQ>
+{'name': '\nMikado Sushi\n', 'tel': '022 920 44 77', 'email': None, 'adress': '\nPlace De-Grenus 10', 'website': 'www.sushi.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/NEPTUNE-b8SNnE5kFrPy0uhA1jXGAw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Sushi/Mikado-Sushi-UWL7uz_g1HUXULev2o3fyg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Satigny/1242/Restaurant/www.cafedesamis.ch> (referer: https://tel.local.ch/en/d/Satigny/1242/Restaurant/Cafe-Restaurant-Amis-WRlxeE_-D2BB679Kb6i8mw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:28 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Vesenaz/1222/Confectioners/www.laura-moser.ch>
+{'name': '\nLaura Moser Pastry and cake design\n', 'tel': '079 341 04 75', 'email': None, 'adress': '\nRoute de Thonon 148', 'website': 'www.laura-moser.ch'}
+2019-05-12 13:47:28 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Les-Acacias/1227/Restaurant/lebistroquet-geneve.ch>
+{'name': '\nle Bistroquet\n', 'tel': '022 343 06 36', 'email': None, 'adress': '\nRue Caroline 10', 'website': 'lebistroquet-geneve.ch'}
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/Denises-Art-of-Burger-yOwRqpKscNjPiPFKfdRQEQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:28 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Satigny/1242/Restaurant/www.cafedesamis.ch>
+{'name': '\nCafé Restaurant Amis\n', 'tel': '022 753 12 81', 'email': None, 'adress': '\nRoute de Peissy 83', 'website': 'www.cafedesamis.ch'}
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Collonge-Bellerive/1245/Restaurant/Manoir-Om75kjetjuWjurP43XuJfg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:28 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Versoix/1290/Buvette/Buvette-du-Port-Choiseul-jejN5bKmkli-6OxlW9RTwQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Hotel/Grand-Hotel-Kempinski-Geneva-XGR1FJI_wgKpSuN1-zWGdA> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Le-Grill-Grand-Hotel-Kempinski-Geneva-y1Qum3rggonBb1VwFlpqmQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:29 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Hotel/Grand-Hotel-Kempinski-Geneva-XGR1FJI_wgKpSuN1-zWGdA>
+{'name': '\nLe Grill - Grand Hotel Kempinski Geneva\n', 'tel': '022 908 92 20', 'email': None, 'adress': '\nQuai du Mont-Blanc 19', 'website': 'www.kempinski.com', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Wine-Beef-Levrier-eMuf4RUS90JlPLmltyiyfg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Meyrin/1217/Expositions/lexplorateur.ch> (referer: https://tel.local.ch/en/d/Meyrin/1217/Expositions/LEXPLORATEUR-Cafe-culturel--aWngF6pcG-OzIvus3wouw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Sushi/Wasabi-wF6lJHQJNU1t1ildpwYV8g?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Reunion-BIXXg_fLLSDJLyvai2VKvQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/Wine-Beef-Fusterie--l09XnaAB5luel2-uGxsww?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.louone.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Lou-One-yPRE3dLuLoWeZw9k1sMr4g?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1202/Thai-cuisine/www.lannathai.ch> (referer: https://tel.local.ch/en/d/Geneve/1202/Thai-cuisine/Lanna-Thai-nQMPWinBb7vBFT3Uj4Q9Ow?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:29 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Meyrin/1217/Expositions/lexplorateur.ch>
+{'name': "\nL'EXPLORATEUR Café culturel\n", 'tel': '022 777 79 32', 'email': None, 'adress': '\nEsplanade des Récréations 26', 'website': 'lexplorateur.ch'}
+2019-05-12 13:47:29 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.louone.ch>
+{'name': '\nLou One\n', 'tel': '022 732 50 81', 'email': None, 'adress': '\nGrand Hôtel Kempinski', 'website': 'www.louone.ch'}
+2019-05-12 13:47:29 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1202/Thai-cuisine/www.lannathai.ch>
+{'name': '\nLanna Thai\n', 'tel': '022 741 23 50', 'email': None, 'adress': '\nAvenue Blanc 42', 'website': 'www.lannathai.ch'}
+2019-05-12 13:47:29 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1202/Speciality-shop/Uchitomi-SA-R06o3fNSKqRHtthhXrOXZQ> from <GET https://tel.local.ch/en/d/Geneve/1204/Sushi/www.sushi.ch>
+2019-05-12 13:47:29 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/Palluay-7NIc85kuSpPFzc6rFgWp4Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant-equipment-rental/Restaurant-Bayview-J83mZXE_AHUlrEjZ4UJu5A?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=3)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1209/Restaurant/www.restaurant-point-du-jour.ch> (referer: https://tel.local.ch/en/d/Geneve/1209/Restaurant/Point-du-Jour-lBk720A1PXtqWBpx3WCymg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.metropole.ch> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/Restaurant-Gusto-aLrOKoy2PguIhMOQzw-Lhg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1209/Restaurant/www.restaurant-point-du-jour.ch>
+{'name': '\nPoint-du-Jour\n', 'tel': '022 733 17 55', 'email': None, 'adress': '\nRue de Moillebeau 37', 'website': 'www.restaurant-point-du-jour.ch'}
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.metropole.ch>
+{'name': '\nRestaurant Gusto\n', 'tel': '022 318 34 63', 'email': None, 'adress': '\nQuai du Général-Guisan 34', 'website': 'www.metropole.ch'}
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.leneptune.ch> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/NEPTUNE-b8SNnE5kFrPy0uhA1jXGAw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/Da-Paolo-SA-rw6PYnQURG6f6aLtNOEOlg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.leneptune.ch>
+{'name': '\nNEPTÜNE\n', 'tel': '022 320 15 05', 'email': None, 'adress': '\nRue de la Coulouvrenière 38', 'website': 'www.leneptune.ch'}
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.marjolaine.ch> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/Marjolaine-qpgT_tkxAJu74Tr1y43vGg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Bar/Cafe-de-la-Pointe-6HZja4YQzV5i_MjJF69IDQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Versoix/1290/Buvette/www.buvette-choiseul.ch> (referer: https://tel.local.ch/en/d/Versoix/1290/Buvette/Buvette-du-Port-Choiseul-jejN5bKmkli-6OxlW9RTwQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Corail-Rose-F3R2lpKFLI0mXMhvFnsVxw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.marjolaine.ch>
+{'name': '\nMarjolaine\n', 'tel': '022 320 49 49', 'email': None, 'adress': '\nRue du Rhône 49', 'website': 'www.marjolaine.ch'}
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Chat-Botte-r9kwhHwQnQ_RGk6SrUooDQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.denises-burger.ch/fr> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/Denises-Art-of-Burger-yOwRqpKscNjPiPFKfdRQEQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Collonge-Bellerive/1245/Restaurant/www.hotel-restaurant-le-manoir.ch> (referer: https://tel.local.ch/en/d/Collonge-Bellerive/1245/Restaurant/Manoir-Om75kjetjuWjurP43XuJfg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Versoix/1290/Buvette/www.buvette-choiseul.ch>
+{'name': '\nBuvette du Port Choiseul\n', 'tel': '022 779 03 23', 'email': None, 'adress': '\nChemin du Vieux-Port 20', 'website': 'www.buvette-choiseul.ch'}
+2019-05-12 13:47:30 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1203/Restaurant/Restaurant-Francesca-8y1H6LINqE8TxDMI19pu8w?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.denises-burger.ch/fr>
+{'name': "\nDenise's - Art of Burger\n", 'tel': '058 578 52 47', 'email': None, 'adress': '\nRue du Rhône 48', 'website': 'www.denises-burger.ch/fr'}
+2019-05-12 13:47:30 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Collonge-Bellerive/1245/Restaurant/www.hotel-restaurant-le-manoir.ch>
+{'name': '\nManoir\n', 'tel': '022 752 21 50', 'email': None, 'adress': '\nChemin Armand-Dufaux 22', 'website': 'www.hotel-restaurant-le-manoir.ch'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Bakery-pastry-shop/Wolfisberg-SA-ls7EHZhbb5CeJGFGZ_-GcA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Petit-Lancy/1213/Restaurant/Sur-le-Pont-03Sr1ksywT1I5EbRHyXUlg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant-equipment-rental/www.restaurantbayview.com> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant-equipment-rental/Restaurant-Bayview-J83mZXE_AHUlrEjZ4UJu5A?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant-equipment-rental/www.restaurantbayview.com>
+{'name': '\nRestaurant Bayview\n', 'tel': '022 906 65 52', 'email': None, 'adress': '\nHôtel Président Wilson', 'website': 'www.restaurantbayview.com'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.arthurs.ch> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/Wine-Beef-Fusterie--l09XnaAB5luel2-uGxsww?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Veyrier/1255/Restaurant/www.restaurant-reunion.ch> (referer: https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Reunion-BIXXg_fLLSDJLyvai2VKvQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.palluay.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/Palluay-7NIc85kuSpPFzc6rFgWp4Q?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.arthurs.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Wine-Beef-Levrier-eMuf4RUS90JlPLmltyiyfg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.dapaolo.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/Da-Paolo-SA-rw6PYnQURG6f6aLtNOEOlg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Cointrin/1216/Restaurant/Seventy5-enwO4V_I1aHimbdv4IRG2Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.arthurs.ch>
+{'name': '\nWine & Beef Fusterie\n', 'tel': '022 311 36 36', 'email': 'wbfusterie@arthurs.ch', 'adress': '\nPlace de la Fusterie 5', 'website': 'www.arthurs.ch'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Veyrier/1255/Restaurant/www.restaurant-reunion.ch>
+{'name': '\nRéunion\n', 'tel': '022 784 07 98', 'email': 'info@restaurant-reunion.ch', 'adress': '\nChemin de Sous-Balme 2', 'website': 'www.restaurant-reunion.ch'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.palluay.ch>
+{'name': '\nPalluay\n', 'tel': '022 736 37 80', 'email': None, 'adress': '\nRue Cherbuliez 7', 'website': 'www.palluay.ch'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.arthurs.ch>
+{'name': '\nWine & Beef Lévrier\n', 'tel': '022 732 53 45', 'email': 'wblevrier@arthurs.ch', 'adress': '\nRue Ami-Lévrier 3', 'website': 'www.arthurs.ch'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/Saveur-Passion-qfumxzoXkOkxHy36wkXSKg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=4)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Sushi/www.wasabi-sushibar.com> (referer: https://tel.local.ch/en/d/Geneve/1207/Sushi/Wasabi-wF6lJHQJNU1t1ildpwYV8g?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.dapaolo.ch>
+{'name': '\nDa Paolo SA\n', 'tel': '022 736 30 49', 'email': None, 'adress': '\nRue du Lac 3', 'website': 'www.dapaolo.ch'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Bar/www.facebook.com> (referer: https://tel.local.ch/en/d/Geneve/1205/Bar/Cafe-de-la-Pointe-6HZja4YQzV5i_MjJF69IDQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:31 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1204/IRI-Corporate-Maritime-Services-Switzerland-SA-APo55YGgZNLb6yvmqEUfmQ> from <GET https://tel.local.ch/en/d/Geneve/1203/Restaurant/Go%20to%20website>
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/JIA-WEI-kheBQ40JPfD1-5FhEd0HzQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:31 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Portuguese-cuisine/Pessoa-4kKNqfDbBGjdwW7ArAgkPA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Sushi/www.wasabi-sushibar.com>
+{'name': '\nWasabi\n', 'tel': '022 735 32 32', 'email': None, 'adress': '\nBoulevard Helvétique 32', 'website': 'www.wasabi-sushibar.com'}
+2019-05-12 13:47:31 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Bar/www.facebook.com>
+{'name': '\nCafé de la Pointe\n', 'tel': '022 321 53 71', 'email': 'david@cafedelapointe.ch', 'adress': "\nBoulevard du Pont-d'Arve 3", 'website': 'www.facebook.com'}
+2019-05-12 13:47:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Portuguese-cuisine/Pessoa-4kKNqfDbBGjdwW7ArAgkPA?dwhat=Restaurant&dwhere=Geneve>
+{'name': '\nPessoa\n', 'tel': '022 340 22 85', 'email': 'rui.pinheiro.ferreira@gmail.com', 'adress': '\nRue Jean-Dassier 5', 'website': None, 'possible_email': None}
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Chinese-cuisine/Mandarin-R-JLq-_QyWc7GySm1w48Gg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Plan-les-Ouates/1228/Restaurant/Restaurant-Break-Point-Chavez-Wilman-js7R0tzof80zi0566adkjg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1203/Restaurant/Giardino-Romano-j_WzW_LBfQaHYdAs8ISm0w?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Indian-cuisine/Bollywood-gDZpVNyg50F-ebpXFF9CLQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Arabian-cuisine/Restaurant-Arabesque-F9sm7D1TXgfVvr84jjSHww?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Le-Grand-Saconnex/1218/Pizzeria/La-Colombiere-kql9wBZqZp-H1BTd_V2VVg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Lounge/Mezze-Bar-Cocktails-24jsn4fIOGgl5EqAiuFXJw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/IRI-Corporate-Maritime-Services-Switzerland-SA-APo55YGgZNLb6yvmqEUfmQ> (referer: https://tel.local.ch/en/d/Geneve/1203/Restaurant/Restaurant-Francesca-8y1H6LINqE8TxDMI19pu8w?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:32 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Chat-Botte-r9kwhHwQnQ_RGk6SrUooDQ> from <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.beau-rivage.ch>
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/Le-Restaurant-Maison-de-la-paix-gCs9LyqWuJIYDdpT8ZLe9g?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=5)
+2019-05-12 13:47:32 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1204/IRI-Corporate-Maritime-Services-Switzerland-SA-APo55YGgZNLb6yvmqEUfmQ>
+{'name': '\nRestaurant Francesca\n', 'tel': '022 344 77 70', 'email': None, 'adress': "\nPromenade de l'Europe 11", 'website': 'Go to website', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'geneva@register-iri.com', 'geneva@register-iri.com', 'geneva@register-iri.com']}
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Cointrin/1216/Restaurant/www.seventy5.ch> (referer: https://tel.local.ch/en/d/Cointrin/1216/Restaurant/Seventy5-enwO4V_I1aHimbdv4IRG2Q?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:32 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1201/Language-schools/inlingua-Leman-ZYT0DPZlKZysggMo_kI8rA> from <GET https://tel.local.ch/en/d/Geneve/1201/Chinese-cuisine/www.mandarin.ch>
+2019-05-12 13:47:32 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.restaurant-corail-rose-gambas.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Corail-Rose-F3R2lpKFLI0mXMhvFnsVxw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:32 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Cointrin/1216/Restaurant/www.seventy5.ch>
+{'name': '\nSeventy5\n', 'tel': '022 710 30 52', 'email': None, 'adress': '\nAvenue Louis-Casaï 75-77', 'website': 'www.seventy5.ch'}
+2019-05-12 13:47:33 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.restaurant-corail-rose-gambas.ch>
+{'name': '\nCorail Rose\n', 'tel': '022 733 03 98', 'email': None, 'adress': '\nRue de Montbrillant 10', 'website': 'www.restaurant-corail-rose-gambas.ch'}
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Takeout/Restaurant-ALAmir-lDQcY6g6YIDmgS2AQs_-Xw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Bakery-pastry-shop/www.wolfisberg.org/en/our-shops-in-geneva> (referer: https://tel.local.ch/en/d/Geneve/1204/Bakery-pastry-shop/Wolfisberg-SA-ls7EHZhbb5CeJGFGZ_-GcA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Petit-Lancy/1213/Restaurant/www.orif.ch/fr/nos-restaurants/sur-le-pont> (referer: https://tel.local.ch/en/d/Petit-Lancy/1213/Restaurant/Sur-le-Pont-03Sr1ksywT1I5EbRHyXUlg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Bakery-pastry-shop/www.wolfisberg.org/en/our-shops-in-geneva>
+{'name': '\nWolfisberg SA\n', 'tel': '022 320 80 80', 'email': None, 'adress': '\nBoulevard Georges-Favon 6', 'website': 'www.wolfisberg.org/en/our-shops-in-geneva'}
+2019-05-12 13:47:33 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Petit-Lancy/1213/Restaurant/www.orif.ch/fr/nos-restaurants/sur-le-pont>
+{'name': '\nSur le Pont\n', 'tel': '022 301 92 24', 'email': 'surlepont@orif.ch', 'adress': '\nRampe du Pont-Rouge 4', 'website': 'www.orif.ch/fr/nos-restaurants/sur-le-pont'}
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.jiawei.ch> (referer: https://tel.local.ch/en/d/Geneve/1202/Restaurant/JIA-WEI-kheBQ40JPfD1-5FhEd0HzQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/Le-Pilier-KFG5GUiwCc8ILwW27JwDvg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:33 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.jiawei.ch>
+{'name': '\nJIA WEI\n', 'tel': '022 738 95 53', 'email': 'sunny@jiawei.ch', 'adress': '\nRue de Lausanne 56', 'website': 'www.jiawei.ch'}
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.saveur-passion.ch> (referer: https://tel.local.ch/en/d/Geneve/1202/Restaurant/Saveur-Passion-qfumxzoXkOkxHy36wkXSKg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:33 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.saveur-passion.ch>
+{'name': '\nSaveur & Passion\n', 'tel': '022 900 10 92', 'email': 'info@saveur-passion.ch', 'adress': '\nRue Anne-TORCAPEL 10', 'website': 'www.saveur-passion.ch'}
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Chat-Botte-r9kwhHwQnQ_RGk6SrUooDQ> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Chat-Botte-r9kwhHwQnQ_RGk6SrUooDQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Restaurant/Chat-Botte-r9kwhHwQnQ_RGk6SrUooDQ>
+{'name': '\nChat-Botté\n', 'tel': '022 716 69 20', 'email': None, 'adress': '\nQuai du Mont-Blanc 13', 'website': 'www.beau-rivage.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Plan-les-Ouates/1228/Restaurant/www.tcplo.ch/fr/restaurez-vous-tie-break> (referer: https://tel.local.ch/en/d/Plan-les-Ouates/1228/Restaurant/Restaurant-Break-Point-Chavez-Wilman-js7R0tzof80zi0566adkjg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Lounge/bigtwelf.com> (referer: https://tel.local.ch/en/d/Geneve/1201/Lounge/Mezze-Bar-Cocktails-24jsn4fIOGgl5EqAiuFXJw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Indian-cuisine/www.cafebollywood.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Indian-cuisine/Bollywood-gDZpVNyg50F-ebpXFF9CLQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:33 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Arabian-cuisine/www.restaurantarabesque.com> (referer: https://tel.local.ch/en/d/Geneve/1201/Arabian-cuisine/Restaurant-Arabesque-F9sm7D1TXgfVvr84jjSHww?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Language-schools/inlingua-Leman-ZYT0DPZlKZysggMo_kI8rA> (referer: https://tel.local.ch/en/d/Geneve/1201/Chinese-cuisine/Mandarin-R-JLq-_QyWc7GySm1w48Gg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Plan-les-Ouates/1228/Restaurant/www.tcplo.ch/fr/restaurez-vous-tie-break>
+{'name': '\nRestaurant Break Point, Chavez Wilman\n', 'tel': '022 743 27 23', 'email': None, 'adress': '\nChemin Des Petites-Fontaines 11', 'website': 'www.tcplo.ch/fr/restaurez-vous-tie-break'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Lounge/bigtwelf.com>
+{'name': '\nMezze Bar & Cocktails\n', 'tel': '022 557 07 03', 'email': None, 'adress': '\nRue de Zurich 12', 'website': 'bigtwelf.com'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Indian-cuisine/www.cafebollywood.ch>
+{'name': '\nBollywood\n', 'tel': '022 731 88 77', 'email': None, 'adress': '\nPlace de la Navigation 6', 'website': 'www.cafebollywood.ch'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Arabian-cuisine/www.restaurantarabesque.com>
+{'name': '\nRestaurant Arabesque\n', 'tel': '022 906 67 63', 'email': None, 'adress': '\nHôtel Président Wilson', 'website': 'www.restaurantarabesque.com'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Language-schools/inlingua-Leman-ZYT0DPZlKZysggMo_kI8rA>
+{'name': '\nMandarin\n', 'tel': '022 732 27 42', 'email': None, 'adress': '\nRue de Chantepoulet 1-3', 'website': 'www.mandarin.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'info@inlingua-leman.ch', 'info@inlingua-leman.ch', 'info@inlingua-leman.ch']}
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/maisondelapaix-restaurant.ch> (referer: https://tel.local.ch/en/d/Geneve/1202/Restaurant/Le-Restaurant-Maison-de-la-paix-gCs9LyqWuJIYDdpT8ZLe9g?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Il-Vero-Grand-Hotel-Kempinski-Geneva-Sywt0FwwLj0gESyH3Ecw7Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Cafe-Gandhi-Pox0bNM9CfpYvFO3bZjA3Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1203/Restaurant/www.giardino-romano.ch> (referer: https://tel.local.ch/en/d/Geneve/1203/Restaurant/Giardino-Romano-j_WzW_LBfQaHYdAs8ISm0w?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Brewery/Chez-Calvin-Sarl-fjqCn9nqkdI8H-fT5CcYgA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/Bistrot-du-Boucher-uH2SjoP98JW4ZW8rM4mOBQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Le-Grand-Saconnex/1218/Pizzeria/www.la-colombiere.ch> (referer: https://tel.local.ch/en/d/Le-Grand-Saconnex/1218/Pizzeria/La-Colombiere-kql9wBZqZp-H1BTd_V2VVg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1202/Restaurant/maisondelapaix-restaurant.ch>
+{'name': '\nLe Restaurant Maison de la paix\n', 'tel': '022 908 43 34', 'email': None, 'adress': '\nChemin Eugène-Rigot 2E', 'website': 'maisondelapaix-restaurant.ch'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1203/Restaurant/www.giardino-romano.ch>
+{'name': '\nGiardino Romano\n', 'tel': '022 340 26 27', 'email': 'info@giardino-romano.ch', 'adress': '\nRue de Saint-Jean 30A', 'website': 'www.giardino-romano.ch'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Le-Grand-Saconnex/1218/Pizzeria/www.la-colombiere.ch>
+{'name': '\nLa Colombière\n', 'tel': '022 798 07 98', 'email': 'hotel@la-colombiere.ch', 'adress': '\nRoute de Ferney 171', 'website': 'www.la-colombiere.ch'}
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/Thai-Phuket-PDCoj9zNiOuUGbWlnrmghg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Events/Athenee-4-Galerie-yHcBVcsyZpw2UPsuKt4p2A?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/JOUR-UG84WGvFuW_fBQXWdnSQeg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Brunch/JAM-CAFE-VV_weiihcusk33O0IaGHqw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chene-Bourg/1225/Restaurant/Floraire-FPFv31-bUgLwV64QjC07dQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Takeout/www.alamir.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Takeout/Restaurant-ALAmir-lDQcY6g6YIDmgS2AQs_-Xw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:34 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1206/Restaurant/Cafe-Brasserie-Beau-Soleil-GjhRhsA1I9vxmDlqed6WZQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:34 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Takeout/www.alamir.ch>
+{'name': '\nRestaurant AL.Amir\n', 'tel': '022 731 79 46', 'email': None, 'adress': '\nRue de Berne 22', 'website': 'www.alamir.ch'}
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Au-Petit-Chalet-ItfFwtagbEGv4yAbmOtnSg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Restaurant-lEcorce-cUfrcpgAafY3gyn6rp9wCA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Restaurant/Va-Vient-qAfyLR6irfHzb-CN3knUNQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Le-ptit-carougeois-fddE0RJPv5d65dMFtaGp0Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.lepilier.ch> (referer: https://tel.local.ch/en/d/Geneve/1204/Restaurant/Le-Pilier-KFG5GUiwCc8ILwW27JwDvg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Restaurant-Hungky-5TyR18GnV3AfSiKca9oNvg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=7)
+2019-05-12 13:47:35 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Restaurant/www.lepilier.ch>
+{'name': '\nLe Pilier\n', 'tel': '022 810 80 55', 'email': 'info@lepilier.ch', 'adress': '\nPlace du Molard 11', 'website': 'www.lepilier.ch'}
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1204/Italian-cuisine/Restaurant-MONNA-ISA-cmKw1_NU97RHD0DHtPfDWg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Fish-speciality/Restaurant-Via-Roma-BSseSqR4u6sSJZiFaGrEZg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=6)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Brunch/www.aucoindlarue30.ch> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Brunch/JAM-CAFE-VV_weiihcusk33O0IaGHqw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Chene-Bourg/1225/Restaurant/www.restaurant-floraire.ch> (referer: https://tel.local.ch/en/d/Chene-Bourg/1225/Restaurant/Floraire-FPFv31-bUgLwV64QjC07dQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.salades-sur-mesure.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/JOUR-UG84WGvFuW_fBQXWdnSQeg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:35 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Events/www.athenee4.ch> (referer: https://tel.local.ch/en/d/Geneve/1205/Events/Athenee-4-Galerie-yHcBVcsyZpw2UPsuKt4p2A?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:35 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Brunch/www.aucoindlarue30.ch>
+{'name': '\nJAM CAFÉ\n', 'tel': '022 345 03 03', 'email': None, 'adress': '\nRue des Epinettes 20', 'website': 'www.aucoindlarue30.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Chene-Bourg/1225/Restaurant/www.restaurant-floraire.ch>
+{'name': '\nFloraire\n', 'tel': '022 860 01 50', 'email': 'contact@restaurant-floraire.ch', 'adress': '\nAvenue du Petit-Senn 50', 'website': 'www.restaurant-floraire.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.salades-sur-mesure.ch>
+{'name': '\nJOUR\n', 'tel': '022 525 55 87', 'email': None, 'adress': '\nRue François-Versonnex 3', 'website': 'www.salades-sur-mesure.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.gandhi.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Cafe-Gandhi-Pox0bNM9CfpYvFO3bZjA3Q?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Events/www.athenee4.ch>
+{'name': '\nAthénée 4 Galerie\n', 'tel': '022 310 11 22', 'email': 'hello@athenee4.ch', 'adress': "\nRue de l'Athénée 4", 'website': 'www.athenee4.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Brewery/www.chezcalvin.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Brewery/Chez-Calvin-Sarl-fjqCn9nqkdI8H-fT5CcYgA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.gandhi.ch>
+{'name': '\nCafé Gandhi\n', 'tel': '022 731 41 12', 'email': 'info@gandhi.ch', 'adress': '\nRue de Neuchâtel 37', 'website': 'www.gandhi.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.phuket-thai.ch> (referer: https://tel.local.ch/en/d/Geneve/1202/Restaurant/Thai-Phuket-PDCoj9zNiOuUGbWlnrmghg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Brewery/www.chezcalvin.ch>
+{'name': '\nChez Calvin Sàrl\n', 'tel': '022 735 58 58', 'email': None, 'adress': '\nRue du Nant 2', 'website': 'www.chezcalvin.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.bistrot-du-boucher.ch> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/Bistrot-du-Boucher-uH2SjoP98JW4ZW8rM4mOBQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Restaurant-Hungky-5TyR18GnV3AfSiKca9oNvg> from <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.hungky.ch>
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1202/Restaurant/www.phuket-thai.ch>
+{'name': '\nThai Phuket\n', 'tel': '022 734 41 00', 'email': None, 'adress': '\nAvenue de France 33', 'website': 'www.phuket-thai.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Restaurant/www.va-et-vient-geneve.ch> (referer: https://tel.local.ch/en/d/Geneve/1205/Restaurant/Va-Vient-qAfyLR6irfHzb-CN3knUNQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.bistrot-du-boucher.ch>
+{'name': '\nBistrot du Boucher\n', 'tel': '022 736 56 36', 'email': None, 'adress': '\nAvenue Pictet-de-Rochemont 15', 'website': 'www.bistrot-du-boucher.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Restaurant/www.va-et-vient-geneve.ch>
+{'name': '\nVa & Vient\n', 'tel': '022 321 02 98', 'email': None, 'adress': '\nBoulevard Carl-Vogt 46', 'website': 'www.va-et-vient-geneve.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/lecorce-restaurant.ch> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Restaurant-lEcorce-cUfrcpgAafY3gyn6rp9wCA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Hotel/La-Veranda-cM50JjjhBO53ZwrfZfg0gQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/lecorce-restaurant.ch>
+{'name': "\nRestaurant l'Ecorce\n", 'tel': '022 300 20 98', 'email': 'info@lecorce-restaurant.ch', 'adress': '\nRue du Collège 8', 'website': 'lecorce-restaurant.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/www.lepetitcarougeois.ch> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Le-ptit-carougeois-fddE0RJPv5d65dMFtaGp0Q?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.aupetitchalet.ch> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Au-Petit-Chalet-ItfFwtagbEGv4yAbmOtnSg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/www.lepetitcarougeois.ch>
+{'name': '\nLe ptit carougeois\n', 'tel': '022 301 91 41', 'email': None, 'adress': '\nRue Saint-Joseph 6', 'website': 'www.lepetitcarougeois.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.aupetitchalet.ch>
+{'name': '\nAu Petit Chalet\n', 'tel': '022 732 69 79', 'email': 'booksite@aupetitchalet.ch', 'adress': '\nRue Chaponnière 14', 'website': 'www.aupetitchalet.ch'}
+2019-05-12 13:47:36 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Sushi/Mikado-Sushi-A4qA99Z8RmBta5ogsxnGYg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Bar/lElephant-dans-la-Canette-TxpJGKbgoDWs98F38bI6JA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Le-Jardin-Hotel-Le-Richemond-OkJaz68eJclyoJ2mQj8y9A?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1204/Italian-cuisine/www.monnaisa.com> (referer: https://tel.local.ch/en/d/Geneve/1204/Italian-cuisine/Restaurant-MONNA-ISA-cmKw1_NU97RHD0DHtPfDWg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:37 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1204/Italian-cuisine/www.monnaisa.com>
+{'name': '\nRestaurant MONNA ISA\n', 'tel': '022 318 37 30', 'email': 'info@monnaisa.com', 'adress': '\nPlace du Bourg-de-Four 8', 'website': 'www.monnaisa.com'}
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Fish-speciality/www.viaroma-ristorante.com/en> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Fish-speciality/Restaurant-Via-Roma-BSseSqR4u6sSJZiFaGrEZg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/Halle-de-Rive-TxCDxbrsQ_dsybptYkLLGQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Takeout/Cafe-de-la-Presse-i4cE_iStaRYRqLJ03cfGzw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1206/Restaurant/www.beaulieu.ch/restaurant-cafe-brasserie-beau-soleil> (referer: https://tel.local.ch/en/d/Geneve/1206/Restaurant/Cafe-Brasserie-Beau-Soleil-GjhRhsA1I9vxmDlqed6WZQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/Planet-Caviar-SA-qgeFmNMhznCoGG_V1Dg8-Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Fish-speciality/www.viaroma-ristorante.com/en>
+{'name': '\nRestaurant Via Roma\n', 'tel': '022 301 94 51', 'email': None, 'adress': '\nPlace du Marché 20', 'website': 'www.viaroma-ristorante.com/en'}
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Brewery/Cafe-des-Sources-fa-nko-SU8Vu38fIITb2Vg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1206/Restaurant/www.beaulieu.ch/restaurant-cafe-brasserie-beau-soleil>
+{'name': '\nCafé Brasserie Beau-Soleil\n', 'tel': '022 839 59 95', 'email': None, 'adress': '\nChemin de Beau-Soleil 20', 'website': 'www.beaulieu.ch/restaurant-cafe-brasserie-beau-soleil'}
+2019-05-12 13:47:37 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1202/Speciality-shop/Uchitomi-SA-R06o3fNSKqRHtthhXrOXZQ> from <GET https://tel.local.ch/en/d/Geneve/1205/Sushi/www.sushi.ch>
+2019-05-12 13:47:37 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1201/Hotel/La-Veranda-cM50JjjhBO53ZwrfZfg0gQ> from <GET https://tel.local.ch/en/d/Geneve/1201/Hotel/www.restaurant-veranda.ch>
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/Restaurant-Hungky-5TyR18GnV3AfSiKca9oNvg> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Restaurant-Hungky-5TyR18GnV3AfSiKca9oNvg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Bar/www.elephantdanslacanette.com> (referer: https://tel.local.ch/en/d/Geneve/1205/Bar/lElephant-dans-la-Canette-TxpJGKbgoDWs98F38bI6JA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Corsier-GE/1246/Restaurant/Le-Petit-Lac-ygtszPX6TTLrq-ZbLB6zXw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/Le-Patio-ixgGMs4wC0YybxFmroZWZg?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=8)
+2019-05-12 13:47:37 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chambesy/1292/Restaurant/Relais-de-Chambesy-2-pGwkbYLM-8B-pZy82P6Q?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:37 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Restaurant/Restaurant-Hungky-5TyR18GnV3AfSiKca9oNvg>
+{'name': '\nRestaurant Hungky\n', 'tel': '022 732 20 77', 'email': 'hungky.ch@gmail.com', 'adress': '\nRue Chaponnière 3', 'website': 'www.hungky.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png', 'hungky.ch@gmail.com', 'hungky.ch@gmail.com', 'hungky.ch@gmail.com']}
+2019-05-12 13:47:37 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Bar/www.elephantdanslacanette.com>
+{'name': "\nl'Eléphant dans la Canette\n", 'tel': '022 321 70 70', 'email': 'lacanettesarl@bluewin.ch', 'adress': '\nAvenue du Mail 18', 'website': 'www.elephantdanslacanette.com'}
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Bar/Voisins-Coworking-Cafe-yOvAMsolKTc1jKG5XMNTBA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Puplinge/1241/Italian-cuisine/Cheval-Blanc-YRzZmRwNqmM4hq4xUNJ05A?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Cafe-restaurant-O5-Zh1HdDvZXgFxzId4pP0eZw?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Satigny/1242/Restaurant/Cafe-de-Peney-vvHwHoyGFs2HRIgUNrA1ZA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Cafe-des-Negociants-1t3po-VJCqlnS9j8DF6f_g?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Puplinge/1241/Italian-cuisine/Cheval-Blanc-YRzZmRwNqmM4hq4xUNJ05A?dwhat=Restaurant&dwhere=Geneve>
+{'name': '\nCheval Blanc\n', 'tel': '022 349 48 14', 'email': None, 'adress': '\nRue de Graman 12', 'website': None, 'possible_email': None}
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Mont-Saleve-Le-specialiste-de-lentrecote-U4S62GTdz2usUBY_PXD3ow?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1201/Hotel/La-Veranda-cM50JjjhBO53ZwrfZfg0gQ> (referer: https://tel.local.ch/en/d/Geneve/1201/Hotel/La-Veranda-cM50JjjhBO53ZwrfZfg0gQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/q/Geneve/Restaurant.html?page=10> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Geneve/1205/Takeout/Cafe-de-la-Presse-i4cE_iStaRYRqLJ03cfGzw> from <GET https://tel.local.ch/en/d/Geneve/1205/Takeout/www.pubdelapresse.ch>
+2019-05-12 13:47:38 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1201/Hotel/La-Veranda-cM50JjjhBO53ZwrfZfg0gQ>
+{'name': '\nLa Veranda\n', 'tel': '022 906 97 79', 'email': None, 'adress': '\nRue Des Alpes 20', 'website': 'www.restaurant-veranda.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Chene-Bougeries/1224/Brewery/Brasserie-O-TroisChene-Tf1xwwtVOphL3WJS5M4k5g?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Hermance/1248/Hotel/Auberge-dHermance-k8t97q_0zOImqEtlTpswUA?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Meyrin/1217/Pizzeria/Restaurant-Pizzeria-de-la-Place-PreCvmkmPQRTkzFpKf4ynQ?dwhat=Restaurant&dwhere=Geneve> (referer: https://tel.local.ch/en/q/Geneve/Restaurant.html?page=9)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.lerichemond.com/fr/restaurant-le-jardin> (referer: https://tel.local.ch/en/d/Geneve/1201/Restaurant/Le-Jardin-Hotel-Le-Richemond-OkJaz68eJclyoJ2mQj8y9A?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.planetcaviar.com> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/Planet-Caviar-SA-qgeFmNMhznCoGG_V1Dg8-Q?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1201/Restaurant/www.lerichemond.com/fr/restaurant-le-jardin>
+{'name': '\nLe Jardin, Hôtel Le Richemond\n', 'tel': '022 715 71 00', 'email': 'lejardin@lerichemond.com', 'adress': '\nRue Adhémar-Fabri 8-10', 'website': 'www.lerichemond.com/fr/restaurant-le-jardin'}
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Chambesy/1292/Restaurant/www.relaisdechambesy.ch> (referer: https://tel.local.ch/en/d/Chambesy/1292/Restaurant/Relais-de-Chambesy-2-pGwkbYLM-8B-pZy82P6Q?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:38 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1205/Brewery/www.cafedesources.ch> (referer: https://tel.local.ch/en/d/Geneve/1205/Brewery/Cafe-des-Sources-fa-nko-SU8Vu38fIITb2Vg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:38 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.planetcaviar.com>
+{'name': '\nPlanet Caviar SA\n', 'tel': '022 840 40 85', 'email': 'planet@planetcaviar.com', 'adress': '\nRue Louis-Duchosal 7', 'website': 'www.planetcaviar.com'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Chambesy/1292/Restaurant/www.relaisdechambesy.ch>
+{'name': '\nRelais de Chambésy\n', 'tel': '022 758 11 05', 'email': 'info@relaisdechambesy.ch', 'adress': '\nPlace de Chambésy 8', 'website': 'www.relaisdechambesy.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Grand-Lancy/1212/Public-transport/TPG-Transports-publics-genevois-GAcDKJDvmGXzgUtTOvTmwg> from <GET https://tel.local.ch/en/d/Geneve/1205/Bar/www.voisins.ch>
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1205/Brewery/www.cafedesources.ch>
+{'name': '\nCafé des Sources\n', 'tel': '022 320 67 98', 'email': None, 'adress': '\nRue des Sources 8', 'website': 'www.cafedesources.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Satigny/1242/Restaurant/www.cafedepeney.ch> (referer: https://tel.local.ch/en/d/Satigny/1242/Restaurant/Cafe-de-Peney-vvHwHoyGFs2HRIgUNrA1ZA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Corsier-GE/1246/Restaurant/www.lepetitlac.ch> (referer: https://tel.local.ch/en/d/Corsier-GE/1246/Restaurant/Le-Petit-Lac-ygtszPX6TTLrq-ZbLB6zXw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Satigny/1242/Restaurant/www.cafedepeney.ch>
+{'name': '\nCafé de Peney\n', 'tel': '022 753 17 55', 'email': None, 'adress': "\nRoute d'Aire-la-Ville 130", 'website': 'www.cafedepeney.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Corsier-GE/1246/Restaurant/www.lepetitlac.ch>
+{'name': '\nLe Petit Lac\n', 'tel': '022 751 11 44', 'email': None, 'adress': '\nQuai de Corsier 14', 'website': 'www.lepetitlac.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Geneve/1205/Takeout/Cafe-de-la-Presse-i4cE_iStaRYRqLJ03cfGzw> (referer: https://tel.local.ch/en/d/Geneve/1205/Takeout/Cafe-de-la-Presse-i4cE_iStaRYRqLJ03cfGzw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Redirecting (301) to <GET https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Mont-Saleve-Le-specialiste-de-lentrecote-U4S62GTdz2usUBY_PXD3ow> from <GET https://tel.local.ch/en/d/Veyrier/1255/Restaurant/www.lemontsaleve.ch>
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Geneve/1205/Takeout/Cafe-de-la-Presse-i4cE_iStaRYRqLJ03cfGzw>
+{'name': '\nCafé de la Presse\n', 'tel': '022 320 62 99', 'email': None, 'adress': '\nBoulevard de Saint-Georges 62', 'website': 'www.pubdelapresse.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/www.foyer-handicap.ch> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Cafe-restaurant-O5-Zh1HdDvZXgFxzId4pP0eZw?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.lepatio-restaurant.ch/fr> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/Le-Patio-ixgGMs4wC0YybxFmroZWZg?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/www.foyer-handicap.ch>
+{'name': '\nCafé-restaurant Ô5\n', 'tel': '022 309 11 05', 'email': 'resto5@label-fh.ch', 'adress': '\nRue des Caroubiers 5', 'website': 'www.foyer-handicap.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/www.negociants.ch> (referer: https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/Cafe-des-Negociants-1t3po-VJCqlnS9j8DF6f_g?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Chene-Bougeries/1224/Brewery/www.otroischene.ch> (referer: https://tel.local.ch/en/d/Chene-Bougeries/1224/Brewery/Brasserie-O-TroisChene-Tf1xwwtVOphL3WJS5M4k5g?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Grand-Lancy/1212/Public-transport/TPG-Transports-publics-genevois-GAcDKJDvmGXzgUtTOvTmwg> (referer: https://tel.local.ch/en/d/Geneve/1205/Bar/Voisins-Coworking-Cafe-yOvAMsolKTc1jKG5XMNTBA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/www.lepatio-restaurant.ch/fr>
+{'name': '\nLe Patio\n', 'tel': '022 736 66 75', 'email': 'info@lepatiorestaurant.ch', 'adress': '\nBoulevard Helvétique 19', 'website': 'www.lepatio-restaurant.ch/fr'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Geneve/1207/Restaurant/halle-de-rive.com/bistrot-des-halles-de-rive> (referer: https://tel.local.ch/en/d/Geneve/1207/Restaurant/Halle-de-Rive-TxCDxbrsQ_dsybptYkLLGQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Carouge-GE/1227/Restaurant/www.negociants.ch>
+{'name': '\nCafé des Négociants\n', 'tel': '022 300 31 30', 'email': None, 'adress': '\nRue de la Filature 29', 'website': 'www.negociants.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Chene-Bougeries/1224/Brewery/www.otroischene.ch>
+{'name': '\nBrasserie Ô TroisChêne\n', 'tel': '022 348 76 15', 'email': None, 'adress': '\nChemin De-LA-MONTAGNE 136', 'website': 'www.otroischene.ch'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Grand-Lancy/1212/Public-transport/TPG-Transports-publics-genevois-GAcDKJDvmGXzgUtTOvTmwg>
+{'name': '\nVoisins Coworking Café\n', 'tel': '022 735 24 27', 'email': None, 'adress': '\nRue des Voisins 8', 'website': 'www.voisins.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Geneve/1207/Restaurant/halle-de-rive.com/bistrot-des-halles-de-rive>
+{'name': '\nHalle de Rive\n', 'tel': '022 736 48 76', 'email': None, 'adress': '\nBoulevard Helvétique 29', 'website': 'halle-de-rive.com/bistrot-des-halles-de-rive'}
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Hermance/1248/Hotel/www.hotel-hermance.ch> (referer: https://tel.local.ch/en/d/Hermance/1248/Hotel/Auberge-dHermance-k8t97q_0zOImqEtlTpswUA?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Crawled (200) <GET https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Mont-Saleve-Le-specialiste-de-lentrecote-U4S62GTdz2usUBY_PXD3ow> (referer: https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Mont-Saleve-Le-specialiste-de-lentrecote-U4S62GTdz2usUBY_PXD3ow?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:39 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Hermance/1248/Hotel/www.hotel-hermance.ch>
+{'name': "\nAuberge d'Hermance\n", 'tel': '022 751 13 68', 'email': 'info@hotel-hermance.ch', 'adress': '\nRue du Midi 12', 'website': 'www.hotel-hermance.ch'}
+2019-05-12 13:47:40 [scrapy] DEBUG: Scraped from <200 https://tel.local.ch/en/d/Veyrier/1255/Restaurant/Mont-Saleve-Le-specialiste-de-lentrecote-U4S62GTdz2usUBY_PXD3ow>
+{'name': "\nMont Salève Le spécialiste de l'entrecôte\n", 'tel': '022 784 17 12', 'email': None, 'adress': "\nPlace de l'Eglise 31", 'website': 'www.lemontsaleve.ch', 'possible_email': ['local_logo_en@2x-a9ce6ca47a06f657ffb15c0d2d998c914dda6336ee477b4bd87f56a4252fce34.png']}
+2019-05-12 13:47:40 [scrapy] DEBUG: Crawled (410) <GET https://tel.local.ch/en/d/Meyrin/1217/Pizzeria/www.pizzeria-restaurant-laplace.ch> (referer: https://tel.local.ch/en/d/Meyrin/1217/Pizzeria/Restaurant-Pizzeria-de-la-Place-PreCvmkmPQRTkzFpKf4ynQ?dwhat=Restaurant&dwhere=Geneve)
+2019-05-12 13:47:40 [scrapy] DEBUG: Scraped from <410 https://tel.local.ch/en/d/Meyrin/1217/Pizzeria/www.pizzeria-restaurant-laplace.ch>
+{'name': '\nRestaurant Pizzeria de la Place\n', 'tel': '022 782 66 08', 'email': None, 'adress': '\nRoute de Meyrin 286', 'website': 'www.pizzeria-restaurant-laplace.ch'}
+2019-05-12 13:47:40 [scrapy] INFO: Closing spider (finished)
+2019-05-12 13:47:40 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 186655,
+ 'downloader/request_count': 195,
+ 'downloader/request_method_count/GET': 195,
+ 'downloader/response_bytes': 2329729,
+ 'downloader/response_count': 195,
+ 'downloader/response_status_count/200': 111,
+ 'downloader/response_status_count/301': 14,
+ 'downloader/response_status_count/410': 70,
+ 'dupefilter/filtered': 6,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 5, 12, 11, 47, 40, 317308),
+ 'item_scraped_count': 84,
+ 'log_count/DEBUG': 280,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 10,
+ 'response_received_count': 181,
+ 'scheduler/dequeued': 194,
+ 'scheduler/dequeued/memory': 194,
+ 'scheduler/enqueued': 194,
+ 'scheduler/enqueued/memory': 194,
+ 'start_time': datetime.datetime(2019, 5, 12, 11, 47, 24, 517667)}
+2019-05-12 13:47:40 [scrapy] INFO: Spider closed (finished)
